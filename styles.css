@@ -14,7 +14,10 @@
   outline: 2px solid #0066cc;
   outline-offset: 4px;
 }
-
+h1 {
+  background-color: crimson;
+  padding: 0.5rem;
+}
 h1,
 #search-tab {
   text-align: center;
@@ -34,4 +37,15 @@ h1,
 }
 #search-button {
   background-color: skyblue;
+}
+#sidebar {
+  position: -webkit-sticky;
+  position: sticky;
+  left: 0;
+  display: none;
+}
+#today,
+#word-of-the-day,
+#alphabetical {
+  margin-bottom: 1.5rem;
 }
