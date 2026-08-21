@@ -16,5 +16,19 @@
     "month10": { "en": "October", "swa": "Inyoni" },
     "month11": { "en": "November", "swa": "Lweti" },
     "month12": { "en": "December", "swa": "Ingongoni" }
+  },
+  {
+    "numbers": [
+      { "en": "One", "swa": "Kunye" },
+      { "en": "Two", "swa": "Kubili" },
+      { "en": "Three", "swa": "Kutsatfu" },
+      { "en": "Four", "swa": "Kune" },
+      { "en": "Five", "swa": "Kuhlanu" },
+      { "en": "Six", "swa": "Kusitfupha" },
+      { "en": "Seven", "swa": "Kusikhombisa" },
+      { "en": "Eight", "swa": "Kusiphohlongo" },
+      { "en": "Nine", "swa": "Kuyimfica" },
+      { "en": "Ten", "swa": "Kulishumi" }
+    ]
   }
 ]
