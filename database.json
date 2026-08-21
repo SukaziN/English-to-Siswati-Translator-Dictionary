@@ -4,18 +4,20 @@
     "greeting": { "en": "Good day", "swa": "Sawubona" }
   },
   {
-    "month1": { "en": "January", "swa": "Bhimbidvwane" },
-    "month2": { "en": "February", "swa": "Indlovana" },
-    "month3": { "en": "March", "swa": "Indlov'lenkhulu" },
-    "month4": { "en": "April", "swa": "Mabasa" },
-    "Month5": { "en": "May", "swa": "Inkhwekhweti" },
-    "month6": { "en": "June", "swa": "Inhlaba" },
-    "month7": { "en": "July", "swa": "Kholwane" },
-    "month8": { "en": "August", "swa": "Ingci" },
-    "month9": { "en": "September", "swa": "Inyeti" },
-    "month10": { "en": "October", "swa": "Inyoni" },
-    "month11": { "en": "November", "swa": "Lweti" },
-    "month12": { "en": "December", "swa": "Ingongoni" }
+    "months": [
+      { "en": "January", "swa": "Bhimbidvwane" },
+      { "en": "February", "swa": "Indlovana" },
+      { "en": "March", "swa": "Indlov'lenkhulu" },
+      { "en": "April", "swa": "Mabasa" },
+      { "en": "May", "swa": "Inkhwekhweti" },
+      { "en": "June", "swa": "Inhlaba" },
+      { "en": "July", "swa": "Kholwane" },
+      { "en": "August", "swa": "Ingci" },
+      { "en": "September", "swa": "Inyeti" },
+      { "en": "October", "swa": "Inyoni" },
+      { "en": "November", "swa": "Lweti" },
+      { "en": "December", "swa": "Ingongoni" }
+    ]
   },
   {
     "numbers": [
