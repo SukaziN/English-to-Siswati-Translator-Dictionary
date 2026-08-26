@@ -10,4 +10,4 @@ fetch("database.json")
       singleNumber.querySelector(".one-swati").textContent = number.swa;
       numberList.appendChild(singleNumber); //this didn't render the number translation on the page. Possibly because the cloned li element is nested in a ul element, might require some drilling?
     });
-  });
+  }); //eliminate the template element completely and use a div element with display none as its styling and try again
