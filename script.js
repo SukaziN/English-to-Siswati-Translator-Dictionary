@@ -1,3 +1,4 @@
+const numberList = document.getElementById("number-list");
 const template = document.getElementById("learn-siswati");
 
 fetch("database.json")
