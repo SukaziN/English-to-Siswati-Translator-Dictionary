@@ -5,5 +5,7 @@ fetch("database.json")
   .then((data) => {
     data.numbers.forEach((number) => {
       const singleNumber = template.contentEditable.cloneNode(true);
+      singleNumber.querySelector(".one-english").textContent = number.en;
+      singleNumber.querySelector(".one-swati").textContent = number.swa;
     });
   });
