@@ -102,3 +102,75 @@ function getNumbers() {
   }
 }
 button.addEventListener("click", getNumbers);
+
+/*function getMonths() {
+  const userInput = document.getElementById("search-input");
+  const translate = userInput.value + " : ";
+  switch (userInput.value) {
+    case "January":
+    case "january":
+    case "jan":
+      monthsList.textContent = translate.concat(numbers[0]);
+      break;
+
+    case "February":
+    case "february":
+    case "feb":
+      monthsList.textContent = translate.concat(numbers[1]);
+      break;
+    case "March":
+    case "march":
+    case "mar":
+      monthsList.textContent = translate.concat(numbers[2]);
+      break;
+    case "April":
+    case "april":
+    case "apr":
+      monthsList.textContent = translate.concat(numbers[3]);
+      break;
+    case "May":
+    case "may":
+      monthsList.textContent = translate.concat(numbers[4]);
+      break;
+    case "June":
+    case "june":
+    case "jun":
+      monthsList.textContent = translate.concat(numbers[5]);
+      break;
+    case "July":
+    case "july":
+    case "jul":
+      monthsList.textContent = translate.concat(numbers[6]);
+      break;
+    case "August":
+    case "august":
+    case "aug":
+      monthsList.textContent = translate.concat(numbers[7]);
+      break;
+    case "September":
+    case "september":
+    case "sept":
+      monthsList.textContent = translate.concat(numbers[8]);
+      break;
+    case "October":
+    case "october":
+    case "oct":
+      monthsList.textContent = translate.concat(numbers[9]);
+      break;
+    case "November":
+    case "november":
+    case "nov":
+      monthsList.textContent = translate.concat(numbers[10]);
+      break;
+    case "December":
+    case "december":
+    case "dec":
+      monthsList.textContent = translate.concat(numbers[11]);
+      break;
+    default:
+      numberList.textContent = translate.concat(
+        " is not a valid month! Please fix any typos and search again.",
+      );
+  }
+}
+button.addEventListener("click", getMonths);*/
