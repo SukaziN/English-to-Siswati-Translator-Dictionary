@@ -52,3 +52,16 @@ h1,
 #counting {
   display: none;
 }
+#number-list {
+  line-height: 2rem;
+  text-align: center;
+  font-size: 2rem;
+  background-color: yellow;
+  padding: 1rem 0.5rem;
+  width: fit-content;
+  display: block;
+  margin: 0 auto;
+  border: 1px solid skyblue;
+  border-radius: 1rem;
+  box-shadow: 2px 2px 7px black;
+}
