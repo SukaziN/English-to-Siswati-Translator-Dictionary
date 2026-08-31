@@ -94,6 +94,11 @@ function getNumbers() {
     case "10":
       numberList.textContent = translate.concat(numbers[9]);
       break;
+    default:
+      numberList.textContent = translate.concat(
+        " is not a valid number! Please enter a number between 1 and 10.",
+      );
+      break;
   }
 }
 button.addEventListener("click", getNumbers);
