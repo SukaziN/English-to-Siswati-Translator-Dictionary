@@ -55,33 +55,43 @@ function getNumbers() {
   const translate = userInput.value + " : ";
   switch (userInput.value) {
     case "one":
+    case "1":
       numberList.textContent = translate.concat(numbers[0]);
       break;
     case "two":
+    case "2":
       numberList.textContent = translate.concat(numbers[1]);
       break;
     case "three":
+    case "3":
       numberList.textContent = translate.concat(numbers[2]);
       break;
     case "four":
+    case "4":
       numberList.textContent = translate.concat(numbers[3]);
       break;
     case "five":
+    case "5":
       numberList.textContent = translate.concat(numbers[4]);
       break;
     case "six":
+    case "6":
       numberList.textContent = translate.concat(numbers[5]);
       break;
     case "seven":
+    case "7":
       numberList.textContent = translate.concat(numbers[6]);
       break;
     case "eight":
+    case "8":
       numberList.textContent = translate.concat(numbers[7]);
       break;
     case "nine":
+    case "9":
       numberList.textContent = translate.concat(numbers[8]);
       break;
     case "ten":
+    case "10":
       numberList.textContent = translate.concat(numbers[9]);
       break;
   }
