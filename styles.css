@@ -63,5 +63,5 @@ h1,
   margin: 0 auto;
   border: 1px solid skyblue;
   border-radius: 1rem;
-  box-shadow: 2px 2px 7px black;
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.596);
 }
