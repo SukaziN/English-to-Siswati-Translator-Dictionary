@@ -26,6 +26,7 @@ const numbers = [
   "Kunye",
   "Kubili",
   "Kutsatfu",
+  "Kune",
   "Kuhlanu",
   "Sitfupha",
   "Sikhombisa",
@@ -49,6 +50,40 @@ const months = [
   "Ingongoni",
 ];
 
-function getData() {
+function getNumbers() {
   const userInput = document.getElementById("search-input");
+  const translate = userInput.value + " : ";
+  switch (userInput.value) {
+    case "one":
+      numberList.textContent = translate.concat(numbers[0]);
+      break;
+    case "two":
+      numberList.textContent = translate.concat(numbers[1]);
+      break;
+    case "three":
+      numberList.textContent = translate.concat(numbers[2]);
+      break;
+    case "four":
+      numberList.textContent = translate.concat(numbers[3]);
+      break;
+    case "five":
+      numberList.textContent = translate.concat(numbers[4]);
+      break;
+    case "six":
+      numberList.textContent = translate.concat(numbers[5]);
+      break;
+    case "seven":
+      numberList.textContent = translate.concat(numbers[6]);
+      break;
+    case "eight":
+      numberList.textContent = translate.concat(numbers[7]);
+      break;
+    case "nine":
+      numberList.textContent = translate.concat(numbers[8]);
+      break;
+    case "ten":
+      numberList.textContent = translate.concat(numbers[9]);
+      break;
+  }
 }
+button.addEventListener("click", getNumbers);
