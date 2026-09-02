@@ -52,7 +52,7 @@ h1,
 #counting {
   display: none;
 }
-#output {
+.visible {
   line-height: 2rem;
   text-align: center;
   font-size: 2rem;
