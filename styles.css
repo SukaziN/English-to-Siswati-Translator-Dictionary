@@ -52,7 +52,7 @@ h1,
 #counting {
   display: none;
 }
-#number-list {
+#output {
   line-height: 2rem;
   text-align: center;
   font-size: 2rem;

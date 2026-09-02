@@ -19,8 +19,8 @@ fetch("database.json")
 
 const button = document.getElementById("search-button");
 
-const numberList = document.getElementById("number-list");
-const monthsList = document.getElementById("month-list");
+const output = document.getElementById("output");
+//const monthsList = document.getElementById("month-list");
 
 const numbers = [
   "Kunye",
@@ -50,125 +50,127 @@ const months = [
   "Ingongoni",
 ];
 
-function getNumbers() {
+function getData() {
   const userInput = document.getElementById("search-input");
   const translate = userInput.value + " : ";
   switch (userInput.value) {
     case "one":
     case "1":
-      numberList.textContent = translate.concat(numbers[0]);
+      output.textContent = translate.concat(numbers[0]);
       break;
     case "two":
     case "2":
-      numberList.textContent = translate.concat(numbers[1]);
+      output.textContent = translate.concat(numbers[1]);
       break;
     case "three":
     case "3":
-      numberList.textContent = translate.concat(numbers[2]);
+      output.textContent = translate.concat(numbers[2]);
       break;
     case "four":
     case "4":
-      numberList.textContent = translate.concat(numbers[3]);
+      output.textContent = translate.concat(numbers[3]);
       break;
     case "five":
     case "5":
-      numberList.textContent = translate.concat(numbers[4]);
+      output.textContent = translate.concat(numbers[4]);
       break;
     case "six":
     case "6":
-      numberList.textContent = translate.concat(numbers[5]);
+      output.textContent = translate.concat(numbers[5]);
       break;
     case "seven":
     case "7":
-      numberList.textContent = translate.concat(numbers[6]);
+      output.textContent = translate.concat(numbers[6]);
       break;
     case "eight":
     case "8":
-      numberList.textContent = translate.concat(numbers[7]);
+      output.textContent = translate.concat(numbers[7]);
       break;
     case "nine":
     case "9":
-      numberList.textContent = translate.concat(numbers[8]);
+      output.textContent = translate.concat(numbers[8]);
       break;
     case "ten":
     case "10":
-      numberList.textContent = translate.concat(numbers[9]);
+      output.textContent = translate.concat(numbers[9]);
       break;
-    default:
-      numberList.textContent = translate.concat(
-        " is not a valid number! Please enter a number between 1 and 10.",
-      );
-      break;
-  }
-}
-button.addEventListener("click", getNumbers);
 
-/*function getMonths() {
-  const userInput = document.getElementById("search-input");
-  const translate = userInput.value + " : ";
-  switch (userInput.value) {
     case "January":
     case "january":
     case "jan":
-      monthsList.textContent = translate.concat(numbers[0]);
+      output.textContent = translate.concat(months[0]);
       break;
 
     case "February":
     case "february":
     case "feb":
-      monthsList.textContent = translate.concat(numbers[1]);
+      output.textContent = translate.concat(months[1]);
       break;
     case "March":
     case "march":
     case "mar":
-      monthsList.textContent = translate.concat(numbers[2]);
+      output.textContent = translate.concat(months[2]);
       break;
     case "April":
     case "april":
     case "apr":
-      monthsList.textContent = translate.concat(numbers[3]);
+      output.textContent = translate.concat(months[3]);
       break;
     case "May":
     case "may":
-      monthsList.textContent = translate.concat(numbers[4]);
+      output.textContent = translate.concat(months[4]);
       break;
     case "June":
     case "june":
     case "jun":
-      monthsList.textContent = translate.concat(numbers[5]);
+      output.textContent = translate.concat(months[5]);
       break;
     case "July":
     case "july":
     case "jul":
-      monthsList.textContent = translate.concat(numbers[6]);
+      output.textContent = translate.concat(months[6]);
       break;
     case "August":
     case "august":
     case "aug":
-      monthsList.textContent = translate.concat(numbers[7]);
+      output.textContent = translate.concat(months[7]);
       break;
     case "September":
     case "september":
     case "sept":
-      monthsList.textContent = translate.concat(numbers[8]);
+      output.textContent = translate.concat(months[8]);
       break;
     case "October":
     case "october":
     case "oct":
-      monthsList.textContent = translate.concat(numbers[9]);
+      output.textContent = translate.concat(months[9]);
       break;
     case "November":
     case "november":
     case "nov":
-      monthsList.textContent = translate.concat(numbers[10]);
+      output.textContent = translate.concat(months[10]);
       break;
     case "December":
     case "december":
     case "dec":
-      monthsList.textContent = translate.concat(numbers[11]);
+      output.textContent = translate.concat(months[11]);
       break;
+
     default:
-      numberList.textContent = translate.concat(
+      output.textContent = translate.concat(
+        " is not a valid input! Please enter a number between 1 and 10 or a month of the year in English.",
+      );
+      break;
+  }
+}
+button.addEventListener("click", getData);
+
+/*function getMonths() {
+  const userInput = document.getElementById("search-input");
+  const translate = userInput.value + " : ";
+  switch (userInput.value) {
+    default:
+      monthsList.textContent = translate.concat(
         " is not a valid month! Please fix any typos and search again.",
       );
   }
