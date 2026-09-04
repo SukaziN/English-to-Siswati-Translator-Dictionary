@@ -52,7 +52,7 @@ h1,
 #counting {
   display: none;
 }
-.visible {
+.output {
   line-height: 2rem;
   text-align: center;
   font-size: 2rem;
@@ -64,4 +64,11 @@ h1,
   border: 1px solid skyblue;
   border-radius: 1rem;
   box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.596);
+}
+
+#loading {
+  display: none;
+}
+#error {
+  color: red;
 }

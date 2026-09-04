@@ -10,9 +10,11 @@
     <h1>ENGLISH TO SISWATI TRANSLATOR DICTIONARY</h1>
     <div id="search-tab">
       <input placeholder="Search words here" id="search-input" type="search" />
-      <button type="button" id="search-button">Search</button>
+      <button type="button" id="search-button">Translate</button>
     </div>
-    <div id="output" class="visible"></div>
+    <div id="loading">Searching, please wait...</div>
+    <div id="error"></div>
+    <div id="output"></div>
 
     <section id="sidebar">
       <h2 id="alphabetical">A-Z</h2>
@@ -22,5 +24,5 @@
       <h4>Conversational substitutes</h4>
     </section>
   </body>
-  <script src="script.js"></script>
+  <script src="script.js" defer></script>
 </html>
