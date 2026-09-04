@@ -16,11 +16,12 @@ fetch("database.json")
     });
   }); //eliminate the template element completely and use a div element with display none as its styling and try again
 */
-
+const userInput = document.getElementById("search-input");
 const button = document.getElementById("search-button");
-
 const output = document.getElementById("output");
-//const monthsList = document.getElementById("month-list");
+
+const loadingMessage = document.getElementById("loading");
+const errorMessage = document.getElementById("error");
 
 const numbers = [
   "Kunye",
@@ -50,7 +51,41 @@ const months = [
   "Ingongoni",
 ];
 
-function getData() {
+button.addEventListener("click", () => {
+  const word = userInput.value.trim();
+  if (word) {
+    getDefinition(word);
+  }
+});
+
+async function getDefinition(word) {
+  loadingMessage.style.display = "block"; //make the loading message visible to the user so they know that their request is being processed
+
+  try {
+    const response = await fetch(
+      `https://api.dictionaryapi.dev/api/v2/entries/en/`,
+    ); //sends the HTTP request to the free dictionary API
+
+    if (!response.ok) {
+      throw new Error("Requested word not found. Try another word!"); //conditional returns an error if the requested word is not found
+    }
+    const data = await response.json();
+    const targetData = data[0];
+    const partOfSpeech = targetData.meanings[0].partOfSpeech;
+    const definition = targetData.meanings[0].definitions[0].definition; //extracts the data of the requested word as defined by the api and stores it in variables
+
+    output.innerHTML = `<h2>${targetData.hello}</h2>
+<p><em>(${partOfSpeech})</em></p>
+<p>${definition}</p>`;
+  } catch (err) {
+    //generated new HTML to display the fetched data to the end user
+    errorMessage.innerText = err.message;
+  } finally {
+    loadingMessage.style.display = "none"; //when the word and definition can be displayed to the user, the loading message is then hidden
+  }
+}
+
+/*function getData() {
   const userInput = document.getElementById("search-input");
   const translate = userInput.value + " : ";
   switch (userInput.value) {
@@ -163,7 +198,7 @@ function getData() {
       break;
   }
 }
-button.addEventListener("click", getData);
+button.addEventListener("click", getData);*/
 
 /*function getMonths() {
   const userInput = document.getElementById("search-input");
