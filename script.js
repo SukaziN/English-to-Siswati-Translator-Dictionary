@@ -63,7 +63,7 @@ async function getDefinition(word) {
 
   try {
     const response = await fetch(
-      `https://api.dictionaryapi.dev/api/v2/entries/en/`,
+      `https://api.dictionaryapi.com/api/v2/entries/en/${word}`,
     ); //sends the HTTP request to the free dictionary API
 
     if (!response.ok) {
