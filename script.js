@@ -60,7 +60,7 @@ button.addEventListener("click", () => {
 
 async function getDefinition(word) {
   loadingMessage.style.display = "block"; //make the loading message visible to the user so they know that their request is being processed
-
+  errorMessage.innerText = "";
   try {
     const response = await fetch(
       `https://freedictionaryapi.com/api/v1/entries/en/${word}`,
@@ -70,11 +70,12 @@ async function getDefinition(word) {
       throw new Error("Requested word not found. Try another word!"); //conditional returns an error if the requested word is not found
     }
     const data = await response.json();
-    const targetData = data[0];
-    const partOfSpeech = targetData.meanings[0].partOfSpeech;
-    const definition = targetData.meanings[0].definitions[0].definition; //extracts the data of the requested word as defined by the api and stores it in variables
+    const wordName = data.word;
+    const firstEntry = data.entries[0];
+    const partOfSpeech = firstEntry.partOfSpeech;
+    const definition = firstEntry.senses[0].definition; //extracts the data of the requested word as defined by the api and stores it in variables
 
-    output.innerHTML = `<h2>${targetData.hello}</h2>
+    output.innerHTML = `<h2>${wordName}</h2>
 <p><em>(${partOfSpeech})</em></p>
 <p>${definition}</p>`;
   } catch (err) {
