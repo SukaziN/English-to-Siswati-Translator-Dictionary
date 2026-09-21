@@ -19,6 +19,7 @@ fetch("database.json")
 const userInput = document.getElementById("search-input");
 const button = document.getElementById("search-button");
 const output = document.getElementById("output");
+const swatiOutput = document.getElementById("swati-output");
 
 const loadingMessage = document.getElementById("loading");
 const errorMessage = document.getElementById("error");
@@ -84,131 +85,119 @@ async function getDefinition(word) {
   } finally {
     loadingMessage.style.display = "none"; //when the word and definition can be displayed to the user, the loading message is then hidden
   }
-}
 
-/*function getData() {
-  const userInput = document.getElementById("search-input");
-  const translate = userInput.value + " : ";
-  switch (userInput.value) {
+  const translate = "Swati" + " : ";
+  switch (word) {
     case "one":
     case "1":
-      output.textContent = translate.concat(numbers[0]);
+      swatiOutput.textContent = translate.concat(numbers[0]);
       break;
     case "two":
     case "2":
-      output.textContent = translate.concat(numbers[1]);
+      swatiOutput.textContent = translate.concat(numbers[1]);
       break;
     case "three":
     case "3":
-      output.textContent = translate.concat(numbers[2]);
+      swatiOutput.textContent = translate.concat(numbers[2]);
       break;
     case "four":
     case "4":
-      output.textContent = translate.concat(numbers[3]);
+      swatiOutput.textContent = translate.concat(numbers[3]);
       break;
     case "five":
     case "5":
-      output.textContent = translate.concat(numbers[4]);
+      swatiOutput.textContent = translate.concat(numbers[4]);
       break;
     case "six":
     case "6":
-      output.textContent = translate.concat(numbers[5]);
+      swatiOutput.textContent = translate.concat(numbers[5]);
       break;
     case "seven":
     case "7":
-      output.textContent = translate.concat(numbers[6]);
+      swatiOutput.textContent = translate.concat(numbers[6]);
       break;
     case "eight":
     case "8":
-      output.textContent = translate.concat(numbers[7]);
+      swatiOutput.textContent = translate.concat(numbers[7]);
       break;
     case "nine":
     case "9":
-      output.textContent = translate.concat(numbers[8]);
+      swatiOutput.textContent = translate.concat(numbers[8]);
       break;
     case "ten":
     case "10":
-      output.textContent = translate.concat(numbers[9]);
+      swatiOutput.textContent = translate.concat(numbers[9]);
       break;
 
     case "January":
     case "january":
     case "jan":
-      output.textContent = translate.concat(months[0]);
+      swatiOutput.textContent = translate.concat(months[0]);
       break;
 
     case "February":
     case "february":
     case "feb":
-      output.textContent = translate.concat(months[1]);
+      swatiOutput.textContent = translate.concat(months[1]);
       break;
     case "March":
     case "march":
     case "mar":
-      output.textContent = translate.concat(months[2]);
+      swatiOutput.textContent = translate.concat(months[2]);
       break;
     case "April":
     case "april":
     case "apr":
-      output.textContent = translate.concat(months[3]);
+      swatiOutput.textContent = translate.concat(months[3]);
       break;
     case "May":
     case "may":
-      output.textContent = translate.concat(months[4]);
+      swatiOutput.textContent = translate.concat(months[4]);
       break;
     case "June":
     case "june":
     case "jun":
-      output.textContent = translate.concat(months[5]);
+      swatiOutput.textContent = translate.concat(months[5]);
       break;
     case "July":
     case "july":
     case "jul":
-      output.textContent = translate.concat(months[6]);
+      swatiOutput.textContent = translate.concat(months[6]);
       break;
     case "August":
     case "august":
     case "aug":
-      output.textContent = translate.concat(months[7]);
+      swatiOutput.textContent = translate.concat(months[7]);
       break;
     case "September":
     case "september":
     case "sept":
-      output.textContent = translate.concat(months[8]);
+      swatiOutput.textContent = translate.concat(months[8]);
       break;
     case "October":
     case "october":
     case "oct":
-      output.textContent = translate.concat(months[9]);
+      swatiOutput.textContent = translate.concat(months[9]);
       break;
     case "November":
     case "november":
     case "nov":
-      output.textContent = translate.concat(months[10]);
+      swatiOutput.textContent = translate.concat(months[10]);
       break;
     case "December":
     case "december":
     case "dec":
-      output.textContent = translate.concat(months[11]);
+      swatiOutput.textContent = translate.concat(months[11]);
       break;
 
     default:
-      output.textContent = translate.concat(
-        " is not a valid input! Please enter a number between 1 and 10 or a month of the year in English.",
+      swatiOutput.textContent = translate.concat(
+        "The SiSwati translation of " +
+          "'" +
+          word +
+          "'" +
+          " was not found in our database.",
       );
       break;
   }
 }
-button.addEventListener("click", getData);*/
-
-/*function getMonths() {
-  const userInput = document.getElementById("search-input");
-  const translate = userInput.value + " : ";
-  switch (userInput.value) {
-    default:
-      monthsList.textContent = translate.concat(
-        " is not a valid month! Please fix any typos and search again.",
-      );
-  }
-}
-button.addEventListener("click", getMonths);*/
