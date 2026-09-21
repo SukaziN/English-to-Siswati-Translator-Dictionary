@@ -52,7 +52,8 @@ h1,
 #counting {
   display: none;
 }
-#output {
+#output,
+#swati-output {
   line-height: 2rem;
   text-align: center;
   font-size: 2rem;
