@@ -1,21 +1,3 @@
-/*const numberList = document.getElementById("number-list");
-const template = document.getElementById("counting");
-
-fetch("database.json")
-  .then((response) => response.json())
-  .then((data) => {
-    data.numbers.forEach((number) => {
-      //const singleNumber = template.numberOutputs.cloneNode(true);
-      const singleNumber = template.cloneNode("true");
-      singleNumber.removeAttribute("id"); //prevents node cloning errors because an id can only be used once in html
-      singleNumber.style.display = "block"; //removes the css styling making this element invisible (makes it visible)
-
-      singleNumber.querySelector(".one-english").textContent = number.en;
-      singleNumber.querySelector(".one-swati").textContent = number.swa;
-      numberList.appendChild(singleNumber); //this didn't render the number translation on the page. Possibly because the cloned li element is nested in a ul element, might require some drilling?
-    });
-  }); //eliminate the template element completely and use a div element with display none as its styling and try again
-*/
 const userInput = document.getElementById("search-input");
 const button = document.getElementById("search-button");
 const output = document.getElementById("output");
@@ -77,7 +59,7 @@ async function getDefinition(word) {
     const definition = firstEntry.senses[0].definition; //extracts the data of the requested word as defined by the api and stores it in variables
 
     output.innerHTML = `<h2>${wordName}</h2>
-<p><em>(${partOfSpeech})</em></p>
+<p><em>(${partOfSpeech})</em></p><br>
 <p>${definition}</p>`;
   } catch (err) {
     //generated new HTML to display the fetched data to the end user
