@@ -14,6 +14,9 @@
   outline: 2px solid #0066cc;
   outline-offset: 4px;
 }
+body {
+  background-color: rgb(245, 242, 242);
+}
 h1 {
   background-color: crimson;
   padding: 0.5rem;
@@ -23,6 +26,25 @@ h1,
   text-align: center;
   margin-bottom: 1.5rem;
 }
+#icons {
+  display: flex;
+  justify-content: space-around;
+}
+.icon {
+  width: fit-content;
+  height: fit-content;
+}
+figcaption {
+  font-weight: 600;
+  color: rgb(2, 2, 44);
+}
+hr {
+  margin-bottom: 1.5rem;
+}
+figcaption:hover {
+  cursor: pointer;
+  color: #0066cc;
+}
 #search-input,
 #search-button {
   line-height: 2rem;
@@ -30,19 +52,15 @@ h1,
   padding: 0.5rem;
   border: 1px solid grey;
   border-radius: 1rem;
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  z-index: 100;
 }
 #search-button {
   background-color: skyblue;
 }
-#sidebar {
+#icons {
   position: -webkit-sticky;
   position: sticky;
-  left: 0;
-  display: none;
+  top: 0;
+  z-index: 100;
 }
 #today,
 #word-of-the-day,
