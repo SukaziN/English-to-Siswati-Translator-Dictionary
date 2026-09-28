@@ -195,6 +195,8 @@ async function getDefinition(word) {
 }
 
 async function showDays(day) {
-  for (let i = 0; i < days.length; i++) {}
-  console.log(days);
+  for (let i = 0; i < days.length; i++) {
+    day = days[i];
+    swatiOutput.innerText = day;
+  }
 }
