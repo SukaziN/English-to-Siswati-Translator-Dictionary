@@ -19,6 +19,16 @@ const numbers = [
   "Lishumi",
 ];
 
+const days = [
+  "Umsombuluko",
+  "Lesibili",
+  "Lesitsatfu",
+  "Lesine",
+  "Lesihlanu",
+  "Umgcibelo",
+  "Lisontfo",
+];
+
 const months = [
   "Bhimbidvwane",
   "Indlovana",
@@ -182,4 +192,9 @@ async function getDefinition(word) {
       );
       break;
   }
+}
+
+async function showDays(day) {
+  for (let i = 0; i < days.length; i++) {}
+  console.log(days);
 }
