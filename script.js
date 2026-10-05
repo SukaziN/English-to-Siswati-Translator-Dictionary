@@ -220,3 +220,12 @@ function showMonths(month) {
     }, i * 3000);
   }
 }
+
+function showParts(part) {
+  for (let i = 0; i < part.length; i++) {
+    setTimeout(() => {
+      part = parts[i];
+      swatiOutput.innerText = part;
+    }, i * 3000);
+  }
+}
