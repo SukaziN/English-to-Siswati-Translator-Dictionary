@@ -43,6 +43,7 @@ const months = [
   "Lweti",
   "Ingongoni",
 ];
+const parts = ["Inhloko", "Emahlombe", "Emadvolo", "Tintwane"];
 
 button.addEventListener("click", () => {
   const word = userInput.value.trim();
