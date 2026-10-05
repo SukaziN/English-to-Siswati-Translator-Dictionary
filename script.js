@@ -216,6 +216,6 @@ function showMonths(month) {
     setTimeout(() => {
       month = months[i];
       swatiOutput.innerText = month;
-    }, i * 2500);
+    }, i * 3000);
   }
 }
