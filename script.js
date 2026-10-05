@@ -203,3 +203,11 @@ async function showDays(day) {
     //the loop works fine but the inner text only displays the last day of the week (manipulate loop properly so it shows all the days, one after the other)
   }
 }
+function showNumbers(number) {
+  for (let i = 0; i < numbers.length; i++) {
+    setTimeout(() => {
+      number = numbers[i];
+      swatiOutput.innerText = number;
+    }, i * 2500);
+  }
+}
