@@ -222,7 +222,7 @@ function showMonths(month) {
 }
 
 function showParts(part) {
-  for (let i = 0; i < part.length; i++) {
+  for (let i = 0; i < parts.length; i++) {
     setTimeout(() => {
       part = parts[i];
       swatiOutput.innerText = part;
