@@ -211,3 +211,11 @@ function showNumbers(number) {
     }, i * 2500);
   }
 }
+function showMonths(month) {
+  for (let i = 0; i < months.length; i++) {
+    setTimeout(() => {
+      month = months[i];
+      swatiOutput.innerText = month;
+    }, i * 2500);
+  }
+}
