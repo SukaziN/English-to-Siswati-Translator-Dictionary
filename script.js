@@ -196,8 +196,10 @@ async function getDefinition(word) {
 
 async function showDays(day) {
   for (let i = 0; i < days.length; i++) {
+    setTimeout(() => {
+      day = days[i];
+      swatiOutput.innerText = day;
+    }, i * 2500);
     //the loop works fine but the inner text only displays the last day of the week (manipulate loop properly so it shows all the days, one after the other)
-    day = days[i];
-    swatiOutput.innerText = day;
   }
 }
