@@ -6,6 +6,18 @@ const swatiOutput = document.getElementById("swati-output");
 const loadingMessage = document.getElementById("loading");
 const errorMessage = document.getElementById("error");
 
+const enNumbers = [
+  "One",
+  "Two",
+  "Three",
+  "Four",
+  "Five",
+  "Six",
+  "Seven",
+  "Eight",
+  "Nine",
+  "Ten",
+];
 const numbers = [
   "Kunye",
   "Kubili",
@@ -19,6 +31,15 @@ const numbers = [
   "Lishumi",
 ];
 
+const enDays = [
+  "Monday",
+  "Tuesday",
+  "Wednesday",
+  "Thursday",
+  "Friday",
+  "Saturday",
+  "Sunday",
+];
 const days = [
   "Umsombuluko",
   "Lesibili",
@@ -29,6 +50,20 @@ const days = [
   "Lisontfo",
 ];
 
+const enMonths = [
+  "January",
+  "February",
+  "March",
+  "April",
+  "May",
+  "June",
+  "July",
+  "August",
+  "September",
+  "October",
+  "November",
+  "December",
+];
 const months = [
   "Bhimbidvwane",
   "Indlovana",
@@ -43,6 +78,7 @@ const months = [
   "Lweti",
   "Ingongoni",
 ];
+const enParts = ["Head", "Shoulders", "Knees", "Toes"];
 const parts = ["Inhloko", "Emahlombe", "Emadvolo", "Tintwane"];
 
 button.addEventListener("click", () => {
