@@ -231,27 +231,36 @@ async function getDefinition(word) {
   }
 }
 
-async function showDays(day) {
+function showDays(day) {
   for (let i = 0; i < days.length; i++) {
     setTimeout(() => {
+      let dayEnglish = enDays[i];
       day = days[i];
+
+      output.innerText = dayEnglish;
       swatiOutput.innerText = day;
-    }, i * 2500);
+    }, i * 3000);
     //the loop works fine but the inner text only displays the last day of the week (manipulate loop properly so it shows all the days, one after the other)
   }
 }
 function showNumbers(number) {
   for (let i = 0; i < numbers.length; i++) {
     setTimeout(() => {
+      let numberEnglish = enNumbers[i];
       number = numbers[i];
+
+      output.innerText = numberEnglish;
       swatiOutput.innerText = number;
-    }, i * 2500);
+    }, i * 3000);
   }
 }
 function showMonths(month) {
   for (let i = 0; i < months.length; i++) {
     setTimeout(() => {
+      let monthEnglish = enMonths[i];
       month = months[i];
+
+      output.innerText = monthEnglish;
       swatiOutput.innerText = month;
     }, i * 3000);
   }
@@ -260,7 +269,10 @@ function showMonths(month) {
 function showParts(part) {
   for (let i = 0; i < parts.length; i++) {
     setTimeout(() => {
+      let partsEnglish = enParts[i];
       part = parts[i];
+
+      output.innerText = partsEnglish;
       swatiOutput.innerText = part;
     }, i * 3000);
   }
