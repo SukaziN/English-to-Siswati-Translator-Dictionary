@@ -1,22 +1,3 @@
-/*const fileSystem = require("fs").promises;
-async function findTranslation(swatiWord) {
-  try {
-    const dataText = await fileSystem.readFile("database.json", "utf8");
-    const database = JSON.parse(dataText);
-
-    const translation = database.months.find((mon) => mon.en === swatiWord);
-
-    if (translation) {
-      console.log("Translation found:", translation.swa);
-      return translation;
-    } else {
-      console.log("Translation not found.");
-    }
-  } catch (error) {
-    console.error("Error reading database:", error);
-  }
-}
-findTranslation("February");*/
 async function findTranslation(swatiWord) {
   try {
     const response = await fetch("database.json");
@@ -65,7 +46,7 @@ const numbers = [
   {
     number: "Sikhombisa",
     pronunciation: "see-cko-m+bee-sah",
-    origin: "The pointer finger",
+    origin: "Named after the pointer finger",
   },
   { number: "Siphohlongo", pronunciation: "see-po-hclo-n+go" },
   {
@@ -127,11 +108,11 @@ const months = [
   {
     month: "Indlovana",
     pronunciation: "in-d+low-v+anna",
-    origin: "Signifies a time where elephants are born Eswatini",
+    origin: "Signifies a time where elephants are born ",
   },
   {
-    month: "Indlovulenkhulu",
-    pronunciation: "in-d+low+voo-le-n+koo-loo",
+    month: "Indlovu lenkhulu",
+    pronunciation: "in-d+low+voo_le-n+koo-loo",
     origin: "Elephants are fully grown at this time",
   },
   {
@@ -141,7 +122,7 @@ const months = [
   },
   {
     month: "Inkhwekhweti",
-    pronunciation: "ink-wheh-k+whe-t+ee",
+    pronunciation: "ink-wheh-k+wheh-t+ee",
     origin: "A time for harvest",
   },
   {
@@ -153,7 +134,7 @@ const months = [
   {
     month: "Ingci",
     pronunciation: "in-gcih",
-    origin: "Signifies an ending that brings contentment",
+    origin: "Signifies endings that bring contentment",
   },
   { month: "Inyoni", pronunciation: "in-yoni", origin: "It is bird season" },
   { month: "Imphala", pronunciation: "im-pah-lah", origin: "Springbok season" },
@@ -173,7 +154,7 @@ const parts = [
   { part: "Inhloko", pronunciation: "in-hclo-koh" },
   { part: "Emahlombe", pronunciation: "emma-hclo-m+bay" },
   { part: "Emadvolo", pronunciation: "emma-d+vo-low" },
-  { part: "Tintwane", pronunciation: "t+in=ntd+wa-ne" },
+  { part: "Tintwane", pronunciation: "t+in-ntd+wa-ne" },
 ];
 
 button.addEventListener("click", () => {
@@ -210,118 +191,116 @@ async function getDefinition(word) {
     loadingMessage.style.display = "none"; //when the word and definition can be displayed to the user, the loading message is then hidden
   }
 
-  const translate = "Swati" + " : ";
   switch (word) {
     case "one":
     case "1":
-      swatiOutput.textContent = translate.concat(numbers[0].number);
+      swatiOutput.innerHTML = `<b>${numbers[0].number}</b></br><i>${numbers[0].pronunciation}</i>`;
       break;
     case "two":
     case "2":
-      swatiOutput.textContent = translate.concat(numbers[1].number);
+      swatiOutput.innerHTML = `<b>${numbers[1].number}</b></br><i>${numbers[1].pronunciation}</i>`;
       break;
     case "three":
     case "3":
-      swatiOutput.textContent = translate.concat(numbers[2].number);
+      swatiOutput.innerHTML = `<b>${numbers[2].number}</b></br><i>${numbers[2].pronunciation}</i>`;
       break;
     case "four":
     case "4":
-      swatiOutput.textContent = translate.concat(numbers[3].number);
+      swatiOutput.innerHTML = `<b>${numbers[3].number}</b></br><i>${numbers[3].pronunciation}</i>`;
       break;
     case "five":
     case "5":
-      swatiOutput.textContent = translate.concat(numbers[4].number);
+      swatiOutput.innerHTML = `<b>${numbers[4].number}</b></br><i>${numbers[4].pronunciation}</i>`;
       break;
     case "six":
     case "6":
-      swatiOutput.textContent = translate.concat(numbers[5].number);
+      swatiOutput.innerHTML = `<b>${numbers[5].number}</b></br><i>${numbers[5].pronunciation}</i>`;
       break;
     case "seven":
     case "7":
-      swatiOutput.textContent = translate.concat(numbers[6].number);
+      swatiOutput.innerHTML = `<b>${numbers[6].number}</b></br><i>${numbers[6].pronunciation}</i></br></br><p><small>${numbers[6].origin}</small></p>`;
       break;
     case "eight":
     case "8":
-      swatiOutput.textContent = translate.concat(numbers[7].number);
+      swatiOutput.innerHTML = `<b>${numbers[7].number}</b></br><i>${numbers[7].pronunciation}</i>`;
       break;
     case "nine":
     case "9":
-      swatiOutput.textContent = translate.concat(numbers[8].number);
+      swatiOutput.innerHTML = `<b>${numbers[8].number}</b></br><i>${numbers[8].pronunciation}</i></br></br><p><small>${numbers[8].origin}</small></p>`;
       break;
     case "ten":
     case "10":
-      swatiOutput.textContent = translate.concat(numbers[9].number);
+      swatiOutput.innerHTML = `<b>${numbers[9].number}</b></br><i>${numbers[9].pronunciation}</i>`;
       break;
 
     case "January":
     case "january":
     case "jan":
-      swatiOutput.textContent = translate.concat(months[0].month);
+      swatiOutput.innerHTML = `<b>${months[0].month}</b></br><i>${months[0].pronunciation}</i></br></br><p><small>${months[0].origin}</small></p>`;
       break;
 
     case "February":
     case "february":
     case "feb":
-      swatiOutput.textContent = translate.concat(months[1].month);
+      swatiOutput.innerHTML = `<b>${months[1].month}</b></br><i>${months[1].pronunciation}</i></br></br><p><small>${months[1].origin}</small></p>`;
       break;
     case "March":
     case "march":
     case "mar":
-      swatiOutput.textContent = translate.concat(months[2].month);
+      swatiOutput.innerHTML = `<b>${months[2].month}</b></br><i>${months[2].pronunciation}</i></br></br><p><small>${months[2].origin}</small></p>`;
       break;
     case "April":
     case "april":
     case "apr":
-      swatiOutput.textContent = translate.concat(months[3].month);
+      swatiOutput.innerHTML = `<b>${months[3].month}</b></br><i>${months[3].pronunciation}</i></br></br><p><small>${months[3].origin}</small></p>`;
       break;
     case "May":
     case "may":
-      swatiOutput.textContent = translate.concat(months[4].month);
+      swatiOutput.innerHTML = `<b>${months[4].month}</b></br><i>${months[4].pronunciation}</i></br></br><p><small>${months[4].origin}</small></p>`;
       break;
     case "June":
     case "june":
     case "jun":
-      swatiOutput.textContent = translate.concat(months[5].month);
+      swatiOutput.innerHTML = `<b>${months[5].month}</b></br><i>${months[5].pronunciation}</i></br></br><p><small>${months[5].origin}</small></p>`;
       break;
     case "July":
     case "july":
     case "jul":
-      swatiOutput.textContent = translate.concat(months[6].month);
+      swatiOutput.innerHTML = `<b>${months[6].month}</b></br><i>${months[6].pronunciation}</i>`;
       break;
     case "August":
     case "august":
     case "aug":
-      swatiOutput.textContent = translate.concat(months[7].month);
+      swatiOutput.innerHTML = `<b>${months[7].month}</b></br><i>${months[7].pronunciation}</i></br></br><p><small>${months[7].origin}</small></p>`;
       break;
     case "September":
     case "september":
     case "sept":
-      swatiOutput.textContent = translate.concat(months[8].month);
+      swatiOutput.innerHTML = `<b>${months[8].month}</b></br><i>${months[8].pronunciation}</i></br></br><p><small>${months[8].origin}</small></p>`;
       break;
     case "October":
     case "october":
     case "oct":
-      swatiOutput.textContent = translate.concat(months[9].month);
+      swatiOutput.innerHTML = `<b>${months[9].month}</b></br><i>${months[9].pronunciation}</i></br></br><p><small>${months[9].origin}</small></p>`;
       break;
     case "November":
     case "november":
     case "nov":
-      swatiOutput.textContent = translate.concat(months[10].month);
+      swatiOutput.innerHTML = `<b>${months[10].month}</b></br><i>${months[10].pronunciation}</i></br></br><p><small>${months[10].origin}</small></p>`;
       break;
     case "December":
     case "december":
     case "dec":
-      swatiOutput.textContent = translate.concat(months[11].month);
+      swatiOutput.innerHTML = `<b>${months[11].month}</b></br><i>${months[11].pronunciation}</i></br></br><p><small>${months[11].origin}</small></p>`;
       break;
 
     default:
-      swatiOutput.textContent = translate.concat(
+      swatiOutput.textContent =
         "The SiSwati translation of " +
-          "'" +
-          word +
-          "'" +
-          " was not found in our database.",
-      );
+        "'" +
+        word +
+        "'" +
+        " was not found in our database.";
       break;
   }
 }
@@ -331,9 +310,11 @@ function showDays(day) {
     setTimeout(() => {
       let dayEnglish = enDays[i];
       day = days[i].day;
+      let pronunciation = days[i].pronunciation;
+      let origin = days[i].origin;
 
       output.innerText = dayEnglish;
-      swatiOutput.innerText = day;
+      swatiOutput.innerHTML = `<b>${day}</b></br><i>${pronunciation}</i></br></br><p><small>${origin}</small></p>`;
     }, i * 3000);
     //the loop works fine but the inner text only displays the last day of the week (manipulate loop properly so it shows all the days, one after the other)
   }
@@ -343,9 +324,11 @@ function showNumbers(number) {
     setTimeout(() => {
       let numberEnglish = enNumbers[i];
       number = numbers[i].number;
+      let pronunciation = numbers[i].pronunciation;
+      let origin = numbers[i].origin;
 
       output.innerText = numberEnglish;
-      swatiOutput.innerText = number;
+      swatiOutput.innerHTML = `<b>${number}</b></br><i>${pronunciation}</i></br></br><p><small>${origin}</small></p>`;
     }, i * 3000);
   }
 }
@@ -354,9 +337,11 @@ function showMonths(month) {
     setTimeout(() => {
       let monthEnglish = enMonths[i];
       month = months[i].month;
+      let pronunciation = months[i].pronunciation;
+      let origin = months[i].origin;
 
       output.innerText = monthEnglish;
-      swatiOutput.innerText = month;
+      swatiOutput.innerHTML = `<b>${month}</b></br><i>${pronunciation}</i></br></br><p><small>${origin}</small></p>`;
     }, i * 3000);
   }
 }
@@ -366,9 +351,12 @@ function showParts(part) {
     setTimeout(() => {
       let partsEnglish = enParts[i];
       part = parts[i].part;
+      let pronunciation = parts[i].pronunciation;
 
       output.innerText = partsEnglish;
-      swatiOutput.innerText = part;
+      swatiOutput.innerHTML = `<b>${part}</b></br><i>${pronunciation}</i>`;
     }, i * 3000);
   }
 }
+let pronunciation = months[i].pronunciation;
+let origin = months[i].origin;
