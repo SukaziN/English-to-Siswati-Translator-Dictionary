@@ -86,8 +86,16 @@ async function findTranslation(swatiWord){
   try{
     const dataText = await fs.readFile('database.json', 'utf8');
     const database = JSON.parse(dataText);
-    const translation = database.months.find(mon => mon.swa ===swatiWord);
-    
+
+    const translation = database.months.find(mon => mon.en ===swatiWord);
+
+    if(translation){
+      console.log("Translation found:", translation.swa);
+      return translation;
+    }
+    else{
+      console.log("Translation not found.");
+    }
   }
 }
 
