@@ -99,6 +99,7 @@ async function findTranslation(swatiWord) {
     console.error("Error reading database:", error);
   }
 }
+findTranslation("February");
 
 button.addEventListener("click", () => {
   const word = userInput.value.trim();
