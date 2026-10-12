@@ -1,4 +1,40 @@
-const fileSystem = require("fs").promises;
+/*const fileSystem = require("fs").promises;
+async function findTranslation(swatiWord) {
+  try {
+    const dataText = await fileSystem.readFile("database.json", "utf8");
+    const database = JSON.parse(dataText);
+
+    const translation = database.months.find((mon) => mon.en === swatiWord);
+
+    if (translation) {
+      console.log("Translation found:", translation.swa);
+      return translation;
+    } else {
+      console.log("Translation not found.");
+    }
+  } catch (error) {
+    console.error("Error reading database:", error);
+  }
+}
+findTranslation("February");*/
+async function findTranslation(swatiWord) {
+  try {
+    const response = await fetch("database.json");
+    const database = await response.json();
+    const translation = database.months.find((mon) => mon.en === swatiWord);
+
+    if (translation) {
+      console.log("Translation found:", translation.swa);
+      return translation;
+    } else {
+      console.log("Translation not found.");
+    }
+  } catch (error) {
+    console.error("Error fetching database:", error);
+  }
+}
+findTranslation("February");
+
 const userInput = document.getElementById("search-input");
 const button = document.getElementById("search-button");
 const output = document.getElementById("output");
@@ -81,25 +117,6 @@ const months = [
 ];
 const enParts = ["Head", "Shoulders", "Knees", "Toes"];
 const parts = ["Inhloko", "Emahlombe", "Emadvolo", "Tintwane"];
-
-async function findTranslation(swatiWord) {
-  try {
-    const dataText = await fs.readFile("database.json", "utf8");
-    const database = JSON.parse(dataText);
-
-    const translation = database.months.find((mon) => mon.en === swatiWord);
-
-    if (translation) {
-      console.log("Translation found:", translation.swa);
-      return translation;
-    } else {
-      console.log("Translation not found.");
-    }
-  } catch (error) {
-    console.error("Error reading database:", error);
-  }
-}
-findTranslation("February");
 
 button.addEventListener("click", () => {
   const word = userInput.value.trim();
