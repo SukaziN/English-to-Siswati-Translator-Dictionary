@@ -1,3 +1,4 @@
+const fileSystem = require("fs").promises;
 const userInput = document.getElementById("search-input");
 const button = document.getElementById("search-button");
 const output = document.getElementById("output");
@@ -69,7 +70,7 @@ const months = [
   "Indlovana",
   "Indlovulenkhulu",
   "Mabasa",
-  "Inhkwekhweti",
+  "Inkhwekhweti",
   "Inhlaba",
   "Kholwane",
   "Ingci",
