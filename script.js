@@ -82,6 +82,15 @@ const months = [
 const enParts = ["Head", "Shoulders", "Knees", "Toes"];
 const parts = ["Inhloko", "Emahlombe", "Emadvolo", "Tintwane"];
 
+async function findTranslation(swatiWord){
+  try{
+    const dataText = await fs.readFile('database.json', 'utf8');
+    const database = JSON.parse(dataText);
+    const translation = database.months.find(mon => mon.swa ===swatiWord);
+    
+  }
+}
+
 button.addEventListener("click", () => {
   const word = userInput.value.trim();
   if (word) {
