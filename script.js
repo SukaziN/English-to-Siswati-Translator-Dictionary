@@ -214,104 +214,104 @@ async function getDefinition(word) {
   switch (word) {
     case "one":
     case "1":
-      swatiOutput.textContent = translate.concat(numbers[0]);
+      swatiOutput.textContent = translate.concat(numbers[0].number);
       break;
     case "two":
     case "2":
-      swatiOutput.textContent = translate.concat(numbers[1]);
+      swatiOutput.textContent = translate.concat(numbers[1].number);
       break;
     case "three":
     case "3":
-      swatiOutput.textContent = translate.concat(numbers[2]);
+      swatiOutput.textContent = translate.concat(numbers[2].number);
       break;
     case "four":
     case "4":
-      swatiOutput.textContent = translate.concat(numbers[3]);
+      swatiOutput.textContent = translate.concat(numbers[3].number);
       break;
     case "five":
     case "5":
-      swatiOutput.textContent = translate.concat(numbers[4]);
+      swatiOutput.textContent = translate.concat(numbers[4].number);
       break;
     case "six":
     case "6":
-      swatiOutput.textContent = translate.concat(numbers[5]);
+      swatiOutput.textContent = translate.concat(numbers[5].number);
       break;
     case "seven":
     case "7":
-      swatiOutput.textContent = translate.concat(numbers[6]);
+      swatiOutput.textContent = translate.concat(numbers[6].number);
       break;
     case "eight":
     case "8":
-      swatiOutput.textContent = translate.concat(numbers[7]);
+      swatiOutput.textContent = translate.concat(numbers[7].number);
       break;
     case "nine":
     case "9":
-      swatiOutput.textContent = translate.concat(numbers[8]);
+      swatiOutput.textContent = translate.concat(numbers[8].number);
       break;
     case "ten":
     case "10":
-      swatiOutput.textContent = translate.concat(numbers[9]);
+      swatiOutput.textContent = translate.concat(numbers[9].number);
       break;
 
     case "January":
     case "january":
     case "jan":
-      swatiOutput.textContent = translate.concat(months[0]);
+      swatiOutput.textContent = translate.concat(months[0].month);
       break;
 
     case "February":
     case "february":
     case "feb":
-      swatiOutput.textContent = translate.concat(months[1]);
+      swatiOutput.textContent = translate.concat(months[1].month);
       break;
     case "March":
     case "march":
     case "mar":
-      swatiOutput.textContent = translate.concat(months[2]);
+      swatiOutput.textContent = translate.concat(months[2].month);
       break;
     case "April":
     case "april":
     case "apr":
-      swatiOutput.textContent = translate.concat(months[3]);
+      swatiOutput.textContent = translate.concat(months[3].month);
       break;
     case "May":
     case "may":
-      swatiOutput.textContent = translate.concat(months[4]);
+      swatiOutput.textContent = translate.concat(months[4].month);
       break;
     case "June":
     case "june":
     case "jun":
-      swatiOutput.textContent = translate.concat(months[5]);
+      swatiOutput.textContent = translate.concat(months[5].month);
       break;
     case "July":
     case "july":
     case "jul":
-      swatiOutput.textContent = translate.concat(months[6]);
+      swatiOutput.textContent = translate.concat(months[6].month);
       break;
     case "August":
     case "august":
     case "aug":
-      swatiOutput.textContent = translate.concat(months[7]);
+      swatiOutput.textContent = translate.concat(months[7].month);
       break;
     case "September":
     case "september":
     case "sept":
-      swatiOutput.textContent = translate.concat(months[8]);
+      swatiOutput.textContent = translate.concat(months[8].month);
       break;
     case "October":
     case "october":
     case "oct":
-      swatiOutput.textContent = translate.concat(months[9]);
+      swatiOutput.textContent = translate.concat(months[9].month);
       break;
     case "November":
     case "november":
     case "nov":
-      swatiOutput.textContent = translate.concat(months[10]);
+      swatiOutput.textContent = translate.concat(months[10].month);
       break;
     case "December":
     case "december":
     case "dec":
-      swatiOutput.textContent = translate.concat(months[11]);
+      swatiOutput.textContent = translate.concat(months[11].month);
       break;
 
     default:
@@ -330,7 +330,7 @@ function showDays(day) {
   for (let i = 0; i < days.length; i++) {
     setTimeout(() => {
       let dayEnglish = enDays[i];
-      day = days[i];
+      day = days[i].day;
 
       output.innerText = dayEnglish;
       swatiOutput.innerText = day;
@@ -342,7 +342,7 @@ function showNumbers(number) {
   for (let i = 0; i < numbers.length; i++) {
     setTimeout(() => {
       let numberEnglish = enNumbers[i];
-      number = numbers[i];
+      number = numbers[i].number;
 
       output.innerText = numberEnglish;
       swatiOutput.innerText = number;
@@ -353,7 +353,7 @@ function showMonths(month) {
   for (let i = 0; i < months.length; i++) {
     setTimeout(() => {
       let monthEnglish = enMonths[i];
-      month = months[i];
+      month = months[i].month;
 
       output.innerText = monthEnglish;
       swatiOutput.innerText = month;
@@ -365,7 +365,7 @@ function showParts(part) {
   for (let i = 0; i < parts.length; i++) {
     setTimeout(() => {
       let partsEnglish = enParts[i];
-      part = parts[i];
+      part = parts[i].part;
 
       output.innerText = partsEnglish;
       swatiOutput.innerText = part;
