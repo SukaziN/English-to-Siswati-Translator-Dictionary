@@ -82,20 +82,21 @@ const months = [
 const enParts = ["Head", "Shoulders", "Knees", "Toes"];
 const parts = ["Inhloko", "Emahlombe", "Emadvolo", "Tintwane"];
 
-async function findTranslation(swatiWord){
-  try{
-    const dataText = await fs.readFile('database.json', 'utf8');
+async function findTranslation(swatiWord) {
+  try {
+    const dataText = await fs.readFile("database.json", "utf8");
     const database = JSON.parse(dataText);
 
-    const translation = database.months.find(mon => mon.en ===swatiWord);
+    const translation = database.months.find((mon) => mon.en === swatiWord);
 
-    if(translation){
+    if (translation) {
       console.log("Translation found:", translation.swa);
       return translation;
-    }
-    else{
+    } else {
       console.log("Translation not found.");
     }
+  } catch (error) {
+    console.error("Error reading database:", error);
   }
 }
 
