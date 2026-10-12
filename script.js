@@ -56,16 +56,24 @@ const enNumbers = [
   "Ten",
 ];
 const numbers = [
-  "Kunye",
-  "Kubili",
-  "Kutsatfu",
-  "Kune",
-  "Kuhlanu",
-  "Sitfupha",
-  "Sikhombisa",
-  "Siphohlongo",
-  "Imfica",
-  "Lishumi",
+  { number: "Kunye", pronunciation: "kuh-n-ye" },
+  { number: "Kubili", pronunciation: "kuh-biy-lee" },
+  { number: "Kutsatfu", pronunciation: "kuh-t+sah-t+foo" },
+  { number: "Kune", pronunciation: "kuh-ne" },
+  { number: "Kuhlanu", pronunciation: "kuh-hcla-new" },
+  { number: "Sitfupha", pronunciation: "sit-foo-pah" },
+  {
+    number: "Sikhombisa",
+    pronunciation: "see-cko-m+bee-sah",
+    origin: "The pointer finger",
+  },
+  { number: "Siphohlongo", pronunciation: "see-po-hclo-n+go" },
+  {
+    number: "Imfica",
+    pronunciation: "e-m-fee-c+ah",
+    origin: "Proximity to an end/goal",
+  },
+  { number: "Lishumi", pronunciation: "lee-shoo-me" },
 ];
 
 const enDays = [
@@ -78,13 +86,22 @@ const enDays = [
   "Sunday",
 ];
 const days = [
-  "Umsombuluko",
-  "Lesibili",
-  "Lesitsatfu",
-  "Lesine",
-  "Lesihlanu",
-  "Umgcibelo",
-  "Lisontfo",
+  {
+    day: "Umsombuluko",
+    pronunciation: "oom-soh-m+boo-loo-koh",
+    origin: "The resolve/ conclusive settlement",
+  },
+  { day: "Lesibili", pronunciation: "leh-see-biy-lee" },
+  { day: "Lesitsatfu", pronunciation: "leh-see-t+sah-t+foo" },
+  { day: "Lesine", pronunciation: "leh-see-ne" },
+  { day: "Lesihlanu", pronunciation: "leh-see-hcla-new" },
+  {
+    day: "Umgcibelo",
+    pronunciation: "oom-gcih-bay-low",
+    origin:
+      "meaning last encounter or closure. Derived from this being the designated day for burials",
+  },
+  { day: "Lisontfo", pronunciation: "lee-saun+t+foe", origin: "The cut-off" },
 ];
 
 const enMonths = [
@@ -102,21 +119,62 @@ const enMonths = [
   "December",
 ];
 const months = [
-  "Bhimbidvwane",
-  "Indlovana",
-  "Indlovulenkhulu",
-  "Mabasa",
-  "Inkhwekhweti",
-  "Inhlaba",
-  "Kholwane",
-  "Ingci",
-  "Inyoni",
-  "Imphala",
-  "Lweti",
-  "Ingongoni",
+  {
+    month: "Bhimbidvwane",
+    pronunciation: "beem-bee-d+v+wan-eh",
+    origin: "The month to eat a lot due to abundance of food",
+  },
+  {
+    month: "Indlovana",
+    pronunciation: "in-d+low-v+anna",
+    origin: "Signifies a time where elephants are born Eswatini",
+  },
+  {
+    month: "Indlovulenkhulu",
+    pronunciation: "in-d+low+voo-le-n+koo-loo",
+    origin: "Elephants are fully grown at this time",
+  },
+  {
+    month: "Mabasa",
+    pronunciation: "mah-bah-sah",
+    origin: "Autumn sets in. It is cold and there is need for domestic fire",
+  },
+  {
+    month: "Inkhwekhweti",
+    pronunciation: "ink-wheh-k+whe-t+ee",
+    origin: "A time for harvest",
+  },
+  {
+    month: "Inhlaba",
+    pronunciation: "in-hcla-bah",
+    origin: "Aloe is thriving; soil is more on the dry side",
+  },
+  { month: "Kholwane", pronunciation: "coal-wan-eh" },
+  {
+    month: "Ingci",
+    pronunciation: "in-gcih",
+    origin: "Signifies an ending that brings contentment",
+  },
+  { month: "Inyoni", pronunciation: "in-yoni", origin: "It is bird season" },
+  { month: "Imphala", pronunciation: "im-pah-lah", origin: "Springbok season" },
+  {
+    month: "Lweti",
+    pronunciation: "l+weh-t+ee",
+    origin: "Symbolic of a transitional period",
+  },
+  {
+    month: "Ingongoni",
+    pronunciation: "in+go-n+go-knee",
+    origin: "Buffalo season",
+  },
 ];
 const enParts = ["Head", "Shoulders", "Knees", "Toes"];
-const parts = ["Inhloko", "Emahlombe", "Emadvolo", "Tintwane"];
+const parts = [
+  { part: "Inhloko", pronunciation: "in-hclo-koh" },
+  { part: "Emahlombe", pronunciation: "emma-hclo-m+bay" },
+  { part: "Emadvolo", pronunciation: "emma-d+vo-low" },
+  { part: "Tintwane", pronunciation: "t+in=ntd+wa-ne" },
+];
 
 button.addEventListener("click", () => {
   const word = userInput.value.trim();
