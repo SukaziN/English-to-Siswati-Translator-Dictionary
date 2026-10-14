@@ -1,21 +1,3 @@
-async function findTranslation(swatiWord) {
-  try {
-    const response = await fetch("database.json");
-    const database = await response.json();
-    const translation = database.months.find((mon) => mon.en === swatiWord);
-
-    if (translation) {
-      console.log("Translation found:", translation.swa);
-      return translation;
-    } else {
-      console.log("Translation not found.");
-    }
-  } catch (error) {
-    console.error("Error fetching database:", error);
-  }
-}
-findTranslation("February");
-
 const userInput = document.getElementById("search-input");
 const button = document.getElementById("search-button");
 const output = document.getElementById("output");
@@ -99,7 +81,7 @@ const enMonths = [
   "November",
   "December",
 ];
-const months = [
+/*const months = [
   {
     month: "Bhimbidvwane",
     pronunciation: "beem-bee-d+v+wan-eh",
@@ -148,7 +130,7 @@ const months = [
     pronunciation: "in+go-n+go-knee",
     origin: "Buffalo season",
   },
-];
+];*/
 const enParts = ["Head", "Shoulders", "Knees", "Toes"];
 const parts = [
   { part: "Inhloko", pronunciation: "in-hclo-koh" },
@@ -156,6 +138,27 @@ const parts = [
   { part: "Emadvolo", pronunciation: "emma-d+vo-low" },
   { part: "Tintwane", pronunciation: "t+in-ntd+wa-ne" },
 ];
+
+async function findTranslation(word) {
+  try {
+    const response = await fetch("database.json");
+    const database = await response.json();
+    const translation = database[1].months.find((mon) => mon.en === word);
+
+    if (translation) {
+      console.log("Translation found:", translation.swa);
+      //return translation;
+      swatiOutput.innerHTML = `<h2>${months[0].month}</h2>
+<p><em>(${months[0].pronunciation})</em></p><br>
+<p>${months[0].origin}</p>`;
+    } else {
+      console.log("Translation not found.");
+    }
+  } catch (error) {
+    console.error("Error fetching database:", error);
+  }
+}
+//findTranslation("February");
 
 button.addEventListener("click", () => {
   const word = userInput.value.trim();
@@ -191,7 +194,8 @@ async function getDefinition(word) {
     loadingMessage.style.display = "none"; //when the word and definition can be displayed to the user, the loading message is then hidden
   }
 
-  switch (word) {
+  findTranslation(word);
+  /*switch (word) {
     case "one":
     case "1":
       swatiOutput.innerHTML = `<b>${numbers[0].number}</b></br><i>${numbers[0].pronunciation}</i>`;
@@ -302,7 +306,7 @@ async function getDefinition(word) {
         "'" +
         " was not found in our database.";
       break;
-  }
+  }*/
 }
 
 function showDays(day) {
@@ -358,5 +362,3 @@ function showParts(part) {
     }, i * 3000);
   }
 }
-let pronunciation = months[i].pronunciation;
-let origin = months[i].origin;

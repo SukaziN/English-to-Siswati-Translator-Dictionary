@@ -1,36 +1,148 @@
 [
   {
-    "welcome_message": { "en": "Welcome User", "swa": "Wemukelekile" },
-    "greeting": { "en": "Good day", "swa": "Sawubona" }
-  },
-  {
     "months": [
-      { "en": "January", "swa": "Bhimbidvwane" },
-      { "en": "February", "swa": "Indlovana" },
-      { "en": "March", "swa": "Indlov'lenkhulu" },
-      { "en": "April", "swa": "Mabasa" },
-      { "en": "May", "swa": "Inkhwekhweti" },
-      { "en": "June", "swa": "Inhlaba" },
-      { "en": "July", "swa": "Kholwane" },
-      { "en": "August", "swa": "Ingci" },
-      { "en": "September", "swa": "Inyoni" },
-      { "en": "October", "swa": "Imphala" },
-      { "en": "November", "swa": "Lweti" },
-      { "en": "December", "swa": "Ingongoni" }
+      {
+        "January": {
+          "swa": "Bhimbidvwane",
+          "Pronunciation": "beem-bee-d+v+wan-eh",
+          "origin": "The month to eat a lot due to abundance of food"
+        }
+      },
+      {
+        "February": {
+          "swa": "Indlovana",
+          "Pronunciation": "in-d+low-v+anna",
+          "origin": "Signifies a time where elephants are born"
+        }
+      },
+      {
+        "March": {
+          "swa": "Indlovu lenkhulu",
+          "Pronunciation": "in-d+low+voo_le-n+koo-loo",
+          "origin": "Elephants are fully grown at this time"
+        }
+      },
+      {
+        "April": {
+          "swa": "Mabasa",
+          "Pronunciation": "mah-bah-sah",
+          "origin": "Autumn sets in. It is cold and there is need for domestic fire"
+        }
+      },
+      {
+        "May": {
+          "swa": "Inkhwekhweti",
+          "Pronunciation": "ink-wheh-k+wheh-t+ee",
+          "origin": "A time for harvest"
+        }
+      },
+      {
+        "June": {
+          "swa": "Inhlaba",
+          "Pronunciation": "in-hcla-bah",
+          "origin": "Aloe is thriving; soil is more on the dry side"
+        }
+      },
+      {
+        "July": {
+          "swa": "Kholwane",
+          "Pronunciation": "coal-wan-eh",
+          "origin": ""
+        }
+      },
+      {
+        "August": {
+          "swa": "Ingci",
+          "Pronunciation": "in-gcih",
+          "origin": "Signifies endings that bring contentment"
+        }
+      },
+      {
+        "September": {
+          "swa": "Inyoni",
+          "Pronunciation": "in-yoni",
+          "origin": "It is bird season"
+        }
+      },
+      {
+        "October": {
+          "swa": "Imphala",
+          "Pronunciation": "im-pah-lah",
+          "origin": "Springbok season"
+        }
+      },
+      {
+        "November": {
+          "swa": "Lweti",
+          "Pronunciation": "l+weh-t+ee",
+          "origin": "Symbolic of a transitional period"
+        }
+      },
+      {
+        "December": {
+          "swa": "Ingongoni",
+          "Pronunciation": "in+go-n+go-knee",
+          "origin": "Buffalo season"
+        }
+      }
     ]
   },
   {
     "numbers": [
-      { "en": "One", "swa": "Kunye" },
-      { "en": "Two", "swa": "Kubili" },
-      { "en": "Three", "swa": "Kutsatfu" },
-      { "en": "Four", "swa": "Kune" },
-      { "en": "Five", "swa": "Kuhlanu" },
-      { "en": "Six", "swa": "Kusitfupha" },
-      { "en": "Seven", "swa": "Kusikhombisa" },
-      { "en": "Eight", "swa": "Kusiphohlongo" },
-      { "en": "Nine", "swa": "Kuyimfica" },
-      { "en": "Ten", "swa": "Kulishumi" }
+      { "One": { "swa": "Kunye", "Pronunciation": "kuh-n-ye", "origin": "" } },
+      {
+        "Two": { "swa": "Kubili", "Pronunciation": "kuh-biy-le", "origin": "" }
+      },
+      {
+        "Three": {
+          "swa": "Kutsatfu",
+          "Pronunciation": "kuh-t+sah-t+foo",
+          "origin": ""
+        }
+      },
+      { "Four": { "swa": "Kune", "Pronunciation": "kuh-ne", "origin": "" } },
+      {
+        "Five": {
+          "swa": "Kuhlanu",
+          "Pronunciation": "kuh-hcla-new",
+          "origin": ""
+        }
+      },
+      {
+        "Six": {
+          "swa": "Sitfupha",
+          "Pronunciation": "sit-foo-pah",
+          "origin": ""
+        }
+      },
+      {
+        "Seven": {
+          "swa": "Sikhombisa",
+          "Pronunciation": "see-cko-m+bee-sah",
+          "origin": "Named after the pointer finger"
+        }
+      },
+      {
+        "Eight": {
+          "swa": "Siphohlongo",
+          "Pronunciation": "see-po-hclo-n+go",
+          "origin": ""
+        }
+      },
+      {
+        "Nine": {
+          "swa": "Imfica",
+          "Pronunciation": "e-m-fee-c+ah",
+          "origin": "Proximity to an end/goal"
+        }
+      },
+      {
+        "Ten": {
+          "swa": "Lishumi",
+          "Pronunciation": "lee-shoo-me",
+          "origin": ""
+        }
+      }
     ]
   }
 ]
