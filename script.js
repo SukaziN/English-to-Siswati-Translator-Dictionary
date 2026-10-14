@@ -18,7 +18,7 @@ const enNumbers = [
   "Nine",
   "Ten",
 ];
-const numbers = [
+/*const numbers = [
   { number: "Kunye", pronunciation: "kuh-n-ye" },
   { number: "Kubili", pronunciation: "kuh-biy-lee" },
   { number: "Kutsatfu", pronunciation: "kuh-t+sah-t+foo" },
@@ -37,7 +37,7 @@ const numbers = [
     origin: "Proximity to an end/goal",
   },
   { number: "Lishumi", pronunciation: "lee-shoo-me" },
-];
+];*/
 
 const enDays = [
   "Monday",
@@ -143,22 +143,22 @@ async function findTranslation(word) {
   try {
     const response = await fetch("database.json");
     const database = await response.json();
-    const translation = database[1].months.find((mon) => mon.en === word);
 
-    if (translation) {
-      console.log("Translation found:", translation.swa);
-      //return translation;
-      swatiOutput.innerHTML = `<h2>${months[0].month}</h2>
-<p><em>(${months[0].pronunciation})</em></p><br>
-<p>${months[0].origin}</p>`;
+    const formattedWord =
+      word.charAt(0).toUpperCase() + word.slice(1).toLowerCase(); //so a match is found regardless of how the user chooses to input the word (capitalized first letter or small first letter)
+
+    let translationData = database[0].months.find((mon) => mon[formattedWord]);
+
+    if (translationData) {
+      const data = translationData[formattedWord];
+      swatiOutput.innerHTML = `<h2>${data.swa}</h2><p><em>${data.Pronunciation})</em></p></br><p>${data.origin || ""}</p>`;
     } else {
-      console.log("Translation not found.");
+      swatiOutput.innerHTML = "<p> No siSwati translation found.</p>";
     }
   } catch (error) {
-    console.error("Error fetching database:", error);
+    console.error("Error fetching or parsing database:", error);
   }
 }
-//findTranslation("February");
 
 button.addEventListener("click", () => {
   const word = userInput.value.trim();
