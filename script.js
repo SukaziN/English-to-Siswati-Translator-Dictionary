@@ -6,7 +6,7 @@ const swatiOutput = document.getElementById("swati-output");
 const loadingMessage = document.getElementById("loading");
 const errorMessage = document.getElementById("error");
 
-const enNumbers = [
+/*const enNumbers = [
   "One",
   "Two",
   "Three",
@@ -18,7 +18,7 @@ const enNumbers = [
   "Nine",
   "Ten",
 ];
-/*const numbers = [
+const numbers = [
   { number: "Kunye", pronunciation: "kuh-n-ye" },
   { number: "Kubili", pronunciation: "kuh-biy-lee" },
   { number: "Kutsatfu", pronunciation: "kuh-t+sah-t+foo" },
@@ -37,7 +37,7 @@ const enNumbers = [
     origin: "Proximity to an end/goal",
   },
   { number: "Lishumi", pronunciation: "lee-shoo-me" },
-];*/
+];
 
 const enDays = [
   "Monday",
@@ -80,7 +80,7 @@ const enMonths = [
   "October",
   "November",
   "December",
-];
+];*/
 /*const months = [
   {
     month: "Bhimbidvwane",

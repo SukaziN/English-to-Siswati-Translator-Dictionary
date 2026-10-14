@@ -144,5 +144,293 @@
         }
       }
     ]
+  },
+  {
+    "days": [
+      {
+        "Monday": {
+          "swa": "Umsombuluko",
+          "Pronunciation": "oom-soh-m+boo-loo-koh",
+          "origin": "The resolve/ conclusive settlement"
+        },
+        "Tuesday": {
+          "swa": "Lesibili",
+          "Pronunciation": "leh-see-biy-lee",
+          "origin": ""
+        },
+        "Wednesday": {
+          "swa": "Lesitsatfu",
+          "Pronunciation": "leh-see-t+sah-t+foo",
+          "origin": ""
+        },
+        "Thursday": {
+          "swa": "Lesine",
+          "Pronunciation": "leh-see-ne",
+          "origin": ""
+        },
+        "Friday": {
+          "swa": "Lesihlanu",
+          "Pronunciation": "leh-see-hcla-new",
+          "origin": ""
+        },
+        "Saturday": {
+          "swa": "Umgcibelo",
+          "Pronunciation": "oom-gcih-bay-low",
+          "origin": "meaning last encounter or closure. Derived from this being the designated day for burials"
+        },
+        "Sunday": {
+          "swa": "Lisontfo",
+          "Pronunciation": "lee-saun+t+foe",
+          "origin": "The cut-off"
+        }
+      }
+    ]
+  },
+  {
+    "animals": [
+      {
+        "Domestic": [{ "swa": "", "Pronunciation": "", "origin": "" }],
+        "Wild": [{ "swa": "", "Pronunciation": "", "origin": "" }],
+        "Insects": [{ "swa": "", "Pronunciation": "", "origin": "" }],
+        "Water": [{ "swa": "", "Pronunciation": "", "origin": "" }]
+      }
+    ]
+  },
+  {
+    "anatomy": [
+      {
+        "Head": { "swa": "Inhloko", "Pronunciation": "", "plural": "Tinhloko" },
+        "Hair": { "swa": "Lunwele", "Pronunciation": "", "plural": "Tinwele" },
+        "Forehead": { "swa": "Libunti", "Pronunciation": "", "plural": "" },
+        "Eye": { "swa": "Liso", "Pronunciation": "", "plural": "Emehlo" },
+        "Eyebrow": {
+          "swa": "Lishiya",
+          "Pronunciation": "",
+          "plural": "Emashiya"
+        },
+        "Eyelash": {
+          "swa": "Lukhophe",
+          "Pronunciation": "",
+          "plural": "Tinkhophe"
+        },
+        "Skin": {
+          "swa": "Sikhumba",
+          "Pronunciation": "",
+          "plural": "Tikhumba"
+        },
+        "Cheek": {
+          "swa": "Sihlatsi",
+          "Pronunciation": "",
+          "plural": "Tihlatsi"
+        },
+        "Nose": {
+          "swa": "Imphumulo",
+          "Pronunciation": "",
+          "plural": "Timphumulo"
+        },
+        "Mouth": { "swa": "Umlomo", "Pronunciation": "", "plural": "Imilomo" },
+        "Tooth": {
+          "swa": "Litinyo",
+          "Pronunciation": "",
+          "plural": "Ematinyo"
+        },
+        "Tongue": { "swa": "Lulwimi", "Pronunciation": "", "plural": "" },
+        "Chin": { "swa": "Silevu", "Pronunciation": "", "plural": "Tilevu" },
+        "Jaw": {
+          "swa": "Umhlatsi",
+          "Pronunciation": "",
+          "plural": "Imihlatsi"
+        },
+        "Ear": { "swa": "Indlebe", "Pronunciation": "", "plural": "Tindlebe" },
+        "Neck": { "swa": "Intsamo", "Pronunciation": "", "plural": "Tintsamo" },
+        "Throat": {
+          "swa": "Chochocho",
+          "Pronunciation": "",
+          "plural": "Bochochocho",
+          "synonym": "Umphimbo"
+        },
+        "Shoulder": {
+          "swa": "Lihlombe",
+          "Pronunciation": "",
+          "plural": "Emahlombe"
+        },
+        "Arm": { "swa": "Umkhono", "Pronunciation": "", "plural": "Imikhono" },
+        "Elbow": {
+          "swa": "Ingcosa",
+          "Pronunciation": "",
+          "plural": "Tingcosa"
+        },
+        "Hand": { "swa": "Sandla", "Pronunciation": "", "plural": "Tandla" },
+        "Finger": { "swa": "Umunwe", "Pronunciation": "", "plural": "Iminwe" },
+        "Fingernail": {
+          "swa": "Lugalo",
+          "Pronunciation": "",
+          "plural": "Tingalo"
+        },
+        "Chest": { "swa": "Sifuba", "Pronunciation": "", "plural": "Tifuba" },
+        "Rib": { "swa": "Lubhambo", "Pronunciation": "", "plural": "Timbambo" },
+        "Breast": { "swa": "Libele", "Pronunciation": "", "plural": "Emabele" },
+        "Heart": {
+          "swa": "Inhlitiyo",
+          "Pronunciation": "",
+          "plural": "Tinhlitiyo"
+        },
+        "Lung": {
+          "swa": "Liphaphu",
+          "Pronunciation": "",
+          "plural": "Emaphaphu"
+        },
+        "Liver": {
+          "swa": "Sibindzi",
+          "Pronunciation": "",
+          "plural": "Tibindzi"
+        },
+        "Stomach": { "swa": "Sisu", "Pronunciation": "", "plural": "Tisu" },
+        "Intestine": {
+          "swa": "Litfumbu",
+          "Pronunciation": "",
+          "plural": "Ematfumbu"
+        },
+        "Bile": { "swa": "Inyongo", "Pronunciation": "", "plural": "" },
+        "Navel": { "swa": "Inkhaba", "Pronunciation": "", "plural": "" },
+        "Womb": { "swa": "Sinye", "Pronunciation": "", "plural": "" },
+        "Spine": {
+          "swa": "Umgogodla",
+          "Pronunciation": "",
+          "plural": "Imigogodla"
+        },
+        "Waist": { "swa": "Lukhalo", "Pronunciation": "", "plural": "" },
+        "Buttock": { "swa": "Sibunu", "Pronunciation": "", "plural": "Tibunu" },
+        "Rectum": { "swa": "Induze", "Pronunciation": "", "plural": "" },
+        "vagina": { "swa": "Umdzidzi", "Pronunciation": "", "plural": "" },
+        "Penis": { "swa": "Umpipi", "Pronunciation": "", "plural": "" },
+        "Testicle": {
+          "swa": "Lisendze",
+          "Pronunciation": "",
+          "plural": "Emasendze"
+        },
+        "Pubic hair": { "swa": "Tinta", "Pronunciation": "", "plural": "" },
+        "Thigh": {
+          "swa": "Litsanga",
+          "Pronunciation": "",
+          "plural": "Ematsanga"
+        },
+        "knee": { "swa": "Lidvolo", "Pronunciation": "", "plural": "Emadvolo" },
+        "Leg": { "swa": "Umlente", "Pronunciation": "", "plural": "Imilente" },
+        "Leg muscle": {
+          "swa": "Sicadzala",
+          "Pronunciation": "",
+          "plural": "Ticadzala"
+        },
+        "Ankle": {
+          "swa": "Sihlakala",
+          "Pronunciation": "",
+          "plural": "Tihlakala"
+        },
+        "Foot": { "swa": "Lunyawo", "Pronunciation": "", "plural": "Tinyawo" },
+        "Heel": {
+          "swa": "Sitsendze",
+          "Pronunciation": "",
+          "plural": "Titsendze"
+        },
+        "toe": { "swa": "Lutwane", "Pronunciation": "", "plural": "twane" }
+      }
+    ]
+  },
+  {
+    "idioms": [
+      {
+        "Nail": {
+          "swa": "Kushaya emhlolweni",
+          "meaning": "To hit the nail on the head",
+          "equivalent": ""
+        },
+        "Hand": {
+          "swa": "Kufaka Sandla",
+          "meaning": "To help",
+          "equivalent": ""
+        },
+        "Take": {
+          "swa": "Kudla ngemgobo",
+          "meaning": "To take what does not belong to you forcefully",
+          "equivalent": ""
+        },
+        "Pass": {
+          "swa": "Kwengca ngelihubo",
+          "meaning": "To pass people without greeting or acknowledgement",
+          "equivalent": ""
+        },
+        "Right": {
+          "swa": "Kwenta kona",
+          "meaning": "To do the right thing/ to do something right",
+          "equivalent": ""
+        },
+        "Hope": {
+          "swa": "Kugcina litsemba",
+          "meaning": "To stay hopeful",
+          "equivalent": ""
+        },
+        "Loyal": {
+          "swa": "Kubamba luhlangotsi",
+          "meaning": "To be loyal to a cause",
+          "equivalent": ""
+        },
+        "Danger": {
+          "swa": "Kusengela eluphondvweni",
+          "meaning": "To do something odd/ dangerous",
+          "equivalent": ""
+        },
+        "News": {
+          "swa": "Kumita litje",
+          "meaning": "To keep calm in the face of unpleasant news",
+          "equivalent": ""
+        },
+        "Style": {
+          "swa": "Kudla indvwangu",
+          "meaning": "To dress stylishly or elegantly",
+          "equivalent": ""
+        }
+      }
+    ]
+  },
+  {
+    "formal": [
+      {
+        "Miss": { "swa": "", "Pronunciation": "", "gender": "" },
+        "Mister": { "swa": "", "Pronunciation": "", "gender": "" }
+      }
+    ]
+  },
+  {
+    "alphabetical": [
+      {
+        "A": [{ "swa": "", "Pronunciation": "", "origin": "" }],
+        "B": [{ "swa": "", "Pronunciation": "", "origin": "" }],
+        "C": [{ "swa": "", "Pronunciation": "", "origin": "" }],
+        "D": [{ "swa": "", "Pronunciation": "", "origin": "" }],
+        "E": [{ "swa": "", "Pronunciation": "", "origin": "" }],
+        "F": [{ "swa": "", "Pronunciation": "", "origin": "" }],
+        "G": [{ "swa": "", "Pronunciation": "", "origin": "" }],
+        "H": [{ "swa": "", "Pronunciation": "", "origin": "" }],
+        "I": [{ "swa": "", "Pronunciation": "", "origin": "" }],
+        "J": [{ "swa": "", "Pronunciation": "", "origin": "" }],
+        "K": [{ "swa": "", "Pronunciation": "", "origin": "" }],
+        "L": [{ "swa": "", "Pronunciation": "", "origin": "" }],
+        "M": [{ "swa": "", "Pronunciation": "", "origin": "" }],
+        "N": [{ "swa": "", "Pronunciation": "", "origin": "" }],
+        "O": [{ "swa": "", "Pronunciation": "", "origin": "" }],
+        "P": [{ "swa": "", "Pronunciation": "", "origin": "" }],
+        "Q": [{ "swa": "", "Pronunciation": "", "origin": "" }],
+        "R": [{ "swa": "", "Pronunciation": "", "origin": "" }],
+        "S": [{ "swa": "", "Pronunciation": "", "origin": "" }],
+        "T": [{ "swa": "", "Pronunciation": "", "origin": "" }],
+        "U": [{ "swa": "", "Pronunciation": "", "origin": "" }],
+        "V": [{ "swa": "", "Pronunciation": "", "origin": "" }],
+        "W": [{ "swa": "", "Pronunciation": "", "origin": "" }],
+        "X": [{ "swa": "", "Pronunciation": "", "origin": "" }],
+        "Y": [{ "swa": "", "Pronunciation": "", "origin": "" }],
+        "Z": [{ "swa": "", "Pronunciation": "", "origin": "" }]
+      }
+    ]
   }
 ]
