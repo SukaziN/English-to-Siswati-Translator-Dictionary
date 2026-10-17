@@ -199,141 +199,249 @@
   {
     "anatomy": [
       {
-        "Head": { "swa": "Inhloko", "Pronunciation": "", "plural": "Tinhloko" },
-        "Hair": { "swa": "Lunwele", "Pronunciation": "", "plural": "Tinwele" },
-        "Forehead": { "swa": "Libunti", "Pronunciation": "", "plural": "" },
-        "Eye": { "swa": "Liso", "Pronunciation": "", "plural": "Emehlo" },
+        "Head": {
+          "swa": "Inhloko",
+          "Pronunciation": "in-hclo-koh",
+          "plural": "Tinhloko"
+        },
+        "Hair": {
+          "swa": "Lunwele",
+          "Pronunciation": "loo-n+way-leh",
+          "plural": "Tinwele"
+        },
+        "Forehead": {
+          "swa": "Libunti",
+          "Pronunciation": "lee-b+oo-n+t+ee",
+          "plural": ""
+        },
+        "Eye": { "swa": "Liso", "Pronunciation": "lee-so", "plural": "Emehlo" },
         "Eyebrow": {
           "swa": "Lishiya",
-          "Pronunciation": "",
+          "Pronunciation": "lee-she-yah",
           "plural": "Emashiya"
         },
         "Eyelash": {
           "swa": "Lukhophe",
-          "Pronunciation": "",
+          "Pronunciation": "loo-cop-eh",
           "plural": "Tinkhophe"
         },
         "Skin": {
           "swa": "Sikhumba",
-          "Pronunciation": "",
+          "Pronunciation": "see-coo-m+bah",
           "plural": "Tikhumba"
         },
         "Cheek": {
           "swa": "Sihlatsi",
-          "Pronunciation": "",
+          "Pronunciation": "see-hcla-t+see",
           "plural": "Tihlatsi"
         },
         "Nose": {
           "swa": "Imphumulo",
-          "Pronunciation": "",
+          "Pronunciation": "im-poo-moo-low",
           "plural": "Timphumulo"
         },
-        "Mouth": { "swa": "Umlomo", "Pronunciation": "", "plural": "Imilomo" },
+        "Mouth": {
+          "swa": "Umlomo",
+          "Pronunciation": "oom-low-mo",
+          "plural": "Imilomo"
+        },
         "Tooth": {
           "swa": "Litinyo",
-          "Pronunciation": "",
+          "Pronunciation": "lee-t+ee-new-o",
           "plural": "Ematinyo"
         },
-        "Tongue": { "swa": "Lulwimi", "Pronunciation": "", "plural": "" },
-        "Chin": { "swa": "Silevu", "Pronunciation": "", "plural": "Tilevu" },
+        "Tongue": {
+          "swa": "Lulwimi",
+          "Pronunciation": "loo-l+we-me",
+          "plural": ""
+        },
+        "Chin": {
+          "swa": "Silevu",
+          "Pronunciation": "see-leh-voo",
+          "plural": "Tilevu"
+        },
         "Jaw": {
           "swa": "Umhlatsi",
-          "Pronunciation": "",
+          "Pronunciation": "oom-hcla-t+see",
           "plural": "Imihlatsi"
         },
-        "Ear": { "swa": "Indlebe", "Pronunciation": "", "plural": "Tindlebe" },
-        "Neck": { "swa": "Intsamo", "Pronunciation": "", "plural": "Tintsamo" },
+        "Ear": {
+          "swa": "Indlebe",
+          "Pronunciation": "in-d+leh-bay",
+          "plural": "Tindlebe"
+        },
+        "Neck": {
+          "swa": "Intsamo",
+          "Pronunciation": "in-t+sah-mo",
+          "plural": "Tintsamo"
+        },
         "Throat": {
           "swa": "Chochocho",
-          "Pronunciation": "",
+          "Pronunciation": "c+ho-c+ho-c+ho",
           "plural": "Bochochocho",
           "synonym": "Umphimbo"
         },
         "Shoulder": {
           "swa": "Lihlombe",
-          "Pronunciation": "",
+          "Pronunciation": "lee-hclo-m+bay",
           "plural": "Emahlombe"
         },
-        "Arm": { "swa": "Umkhono", "Pronunciation": "", "plural": "Imikhono" },
+        "Arm": {
+          "swa": "Umkhono",
+          "Pronunciation": "oom-co-no",
+          "plural": "Imikhono"
+        },
         "Elbow": {
           "swa": "Ingcosa",
-          "Pronunciation": "",
+          "Pronunciation": "ing-c+o-sah",
           "plural": "Tingcosa"
         },
-        "Hand": { "swa": "Sandla", "Pronunciation": "", "plural": "Tandla" },
-        "Finger": { "swa": "Umunwe", "Pronunciation": "", "plural": "Iminwe" },
+        "Hand": {
+          "swa": "Sandla",
+          "Pronunciation": "sah-n+d+l+ah",
+          "plural": "Tandla"
+        },
+        "Finger": {
+          "swa": "Umunwe",
+          "Pronunciation": "oom-oo-new-eh",
+          "plural": "Iminwe"
+        },
         "Fingernail": {
           "swa": "Lugalo",
-          "Pronunciation": "",
+          "Pronunciation": "loo-ga-low",
           "plural": "Tingalo"
         },
-        "Chest": { "swa": "Sifuba", "Pronunciation": "", "plural": "Tifuba" },
-        "Rib": { "swa": "Lubhambo", "Pronunciation": "", "plural": "Timbambo" },
-        "Breast": { "swa": "Libele", "Pronunciation": "", "plural": "Emabele" },
+        "Chest": {
+          "swa": "Sifuba",
+          "Pronunciation": "see-foo-bah",
+          "plural": "Tifuba"
+        },
+        "Rib": {
+          "swa": "Lubhambo",
+          "Pronunciation": "loo-bar-m+bow",
+          "plural": "Timbambo"
+        },
+        "Breast": {
+          "swa": "Libele",
+          "Pronunciation": "lee-bay-leh",
+          "plural": "Emabele"
+        },
         "Heart": {
           "swa": "Inhlitiyo",
-          "Pronunciation": "",
+          "Pronunciation": "in-hcl+ee-t+ee-yow",
           "plural": "Tinhlitiyo"
         },
         "Lung": {
           "swa": "Liphaphu",
-          "Pronunciation": "",
+          "Pronunciation": "lee-par-poo",
           "plural": "Emaphaphu"
         },
         "Liver": {
           "swa": "Sibindzi",
-          "Pronunciation": "",
+          "Pronunciation": "see-bih-n+d+z+ee",
           "plural": "Tibindzi"
         },
-        "Stomach": { "swa": "Sisu", "Pronunciation": "", "plural": "Tisu" },
+        "Stomach": {
+          "swa": "Sisu",
+          "Pronunciation": "see-sue",
+          "plural": "Tisu"
+        },
         "Intestine": {
           "swa": "Litfumbu",
-          "Pronunciation": "",
+          "Pronunciation": "lee-t+foo-m+boo",
           "plural": "Ematfumbu"
         },
-        "Bile": { "swa": "Inyongo", "Pronunciation": "", "plural": "" },
-        "Navel": { "swa": "Inkhaba", "Pronunciation": "", "plural": "" },
-        "Womb": { "swa": "Sinye", "Pronunciation": "", "plural": "" },
+        "Bile": {
+          "swa": "Inyongo",
+          "Pronunciation": "in-yow-n+go",
+          "plural": ""
+        },
+        "Navel": {
+          "swa": "Inkhaba",
+          "Pronunciation": "in-car-bah",
+          "plural": ""
+        },
+        "Womb": { "swa": "Sinye", "Pronunciation": "seen-ye", "plural": "" },
         "Spine": {
           "swa": "Umgogodla",
-          "Pronunciation": "",
+          "Pronunciation": "oom-go-go-d+l+ah",
           "plural": "Imigogodla"
         },
-        "Waist": { "swa": "Lukhalo", "Pronunciation": "", "plural": "" },
-        "Buttock": { "swa": "Sibunu", "Pronunciation": "", "plural": "Tibunu" },
-        "Rectum": { "swa": "Induze", "Pronunciation": "", "plural": "" },
-        "vagina": { "swa": "Umdzidzi", "Pronunciation": "", "plural": "" },
-        "Penis": { "swa": "Umpipi", "Pronunciation": "", "plural": "" },
+        "Waist": {
+          "swa": "Lukhalo",
+          "Pronunciation": "loo-car-low",
+          "plural": ""
+        },
+        "Buttock": {
+          "swa": "Sibunu",
+          "Pronunciation": "see-boo-new",
+          "plural": "Tibunu"
+        },
+        "Rectum": {
+          "swa": "Induze",
+          "Pronunciation": "in-do-zay",
+          "plural": ""
+        },
+        "vagina": {
+          "swa": "Umdzidzi",
+          "Pronunciation": "oom-d+zee-d+zee",
+          "plural": ""
+        },
+        "Penis": {
+          "swa": "Umpipi",
+          "Pronunciation": "oom-pee-pee",
+          "plural": ""
+        },
         "Testicle": {
           "swa": "Lisendze",
-          "Pronunciation": "",
+          "Pronunciation": "lee-send-zay",
           "plural": "Emasendze"
         },
-        "Pubic hair": { "swa": "Tinta", "Pronunciation": "", "plural": "" },
+        "Pubic hair": {
+          "swa": "Tinta",
+          "Pronunciation": "tee+n-t+ah",
+          "plural": ""
+        },
         "Thigh": {
           "swa": "Litsanga",
-          "Pronunciation": "",
+          "Pronunciation": "lee-t+sah-n+ga",
           "plural": "Ematsanga"
         },
-        "knee": { "swa": "Lidvolo", "Pronunciation": "", "plural": "Emadvolo" },
-        "Leg": { "swa": "Umlente", "Pronunciation": "", "plural": "Imilente" },
+        "knee": {
+          "swa": "Lidvolo",
+          "Pronunciation": "lee-d+vo-low",
+          "plural": "Emadvolo"
+        },
+        "Leg": {
+          "swa": "Umlente",
+          "Pronunciation": "oom-lay-n+t+eh",
+          "plural": "Imilente"
+        },
         "Leg muscle": {
           "swa": "Sicadzala",
-          "Pronunciation": "",
+          "Pronunciation": "see-c+ah-d+za-lah",
           "plural": "Ticadzala"
         },
         "Ankle": {
           "swa": "Sihlakala",
-          "Pronunciation": "",
+          "Pronunciation": "see-hcla-k+ah-lah",
           "plural": "Tihlakala"
         },
-        "Foot": { "swa": "Lunyawo", "Pronunciation": "", "plural": "Tinyawo" },
+        "Foot": {
+          "swa": "Lunyawo",
+          "Pronunciation": "loo-new+ah-woe",
+          "plural": "Tinyawo"
+        },
         "Heel": {
           "swa": "Sitsendze",
-          "Pronunciation": "",
+          "Pronunciation": "see-t+say-nd+z-eh",
           "plural": "Titsendze"
         },
-        "toe": { "swa": "Lutwane", "Pronunciation": "", "plural": "twane" }
+        "toe": {
+          "swa": "Lutwane",
+          "Pronunciation": "loo-t+wan-eh",
+          "plural": "twane"
+        }
       }
     ]
   },
@@ -404,32 +512,1708 @@
   {
     "alphabetical": [
       {
-        "A": [{ "swa": "", "Pronunciation": "", "origin": "" }],
-        "B": [{ "swa": "", "Pronunciation": "", "origin": "" }],
-        "C": [{ "swa": "", "Pronunciation": "", "origin": "" }],
-        "D": [{ "swa": "", "Pronunciation": "", "origin": "" }],
-        "E": [{ "swa": "", "Pronunciation": "", "origin": "" }],
-        "F": [{ "swa": "", "Pronunciation": "", "origin": "" }],
-        "G": [{ "swa": "", "Pronunciation": "", "origin": "" }],
-        "H": [{ "swa": "", "Pronunciation": "", "origin": "" }],
-        "I": [{ "swa": "", "Pronunciation": "", "origin": "" }],
-        "J": [{ "swa": "", "Pronunciation": "", "origin": "" }],
-        "K": [{ "swa": "", "Pronunciation": "", "origin": "" }],
-        "L": [{ "swa": "", "Pronunciation": "", "origin": "" }],
-        "M": [{ "swa": "", "Pronunciation": "", "origin": "" }],
-        "N": [{ "swa": "", "Pronunciation": "", "origin": "" }],
-        "O": [{ "swa": "", "Pronunciation": "", "origin": "" }],
-        "P": [{ "swa": "", "Pronunciation": "", "origin": "" }],
-        "Q": [{ "swa": "", "Pronunciation": "", "origin": "" }],
-        "R": [{ "swa": "", "Pronunciation": "", "origin": "" }],
-        "S": [{ "swa": "", "Pronunciation": "", "origin": "" }],
-        "T": [{ "swa": "", "Pronunciation": "", "origin": "" }],
-        "U": [{ "swa": "", "Pronunciation": "", "origin": "" }],
-        "V": [{ "swa": "", "Pronunciation": "", "origin": "" }],
-        "W": [{ "swa": "", "Pronunciation": "", "origin": "" }],
-        "X": [{ "swa": "", "Pronunciation": "", "origin": "" }],
-        "Y": [{ "swa": "", "Pronunciation": "", "origin": "" }],
-        "Z": [{ "swa": "", "Pronunciation": "", "origin": "" }]
+        "A": [
+          {
+            "author": { "swa": "", "Pronunciation": "", "origin": "" },
+            "actor": { "swa": "", "Pronunciation": "", "origin": "" }
+          }
+        ],
+        "B": [
+          {
+            "": { "swa": "", "Pronunciation": "", "origin": "" },
+            "author": { "swa": "", "Pronunciation": "", "origin": "" }
+          }
+        ],
+        "C": [
+          {
+            "": { "swa": "", "Pronunciation": "", "origin": "" },
+            "author": { "swa": "", "Pronunciation": "", "origin": "" }
+          }
+        ],
+        "D": [
+          {
+            "": { "swa": "", "Pronunciation": "", "origin": "" },
+            "author": { "swa": "", "Pronunciation": "", "origin": "" }
+          }
+        ],
+        "E": [
+          {
+            "": { "swa": "", "Pronunciation": "", "origin": "" },
+            "author": { "swa": "", "Pronunciation": "", "origin": "" }
+          }
+        ],
+        "F": [
+          {
+            "": { "swa": "", "Pronunciation": "", "origin": "" },
+            "author": { "swa": "", "Pronunciation": "", "origin": "" }
+          }
+        ],
+        "G": [
+          {
+            "": { "swa": "", "Pronunciation": "", "origin": "" },
+            "author": { "swa": "", "Pronunciation": "", "origin": "" }
+          }
+        ],
+        "H": [
+          {
+            "": { "swa": "", "Pronunciation": "", "origin": "" },
+            "author": { "swa": "", "Pronunciation": "", "origin": "" }
+          }
+        ],
+        "I": [
+          {
+            "": { "swa": "", "Pronunciation": "", "origin": "" },
+            "author": { "swa": "", "Pronunciation": "", "origin": "" }
+          }
+        ],
+        "J": [
+          {
+            "": { "swa": "", "Pronunciation": "", "origin": "" },
+            "author": { "swa": "", "Pronunciation": "", "origin": "" }
+          }
+        ],
+        "K": [
+          {
+            "": { "swa": "", "Pronunciation": "", "origin": "" },
+            "author": { "swa": "", "Pronunciation": "", "origin": "" }
+          }
+        ],
+        "L": [
+          {
+            "": { "swa": "", "Pronunciation": "", "origin": "" },
+            "author": { "swa": "", "Pronunciation": "", "origin": "" }
+          }
+        ],
+        "M": [
+          {
+            "": { "swa": "", "Pronunciation": "", "origin": "" },
+            "author": { "swa": "", "Pronunciation": "", "origin": "" }
+          }
+        ],
+        "N": [
+          {
+            "": { "swa": "", "Pronunciation": "", "origin": "" },
+            "author": { "swa": "", "Pronunciation": "", "origin": "" }
+          }
+        ],
+        "O": [
+          {
+            "": { "swa": "", "Pronunciation": "", "origin": "" },
+            "author": { "swa": "", "Pronunciation": "", "origin": "" }
+          }
+        ],
+        "P": [
+          {
+            "": { "swa": "", "Pronunciation": "", "origin": "" },
+            "author": { "swa": "", "Pronunciation": "", "origin": "" }
+          }
+        ],
+        "Q": [
+          {
+            "": { "swa": "", "Pronunciation": "", "origin": "" },
+            "author": { "swa": "", "Pronunciation": "", "origin": "" }
+          }
+        ],
+        "R": [
+          {
+            "": { "swa": "", "Pronunciation": "", "origin": "" },
+            "author": { "swa": "", "Pronunciation": "", "origin": "" }
+          }
+        ],
+        "S": [
+          {
+            "sack": {
+              "swa": "Lisaka",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sag": { "swa": "Lenga", "Pronunciation": "", "partOfSpeech": "" },
+            "Sin": { "swa": "Sono", "Pronunciation": "", "partOfSpeech": "" },
+            "Sing": {
+              "swa": "Hlabela",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Singer": {
+              "swa": "Umhlabeleli",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Singular": {
+              "swa": "Bunye",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sink": { "swa": "Cwila", "Pronunciation": "", "partOfSpeech": "" },
+            "Sinner": {
+              "swa": "Soni",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sip": { "swa": "Habula", "Pronunciation": "", "partOfSpeech": "" },
+            "Sir": {
+              "swa": "Mnumzane",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sister": {
+              "swa": "Dzadze",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sit": { "swa": "Hlala", "Pronunciation": "", "partOfSpeech": "" },
+            "Site": {
+              "swa": "Indawo",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Situation": {
+              "swa": "Simo",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sixteen": {
+              "swa": "Lishumi nesitfupha",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sixty": {
+              "swa": "Emashumi lasitfupha",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Size": {
+              "swa": "Buncane, Bukhulu",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Skeleton": {
+              "swa": "Sipoko matsambo",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sketch": {
+              "swa": "Dvweba",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Skew": {
+              "swa": "-gwegwile, tjekile",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Skilful": {
+              "swa": "Nelikhono",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Skill": {
+              "swa": "likhono",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Skilled": {
+              "swa": "Nelikhono",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Skim": {
+              "swa": "Gijimisa emehlo sakufudza umbhalo",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Skip": { "swa": "Yeca", "Pronunciation": "", "partOfSpeech": "" },
+            "Skirt": {
+              "swa": "Siketi",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Skull": {
+              "swa": "Sikobho",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Skunk": {
+              "swa": "Licaca",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sky": {
+              "swa": "Sibhakabhaka",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Slack": {
+              "swa": "Dzebesela",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Slander": {
+              "swa": "Neka umuntfu ngemanga",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Slam": {
+              "swa": "Ganhlata",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Slant": {
+              "swa": "tjeka",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Slap": {
+              "swa": "Imphama",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Slaughter": {
+              "swa": "Hlaba",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Slaughter-house": {
+              "swa": "Silaha",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Slave": {
+              "swa": "Sigcila",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Slavery": {
+              "swa": "Bugcila",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Slay": { "swa": "Gwaza", "Pronunciation": "", "partOfSpeech": "" },
+            "Sledge": {
+              "swa": "Sihliphi",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sleek": {
+              "swa": "Lalisa",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sleep": {
+              "swa": "Butfongo, lala",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sleepy": {
+              "swa": "-yetela",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sleeve": {
+              "swa": "Umkhono wemphahla",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sleigh": {
+              "swa": "Sihliphi",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Slender": {
+              "swa": "-yondzile",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Slept": {
+              "swa": "-lele",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Slice": {
+              "swa": "Lucetu",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Slide": {
+              "swa": "Kushelela",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Slim": {
+              "swa": "-tondzisa",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Slimy": {
+              "swa": "-busheleleti",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sling": {
+              "swa": "Silingi",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Slip": {
+              "swa": "Shelela",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Slipknot": {
+              "swa": "Sihibe",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Slit": {
+              "swa": "Umchewu",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sliver": {
+              "swa": "Lucetu",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Slobber": {
+              "swa": "Vuta tince",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Slogan": {
+              "swa": "Saga",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Slot": {
+              "swa": "Sikhala",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Slow": {
+              "swa": "Nwabuluka",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sly": { "swa": "licili", "Pronunciation": "", "partOfSpeech": "" },
+            "Small": {
+              "swa": "-ncane",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Smallpox": {
+              "swa": "Lukhwekhwe",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Smart": {
+              "swa": "Hlakaniphile",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Smash": {
+              "swa": "Chobota",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Smear": {
+              "swa": "Gcobisa, Huca",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Smell": {
+              "swa": "Liphunga",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Smile": {
+              "swa": "Moyitela/ mamatseka",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Smoke": {
+              "swa": "Intfutfu",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Smooth": {
+              "swa": "Busheleleti",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Snarl": {
+              "swa": "Kusinata",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Snag": {
+              "swa": "Sikhubekiso",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Snail": {
+              "swa": "Umnenkhe",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Snake": {
+              "swa": "Inyoka",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Snap": {
+              "swa": "Phula",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Snatch": {
+              "swa": "Hlwitsa",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sneak": {
+              "swa": "Nyenya",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sneeze": {
+              "swa": "Thimula",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sniff": {
+              "swa": "Hogela",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sniffle": {
+              "swa": "Huba emafinyila",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Snip": {
+              "swa": "Sika",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Snore": {
+              "swa": "Hona",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Snort": {
+              "swa": "Emafinyela",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Snow": {
+              "swa": "Lichwa",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Snug": {
+              "swa": "Tfokomele",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "So": {
+              "swa": "Pho",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Soak": {
+              "swa": "Yakambisa, Tsambisa",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Soap": {
+              "swa": "Insipho",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Soar": {
+              "swa": "Phaphalata",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sob": {
+              "swa": "Finkhita",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sober": {
+              "swa": "Sangulukile",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Soccer": {
+              "swa": "Ibhola yetinyawo",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Social": {
+              "swa": "Inhlalakahle",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Society": {
+              "swa": "Ummango, Inhlangano",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sock": {
+              "swa": "Lisokisi",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sod": {
+              "swa": "Sidzindzi",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Soft": {
+              "swa": "Tsambile",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Soften": {
+              "swa": "Tsambisa",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Soil": {
+              "swa": "Umhlabatsi",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Solace": {
+              "swa": "Indvudvuto",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Soldier": {
+              "swa": "Lisotja",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Solicit": {
+              "swa": "Ncusa",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Solid": {
+              "swa": "Intfo lecinile, sigadla",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Solitude": {
+              "swa": "Situnge",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Solo": {
+              "swa": "Yedvwa jwi",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Soluble": {
+              "swa": "Ncibilikako",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Solution": {
+              "swa": "Umtanya, Sisombululo",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Solve": {
+              "swa": "Sombulula",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sombre": {
+              "swa": "Dzangele",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Some": {
+              "swa": "Labanye, Letinye, Lokunye",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Somebody": {
+              "swa": "Umuntfu mumbe, Lotsile, mphini",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Somehow": {
+              "swa": "Ngandlela tsite, Ngandlelanye",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Someone": {
+              "swa": "Lokhunja",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Something": {
+              "swa": "Lutfo",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sometimes": {
+              "swa": "Ngaletinye tikhatsi",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Somewhere": {
+              "swa": "Ekutsinitsini",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Son": {
+              "swa": "Indvodzana",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Song": {
+              "swa": "Lihubo, liculo, ingoma",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Soon": {
+              "swa": "Ngekuphutfuma, Masinyane",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Soot": {
+              "swa": "Umule",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Soothe": {
+              "swa": "Dvudvuta, Thulisa",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sophisticated": {
+              "swa": "Nelwati lolujulile",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sorcerer": {
+              "swa": "Umtsakatsi",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sore": {
+              "swa": "Silondza",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sorghum": {
+              "swa": "Emabele",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sorrow": {
+              "swa": "Lusiti",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sorrowful": {
+              "swa": "-lusiti",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sorry": {
+              "swa": "Ncesi",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sort": {
+              "swa": "Beka ngabolonina",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "S.O.S": {
+              "swa": "Inyandzaleyo!",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sough": {
+              "swa": "Hhusha",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sought": {
+              "swa": "Funile, Tfungatsile",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Soul": {
+              "swa": "Umoya, Umphefumulo",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sound": {
+              "swa": "Umsindvo",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Soup": {
+              "swa": "Umsobho",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sour": {
+              "swa": "Munyu",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Source": {
+              "swa": "Sisusa",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "South": {
+              "swa": "iNingizimu",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Southern": {
+              "swa": "UmuNingizimu, BuNingizimu",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Southward": {
+              "swa": "Condze ngaseNingizimu",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Souvinir": {
+              "swa": "Sikhumbuto",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sovereign": {
+              "swa": "Mazibuse",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sovereignty": {
+              "swa": "Bukhosi",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sow": {
+              "swa": "Hlanyela",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sowing time": {
+              "swa": "Sikhatsi sekuhlanyela",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sown": {
+              "swa": "Hlanyeliwe, Hlanyele",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Space": {
+              "swa": "Libanga, Sikhala, Indzawo levulekile",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spacious": {
+              "swa": "Banti, Nendzawo lenyenti",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spade": {
+              "swa": "Lifosholo",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Span": {
+              "swa": "Libanga, Hambisa emehlo ngekucophelela",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spaniard": {
+              "swa": "Umuntfu wekudzabuka eSpain",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spank": {
+              "swa": "Kushaya",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spanking": {
+              "swa": "Kushaywa",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spanner": {
+              "swa": "Sipanela",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spar": {
+              "swa": "Kuvana emandla ngesibhakela",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spare": {
+              "swa": "Sipele",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sparing": {
+              "swa": "Shodako",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spark": {
+              "swa": "Inhlase",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sparkle": {
+              "swa": "Kukhatimula, Kucwebetela",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sparrow": {
+              "swa": "Inyonyana",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sparse": {
+              "swa": "Gcagcene",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spasm": {
+              "swa": "Kudlikita",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spat": {
+              "swa": "Khafuliwe",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spatter": {
+              "swa": "Dzaceka",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spatula": {
+              "swa": "Ingwembe",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spay": {
+              "swa": "Phakula insikati",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Speak": {
+              "swa": "Khuluma",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Speaker": {
+              "swa": "Sikhulumi",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Speaking": {
+              "swa": "Khulumako",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spear": {
+              "swa": "Sikhali",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Special": {
+              "swa": "Khetsekile",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Specialize": {
+              "swa": "Yatiwa ngalokutsite",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Species": {
+              "swa": "Umhlobo tsite",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Specific": {
+              "swa": "Kona ngco",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Specifically": {
+              "swa": "Ngco, Mbamba",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Specification": {
+              "swa": "Inchazelobanti",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Specify": {
+              "swa": "Cacisa kabanti",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Specimen": {
+              "swa": "Infosiboniselo",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Speck": {
+              "swa": "Luhlavana",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Speckled": {
+              "swa": "Mabalabala",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spectacle": {
+              "swa": "Letibukwako",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spectacular": {
+              "swa": "Mangalisako",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spectator": {
+              "swa": "Sibukeli, Sihlwele",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Speculate": {
+              "swa": "Cabangela",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Speculation": {
+              "swa": "Kucabangela",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Speech": {
+              "swa": "Inkhulumo",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Speechless": {
+              "swa": "Phelelwe magama",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Speed": {
+              "swa": "Sivinini, Litubane",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spell": {
+              "swa": "Phimisa ngakunye",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spelling": {
+              "swa": "Kupela",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spend": {
+              "swa": "Sebentisa, Citsa",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sperm": {
+              "swa": "Imbewu",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spew": {
+              "swa": "tjokota",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sphere": {
+              "swa": "Indingilizi",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spice": {
+              "swa": "Sinongo",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spicy": {
+              "swa": "Nongiwe",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spike": {
+              "swa": "Inhlahlabane",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spiky": {
+              "swa": "Yahlabana",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spill": {
+              "swa": "Citsa",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spin": {
+              "swa": "Jikeleta",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spinach": {
+              "swa": "Spinashi",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spinster": {
+              "swa": "Tendza tamushiya",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spirit": {
+              "swa": "Umoya",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spirit burner": {
+              "swa": "Siphefu",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spiritual": {
+              "swa": "Kwemoya",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spit": {
+              "swa": "Ematse, Khafula",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spite": {
+              "swa": "Lunya",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spiteful": {
+              "swa": "Nemagcubu",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Splash": {
+              "swa": "Hlaphata",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Splay": {
+              "swa": "Lubatsa",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Splendour": {
+              "swa": "Buhle lobubabatekako",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Splice": {
+              "swa": "Jobelela",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Splinter": {
+              "swa": "Lucetu lwelukhuni",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Split": {
+              "swa": "Hlukanisa",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Splutter": {
+              "swa": "Saphata",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spoil": {
+              "swa": "Yona, Poyila",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spoke": {
+              "swa": "Khulumile",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sposkesman": {
+              "swa": "Somlomo",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sponge": {
+              "swa": "Sipontji",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sponsor": {
+              "swa": "Yeseka ngekwetimali",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spontaneous": {
+              "swa": "Tentekelako",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spoon": {
+              "swa": "Sipuni",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sport": {
+              "swa": "Umdlalo",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spot": {
+              "swa": "Lichashata",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spotted": {
+              "swa": "Macabhacabha",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spouse": {
+              "swa": "Umshadikazi",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spout": {
+              "swa": "Sitselo",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sprain": {
+              "swa": "Yenyela",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sprawl": {
+              "swa": "Vundla",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spray": {
+              "swa": "chela, fafata",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spread": {
+              "swa": "Sakata",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spring": {
+              "swa": "Intfwasahlobo",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Springbok": {
+              "swa": "Imphala",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sprinkle": {
+              "swa": "Nyenyeta",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sprout": {
+              "swa": "Hluma",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sputum": {
+              "swa": "Sikhwehlela",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Spy": {
+              "swa": "Inhloli",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Squabble": {
+              "swa": "Kuhhwebhana",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Squad": {
+              "swa": "Sikwati",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Squadron": {
+              "swa": "Liviyo",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Squander": {
+              "swa": "Dlabhatisa, Hlaphatisa",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Square": {
+              "swa": "Sikwele",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Squash": {
+              "swa": "Pitjita",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Squat": {
+              "swa": "Coshama",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Squeal": {
+              "swa": "Nswininita",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Squeeze": {
+              "swa": "Hluta",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Squint": {
+              "swa": "Fifiyela",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Squirm": {
+              "swa": "Yobayoba",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Squirt": {
+              "swa": "Ntjaza",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stab": {
+              "swa": "Gwaza",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stability": {
+              "swa": "Kutinta, Kusimama",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stabilize": {
+              "swa": "Simamisa",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stable": {
+              "swa": "Gcilile, Tintile",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stack": {
+              "swa": "Yeleka",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stadium": {
+              "swa": "Inkhundla yetemidlalo",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Staff": {
+              "swa": "Lubhoko, Umzaca, Ludvondvolo, Intfonga",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stage": {
+              "swa": "Sigcawu",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stagger": {
+              "swa": "Yendzetela",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stagnate": {
+              "swa": "Mani ndzawonye",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stain": {
+              "swa": "Umjeje",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stair": {
+              "swa": "Sitebhisi",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stake": {
+              "swa": "Sikhonkwane",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stale": {
+              "swa": "Latile",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stallion": {
+              "swa": "Inkunzi yelihhashi",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stalk": {
+              "swa": "Luhlanga, Kunyonyobela",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stamina": {
+              "swa": "Umfutfo",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stammer": {
+              "swa": "Ngingita",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stammerer": {
+              "swa": "Nemanganga",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stamp": {
+              "swa": "Bambisa",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stand": {
+              "swa": "Mani",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Standard": {
+              "swa": "Lizinga",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stanza": {
+              "swa": "Indzima yenkhondlo",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Staple": {
+              "swa": "Kudla lokusemcoka",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Star": {
+              "swa": "Inkhanyeti",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Starch": {
+              "swa": "Sitashi",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stare": {
+              "swa": "Bukana",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Start": {
+              "swa": "Cala",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Startle": {
+              "swa": "Yetfusa",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Starvation": {
+              "swa": "Indlala",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Starve": {
+              "swa": "Lamba, Lambisa",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "State": {
+              "swa": "Umumo",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Statement": {
+              "swa": "Kulandza, Kusho",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Station": {
+              "swa": "Siteshi",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stationary": {
+              "swa": "Mile",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Statue": {
+              "swa": "Umfanekiso lobatiwe",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Status": {
+              "swa": "Sikhundla, Simo",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stay": {
+              "swa": "Hlala",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stead": {
+              "swa": "Esikhundleni",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Steadfast": {
+              "swa": "Tsembekile",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Steady": {
+              "swa": "Cinile",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Steak": {
+              "swa": "Siteki",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Steal": {
+              "swa": "Yeba",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stealth": {
+              "swa": "Kunyenya",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Steam": {
+              "swa": "Umusi",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Steamer": {
+              "swa": "Sifutfo",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Steel": {
+              "swa": "Insimbi",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Steep": {
+              "swa": "Yewukela",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Shayela": {
+              "swa": "Bambisa",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stem": {
+              "swa": "Luhlanga, Sisusa",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stench": {
+              "swa": "Liphunga lelibi",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Step": {
+              "swa": "Sinyatselo",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Step-child": {
+              "swa": "Tfoliwe",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sterile": {
+              "swa": "Ngatali",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stethoscope": {
+              "swa": "Sipopolo",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stew": {
+              "swa": "Sitjuli",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Steward": {
+              "swa": "Inceku",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stick": {
+              "swa": "Lutsi",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sticky": {
+              "swa": "Namatselako",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stiff": {
+              "swa": "Gongobele",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stigmatize": {
+              "swa": "Bandlulula",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Still": {
+              "swa": "Thulile",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stillborn": {
+              "swa": "Umntfwana lotelwe afile",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stilts": {
+              "swa": "Bongehlenga",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stimulate": {
+              "swa": "Vusa",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Stimulus": {
+              "swa": "Sisusa, Imbangela",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            },
+            "Sting": {
+              "swa": "Sutela",
+              "Pronunciation": "",
+              "partOfSpeech": ""
+            }
+          }
+        ],
+        "T": [
+          {
+            "": { "swa": "", "Pronunciation": "", "origin": "" },
+            "author": { "swa": "", "Pronunciation": "", "origin": "" }
+          }
+        ],
+        "U": [
+          {
+            "": { "swa": "", "Pronunciation": "", "origin": "" },
+            "author": { "swa": "", "Pronunciation": "", "origin": "" }
+          }
+        ],
+        "V": [
+          {
+            "": { "swa": "", "Pronunciation": "", "origin": "" },
+            "author": { "swa": "", "Pronunciation": "", "origin": "" }
+          }
+        ],
+        "W": [
+          {
+            "": { "swa": "", "Pronunciation": "", "origin": "" },
+            "author": { "swa": "", "Pronunciation": "", "origin": "" }
+          }
+        ],
+        "X": [
+          {
+            "": { "swa": "", "Pronunciation": "", "origin": "" },
+            "author": { "swa": "", "Pronunciation": "", "origin": "" }
+          }
+        ],
+        "Y": [
+          {
+            "": { "swa": "", "Pronunciation": "", "origin": "" },
+            "author": { "swa": "", "Pronunciation": "", "origin": "" }
+          }
+        ],
+        "Z": [
+          {
+            "": { "swa": "", "Pronunciation": "", "origin": "" },
+            "author": { "swa": "", "Pronunciation": "", "origin": "" }
+          }
+        ]
       }
     ]
   }
