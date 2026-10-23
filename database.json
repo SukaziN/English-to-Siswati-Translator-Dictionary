@@ -591,1499 +591,2830 @@
             },
             "After": {
               "swa": "Ngemuvakwekutsi",
-              "Pronunciation": "",
+              "Pronunciation": "n+g+eh-moo-va-k+w+eh-k+oo-t+see",
               "origin": ""
             },
             "Agree": {
               "swa": "Vumelana, Vuma",
-              "Pronunciation": "",
+              "Pronunciation": "voo-mah",
               "origin": ""
             },
-            "Air": { "swa": "Umoya", "Pronunciation": "", "origin": "" },
+            "Air": {
+              "swa": "Umoya",
+              "Pronunciation": "oo-mo-yah",
+              "origin": ""
+            },
             "Airplane": {
               "swa": "Indizamshini",
-              "Pronunciation": "",
+              "Pronunciation": "in-dee-za-m+shee-nee",
               "origin": ""
             },
-            "Airport": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Alarm": { "swa": "i-Alamu", "Pronunciation": "", "origin": "" },
+            "Alarm": {
+              "swa": "i-Alamu",
+              "Pronunciation": "e-ah-lah-moo",
+              "origin": ""
+            },
             "Alligator": {
               "swa": "Ingwenya",
-              "Pronunciation": "",
+              "Pronunciation": "in-g+w+eh-n+yah",
               "origin": ""
             },
             "Alphabet": { "swa": "", "Pronunciation": "", "origin": "" },
             "Always": {
               "swa": "Inhlalayenta",
-              "Pronunciation": "",
+              "Pronunciation": "in-hcla-la-year-n+t+ah",
               "origin": ""
             },
             "Ambulance": {
               "swa": "i-Ambulensi",
-              "Pronunciation": "",
+              "Pronunciation": "e-ah-m+boo-le-n+see",
               "origin": ""
             },
             "Anchor": {
               "swa": "Insika, Sisekelo",
-              "Pronunciation": "",
+              "Pronunciation": "in-see-k+ah",
               "origin": ""
             },
-            "Angel": { "swa": "Ingilozi", "Pronunciation": "", "origin": "" },
-            "Angry": { "swa": "Tfukutsele", "Pronunciation": "", "origin": "" },
-            "Animal": { "swa": "Silwane", "Pronunciation": "", "origin": "" },
-            "Ant": { "swa": "Intfutfwane", "Pronunciation": "", "origin": "" },
+            "Angel": {
+              "swa": "Ingilozi",
+              "Pronunciation": "in-g+ee-low-zee",
+              "origin": ""
+            },
+            "Angry": {
+              "swa": "Tfukutsele",
+              "Pronunciation": "t+foo-k+oo-t+say-leh",
+              "origin": ""
+            },
+            "Animal": {
+              "swa": "Silwane",
+              "Pronunciation": "see-l+wan-eh",
+              "origin": ""
+            },
+            "Ant": {
+              "swa": "Intfutfwane",
+              "Pronunciation": "in-t+foo-t+f+wan-eh",
+              "origin": ""
+            },
             "Antelope": {
               "swa": "Lishongololo",
-              "Pronunciation": "",
+              "Pronunciation": "lee-shore-n+go-lore-lore",
               "origin": ""
             },
-            "Apple": { "swa": "Lihhabhula", "Pronunciation": "", "origin": "" },
+            "Apple": {
+              "swa": "Lihhabhula",
+              "Pronunciation": "lee-h+h+ah-boo-lah",
+              "origin": ""
+            },
             "Apricot": {
               "swa": "Li-aprikosi",
-              "Pronunciation": "",
+              "Pronunciation": "lee-apri-k+oh-see",
               "origin": ""
             },
-            "Apron": { "swa": "Sidziya", "Pronunciation": "", "origin": "" },
+            "Apron": {
+              "swa": "Sidvwaba",
+              "Pronunciation": "see-d+v+wah-bah",
+              "origin": ""
+            },
             "Arrow": {
               "swa": "Butjoki, Inkhomba",
-              "Pronunciation": "",
+              "Pronunciation": "in-cko-m+bah",
               "origin": ""
             },
             "Art": { "swa": "", "Pronunciation": "", "origin": "" },
             "Autumn": {
               "swa": "Intfwasabusika",
-              "Pronunciation": "",
+              "Pronunciation": "int-f+wah-sah-b+oo-see-k+ah",
               "origin": ""
             },
             "Avocado": {
               "swa": "Likotapeni",
-              "Pronunciation": "",
+              "Pronunciation": "lee-k+oh-t+ah-p+eh-nee",
               "origin": ""
             },
-            "Awake": { "swa": "Vukile", "Pronunciation": "", "origin": "" },
-            "aware": { "swa": "Nelwati", "Pronunciation": "", "origin": "" },
-            "Alive": { "swa": "Yaphila", "Pronunciation": "", "origin": "" },
+            "Awake": {
+              "swa": "Vukile",
+              "Pronunciation": "voo-k+ee-leh",
+              "origin": ""
+            },
+            "aware": {
+              "swa": "Nelwati",
+              "Pronunciation": "ne-l+wah-t+ee",
+              "origin": ""
+            },
+            "Alive": {
+              "swa": "Yaphila",
+              "Pronunciation": "yah-pee-lah",
+              "origin": ""
+            },
             "Alert": {
               "swa": "Hlahlambile",
-              "Pronunciation": "",
+              "Pronunciation": "hcla-hcla-m+bee-leh",
               "origin": ""
             },
             "Annual": {
               "swa": "Minyaka yonkhe",
-              "Pronunciation": "",
+              "Pronunciation": "min-yah-k+ah yon-care",
               "origin": ""
             },
-            "Amend": { "swa": "Lungisa", "Pronunciation": "", "origin": "" },
-            "Annotate": { "swa": "", "Pronunciation": "", "origin": "" },
+            "Amend": {
+              "swa": "Lungisa",
+              "Pronunciation": "loo-n+g+ee-sah",
+              "origin": ""
+            },
+            "Annotate": {
+              "swa": "Chaza ngemibhalo",
+              "Pronunciation": "c+h+ah-zah n+g+eh-mee-bar-lore",
+              "origin": ""
+            },
             "Assign": {
               "swa": "Niketa umsebenti",
-              "Pronunciation": "",
+              "Pronunciation": "knee-k+eh-t+ah oom-seh-b+eh-n+t+ee",
               "origin": ""
             },
             "Allocate": {
               "swa": "Hlukanisela, Misa ngabolonina",
-              "Pronunciation": "",
+              "Pronunciation": "mee-sah n+g+ah-bow-lore-nee-n+ah",
               "origin": ""
             },
-            "Arise": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Arrive": { "swa": "Fika", "Pronunciation": "", "origin": "" },
+            "Arise": {
+              "swa": "Phakama",
+              "Pronunciation": "p+ah-k+ah-mah",
+              "origin": ""
+            },
+            "Arrive": {
+              "swa": "Fika",
+              "Pronunciation": "fee-k+ah",
+              "origin": ""
+            },
             "Arrange": {
               "swa": "Hlela, Misa ngemumo",
-              "Pronunciation": "",
+              "Pronunciation": "hcl+eh-lah",
               "origin": ""
             },
             "Arrogant": {
               "swa": "Tigcabhako, Tatiko",
-              "Pronunciation": "",
+              "Pronunciation": "t+ee-g+c+ah-bar-k+oh",
               "origin": ""
             },
-            "Arouse": { "swa": "Vusela", "Pronunciation": "", "origin": "" },
+            "Arouse": {
+              "swa": "Vusela",
+              "Pronunciation": "voo-sell-ah",
+              "origin": ""
+            },
             "Appeal": {
               "swa": "Ncemphetela",
-              "Pronunciation": "",
+              "Pronunciation": "n+c+eh-m+per-t+eh-lah",
               "origin": ""
             },
-            "Appease": { "swa": "Gculisa", "Pronunciation": "", "origin": "" },
-            "Accord": { "swa": "Ngekwakhe", "Pronunciation": "", "origin": "" },
-            "Abort": { "swa": "Hushula", "Pronunciation": "", "origin": "" },
-            "Avail": { "swa": "Tinikela", "Pronunciation": "", "origin": "" },
+            "Appease": {
+              "swa": "Gculisa",
+              "Pronunciation": "g+c+oo-lee-sah",
+              "origin": ""
+            },
+            "Accord": {
+              "swa": "Ngekwakhe",
+              "Pronunciation": "n+g+eh-k+wah-care",
+              "origin": ""
+            },
+            "Abort": {
+              "swa": "Hushula",
+              "Pronunciation": "who-shoo-lah",
+              "origin": ""
+            },
+            "Avail": {
+              "swa": "Tinikela",
+              "Pronunciation": "t+ee-nee-k+eh-lah",
+              "origin": ""
+            },
             "Appear": {
               "swa": "Vela, Vumbuka, Tfushuka",
-              "Pronunciation": "",
+              "Pronunciation": "t+foo-shoo-k+ah",
               "origin": ""
             },
-            "Appoint": { "swa": "Coka", "Pronunciation": "", "origin": "" }
+            "Appoint": {
+              "swa": "Coka",
+              "Pronunciation": "c+oh-k+ah",
+              "origin": ""
+            }
           }
         ],
         "B": [
           {
-            "Baby": { "swa": "Umntfwana", "Pronunciation": "", "origin": "" },
+            "Baby": {
+              "swa": "Umntfwana",
+              "Pronunciation": "oom-n+t+f+wa-nah",
+              "origin": ""
+            },
             "Back": {
               "swa": "Umgogodla, Emuva",
-              "Pronunciation": "",
+              "Pronunciation": "oom-go-go-d+l+ah",
               "origin": ""
             },
-            "Backpack": { "swa": "Bhaki", "Pronunciation": "", "origin": "" },
+            "Backpack": {
+              "swa": "Bhaki",
+              "Pronunciation": "bar-k+ee",
+              "origin": ""
+            },
             "Bag": {
               "swa": "Sikhwama, Umgodlagodla",
-              "Pronunciation": "",
+              "Pronunciation": "oom-go-d+l+ah-go-d+l+ah",
               "origin": ""
             },
-            "Bake": { "swa": "Bhaka", "Pronunciation": "", "origin": "" },
-            "Balance": { "swa": "Simama", "Pronunciation": "", "origin": "" },
-            "Ball": { "swa": "Ibhola", "Pronunciation": "", "origin": "" },
-            "Banana": { "swa": "Bhanana", "Pronunciation": "", "origin": "" },
-            "Band": { "swa": "Libhendi", "Pronunciation": "", "origin": "" },
-            "Bank": { "swa": "Libhange", "Pronunciation": "", "origin": "" },
-            "Bar": { "swa": "Libhala", "Pronunciation": "", "origin": "" },
+            "Bake": {
+              "swa": "Bhaka",
+              "Pronunciation": "bar-k+ah",
+              "origin": ""
+            },
+            "Balance": {
+              "swa": "Simama",
+              "Pronunciation": "see-mah-mah",
+              "origin": ""
+            },
+            "Ball": {
+              "swa": "Ibhola",
+              "Pronunciation": "e-bore-lah",
+              "origin": ""
+            },
+            "Banana": {
+              "swa": "Bhanana",
+              "Pronunciation": "banana",
+              "origin": ""
+            },
+            "Band": {
+              "swa": "Libhendi",
+              "Pronunciation": "lee-bend-ee",
+              "origin": ""
+            },
+            "Bank": {
+              "swa": "Libhange",
+              "Pronunciation": "lee-bar-n+g+eh",
+              "origin": ""
+            },
+            "Bar": {
+              "swa": "Libhala",
+              "Pronunciation": "lee-bar-lah",
+              "origin": ""
+            },
             "Base": { "swa": "", "Pronunciation": "", "origin": "" },
             "Basket": {
               "swa": "Libhasikidi",
-              "Pronunciation": "",
+              "Pronunciation": "lee-bar-see-k+ee-dee",
               "origin": ""
             },
-            "Bat": { "swa": "Lililwane", "Pronunciation": "", "origin": "" },
-            "Beach": { "swa": "Ibhishi", "Pronunciation": "", "origin": "" },
-            "Bear": { "swa": "Libhele", "Pronunciation": "", "origin": "" },
-            "Bed": { "swa": "Umbhedze", "Pronunciation": "", "origin": "" },
-            "Bee": { "swa": "Inyosi", "Pronunciation": "", "origin": "" },
-            "Bell": { "swa": "Insimbi", "Pronunciation": "", "origin": "" },
-            "Belt": { "swa": "Libhande", "Pronunciation": "", "origin": "" },
-            "Bird": { "swa": "Inyoni", "Pronunciation": "", "origin": "" },
-            "Black": { "swa": "Munyama", "Pronunciation": "", "origin": "" },
-            "Blanket": { "swa": "Ingubo", "Pronunciation": "", "origin": "" },
+            "Bat": {
+              "swa": "Lililwane",
+              "Pronunciation": "lee-lee-l+wan-eh",
+              "origin": ""
+            },
+            "Beach": {
+              "swa": "Ibhishi",
+              "Pronunciation": "e-bee-shee",
+              "origin": ""
+            },
+            "Bear": {
+              "swa": "Libhele",
+              "Pronunciation": "lee-bear-leh",
+              "origin": ""
+            },
+            "Bed": {
+              "swa": "Umbhedze",
+              "Pronunciation": "oom-bear-d+z+eh",
+              "origin": ""
+            },
+            "Bee": {
+              "swa": "Inyosi",
+              "Pronunciation": "in+yo-see",
+              "origin": ""
+            },
+            "Bell": {
+              "swa": "Insimbi",
+              "Pronunciation": "in-see-m+bee",
+              "origin": ""
+            },
+            "Belt": {
+              "swa": "Libhande",
+              "Pronunciation": "lee-bar-n+dare",
+              "origin": ""
+            },
+            "Bird": {
+              "swa": "Inyoni",
+              "Pronunciation": "in+yo-nee",
+              "origin": ""
+            },
+            "Black": {
+              "swa": "Munyama",
+              "Pronunciation": "moon-yah-mah",
+              "origin": ""
+            },
+            "Blanket": {
+              "swa": "Ingubo",
+              "Pronunciation": "in-goo-b+oh",
+              "origin": ""
+            },
             "Blue": {
               "swa": "Luhlata sasibhakabhaka",
-              "Pronunciation": "",
+              "Pronunciation": "loo-hcla-t+ah",
               "origin": ""
             },
-            "Boat": { "swa": "Sikebhe", "Pronunciation": "", "origin": "" },
+            "Boat": {
+              "swa": "Sikebhe",
+              "Pronunciation": "see-k+eh-bear",
+              "origin": ""
+            },
             "Bottle": {
               "swa": "Libhodlela",
-              "Pronunciation": "",
+              "Pronunciation": "lee-bow-d+l+eh-lah",
               "origin": ""
             },
-            "Box": { "swa": "Libhokisi", "Pronunciation": "", "origin": "" },
-            "Bread": { "swa": "Sinkhwa", "Pronunciation": "", "origin": "" },
+            "Box": {
+              "swa": "Libhokisi",
+              "Pronunciation": "lee-bore-k+ee-see",
+              "origin": ""
+            },
+            "Bread": {
+              "swa": "Sinkhwa",
+              "Pronunciation": "seen-k+h+wah",
+              "origin": ""
+            },
             "Break": {
               "swa": "Bhatula, Likhefu",
-              "Pronunciation": "",
+              "Pronunciation": "bar-t+oo-lah",
               "origin": ""
             },
             "Bridge": {
               "swa": "Libhulohwe",
-              "Pronunciation": "",
+              "Pronunciation": "lee-boo-lore-h+w+eh",
               "origin": ""
             },
-            "Brother": { "swa": "Umnaka", "Pronunciation": "", "origin": "" },
-            "Brush": { "swa": "Libhulashi", "Pronunciation": "", "origin": "" },
-            "Bucket": { "swa": "Libhakede", "Pronunciation": "", "origin": "" },
+            "Brother": {
+              "swa": "Umnaka",
+              "Pronunciation": "oom-nah-k+ah",
+              "origin": ""
+            },
+            "Brush": {
+              "swa": "Libhulashi",
+              "Pronunciation": "lee-boo-lah-shee",
+              "origin": ""
+            },
+            "Bucket": {
+              "swa": "Libhakede",
+              "Pronunciation": "lee-bar-k+eh-dare",
+              "origin": ""
+            },
             "Building": {
               "swa": "Libhilidi",
-              "Pronunciation": "",
+              "Pronunciation": "lee-bee-lee-dee",
               "origin": ""
             },
-            "Bull": { "swa": "Inkunzi", "Pronunciation": "", "origin": "" },
-            "Bus": { "swa": "Ibhasi", "Pronunciation": "", "origin": "" },
+            "Bull": {
+              "swa": "Inkunzi",
+              "Pronunciation": "in-k+oo-n+zee",
+              "origin": ""
+            },
+            "Bus": {
+              "swa": "Ibhasi",
+              "Pronunciation": "e-bar-see",
+              "origin": ""
+            },
             "Butterfly": {
               "swa": "Livivane",
-              "Pronunciation": "",
+              "Pronunciation": "lee-vee-vah-neh",
               "origin": ""
             },
-            "Button": { "swa": "Likinobho", "Pronunciation": "", "origin": "" },
-            "Buy": { "swa": "Tsenga", "Pronunciation": "", "origin": "" },
-            "Ban": { "swa": "Misa", "Pronunciation": "", "origin": "" },
-            "Bark": { "swa": "Khonkotsa", "Pronunciation": "", "origin": "" },
-            "Bathe": { "swa": "Geza", "Pronunciation": "", "origin": "" },
-            "Bawl": { "swa": "Hholola", "Pronunciation": "", "origin": "" },
-            "Be": { "swa": "Yiba", "Pronunciation": "", "origin": "" },
-            "Beam": { "swa": "Benyetela", "Pronunciation": "", "origin": "" },
+            "Button": {
+              "swa": "Likinobho",
+              "Pronunciation": "lee-k+ee-no-bore",
+              "origin": ""
+            },
+            "Buy": {
+              "swa": "Tsenga",
+              "Pronunciation": "t+s+eh-n+g+ah",
+              "origin": ""
+            },
+            "Ban": { "swa": "Misa", "Pronunciation": "mee-sah", "origin": "" },
+            "Bark": {
+              "swa": "Khonkotsa",
+              "Pronunciation": "cko-n+k+oh-t+sah",
+              "origin": ""
+            },
+            "Bathe": {
+              "swa": "Geza",
+              "Pronunciation": "g+eh-zah",
+              "origin": ""
+            },
+            "Bawl": {
+              "swa": "Hholola",
+              "Pronunciation": "h+h+oh-low-lah",
+              "origin": ""
+            },
+            "Be": { "swa": "Yiba", "Pronunciation": "y+ee-b+ah", "origin": "" },
+            "Beam": {
+              "swa": "Benyetela",
+              "Pronunciation": "b+eh-n+year-t+eh-lah",
+              "origin": ""
+            },
             "Beat": {
               "swa": "Shaya, Dvunsuta",
-              "Pronunciation": "",
+              "Pronunciation": "shy-ah",
               "origin": ""
             },
             "Become": {
-              "swa": "Yiba njenge",
-              "Pronunciation": "",
+              "swa": "Bani njenge",
+              "Pronunciation": "b+ah-knee n+j+eh-n+g+eh",
               "origin": ""
             },
-            "Beg": { "swa": "Ncenga", "Pronunciation": "", "origin": "" },
-            "Begin": { "swa": "Cala", "Pronunciation": "", "origin": "" },
-            "Behave": { "swa": "Tiphatse", "Pronunciation": "", "origin": "" },
-            "Believe": { "swa": "Kholwa", "Pronunciation": "", "origin": "" },
-            "Belong": { "swa": "Wase, Wa", "Pronunciation": "", "origin": "" },
-            "Bend": { "swa": "Bhembesa", "Pronunciation": "", "origin": "" },
-            "Benefit": { "swa": "Zuza", "Pronunciation": "", "origin": "" },
-            "Bet": { "swa": "Bheja", "Pronunciation": "", "origin": "" },
-            "Beware": { "swa": "Caphela", "Pronunciation": "", "origin": "" },
+            "Beg": {
+              "swa": "Ncenga",
+              "Pronunciation": "n+c+eh-n+g+ah",
+              "origin": ""
+            },
+            "Begin": {
+              "swa": "Cala",
+              "Pronunciation": "c+ah-lah",
+              "origin": ""
+            },
+            "Behave": {
+              "swa": "Tiphatse",
+              "Pronunciation": "t+ee-par-t+say",
+              "origin": ""
+            },
+            "Believe": {
+              "swa": "Kholwa",
+              "Pronunciation": "core-l+wah",
+              "origin": ""
+            },
+            "Belong": {
+              "swa": "Wase, Wa",
+              "Pronunciation": "wa-seh",
+              "origin": ""
+            },
+            "Bend": {
+              "swa": "Bhembesa",
+              "Pronunciation": "bear-m+bear-sah",
+              "origin": ""
+            },
+            "Benefit": {
+              "swa": "Zuza",
+              "Pronunciation": "zoo-zah",
+              "origin": ""
+            },
+            "Bet": {
+              "swa": "Bheja",
+              "Pronunciation": "bear-j+ah",
+              "origin": ""
+            },
+            "Beware": {
+              "swa": "Caphela",
+              "Pronunciation": "c+ah-pear-lah",
+              "origin": ""
+            },
             "Bite": {
               "swa": "Luma, Gavuta",
-              "Pronunciation": "",
+              "Pronunciation": "g+ah-voo-t+ah",
               "origin": ""
             },
             "Blame": {
               "swa": "Sola ngalokutsile",
-              "Pronunciation": "",
+              "Pronunciation": "so-lah n+g+ah-low-k+oo-t+see-leh",
               "origin": ""
             },
-            "Bleed": { "swa": "Yopha", "Pronunciation": "", "origin": "" },
-            "Blend": { "swa": "Hlanganisa", "Pronunciation": "", "origin": "" },
-            "Bless": { "swa": "Busisa", "Pronunciation": "", "origin": "" },
-            "Blink": { "swa": "Cwabita", "Pronunciation": "", "origin": "" },
-            "Block": { "swa": "Vimba", "Pronunciation": "", "origin": "" },
-            "Blow": { "swa": "Phuphutsa", "Pronunciation": "", "origin": "" },
-            "Boast": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Boil": { "swa": "Bilisa", "Pronunciation": "", "origin": "" },
-            "Bolt": { "swa": "Libhawodi", "Pronunciation": "", "origin": "" },
+            "Bleed": {
+              "swa": "Yopha",
+              "Pronunciation": "yo-par",
+              "origin": ""
+            },
+            "Blend": {
+              "swa": "Bondza",
+              "Pronunciation": "b+oh-n+d+zah",
+              "origin": ""
+            },
+            "Bless": {
+              "swa": "Busisa",
+              "Pronunciation": "b+oo-see-sah",
+              "origin": ""
+            },
+            "Blink": {
+              "swa": "Cwabita",
+              "Pronunciation": "c+wah-b+ee-t+ah",
+              "origin": ""
+            },
+            "Block": {
+              "swa": "Vimba",
+              "Pronunciation": "vee-m+bar",
+              "origin": ""
+            },
+            "Blow": {
+              "swa": "Phuphutsa",
+              "Pronunciation": "poo-poo-t+sah",
+              "origin": ""
+            },
+            "Boast": {
+              "swa": "Gabisela",
+              "Pronunciation": "g+ah-b+ee-seh-lah",
+              "origin": ""
+            },
+            "Boil": {
+              "swa": "Bilisa",
+              "Pronunciation": "b+ee-lee-sah",
+              "origin": ""
+            },
+            "Bolt": {
+              "swa": "Libhawodi",
+              "Pronunciation": "lee-bar-woe-dee",
+              "origin": ""
+            },
             "Boost": {
               "swa": "Chasa, Sita",
-              "Pronunciation": "",
+              "Pronunciation": "c+ha-sah",
               "origin": ""
             },
-            "Boot": { "swa": "Libhudze", "Pronunciation": "", "origin": "" },
-            "Bore": { "swa": "Lalisa", "Pronunciation": "", "origin": "" },
-            "Borrow": { "swa": "Boleka", "Pronunciation": "", "origin": "" },
-            "Bounce": { "swa": "", "Pronunciation": "", "origin": "" },
+            "Boot": {
+              "swa": "Libhudze",
+              "Pronunciation": "lee-boo-d+zeh",
+              "origin": ""
+            },
+            "Bore": {
+              "swa": "Lalisa",
+              "Pronunciation": "lah-lee-sah",
+              "origin": ""
+            },
+            "Borrow": {
+              "swa": "Boleka",
+              "Pronunciation": "b+ow-leh-k+ah",
+              "origin": ""
+            },
+            "Bounce": {
+              "swa": "Bhampa",
+              "Pronunciation": "bar-m+pa",
+              "origin": ""
+            },
             "Bound": {
               "swa": "Boshiwe, Boshetelwe",
-              "Pronunciation": "",
+              "Pronunciation": "b+oh-shay-t+eh-l+weh",
               "origin": ""
             },
-            "Bow": { "swa": "Gobondzela", "Pronunciation": "", "origin": "" },
+            "Bow": {
+              "swa": "Gobondzela",
+              "Pronunciation": "go-b+oh-n+d+zeh-lah",
+              "origin": ""
+            },
             "Brag": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Brake": { "swa": "Bhilika", "Pronunciation": "", "origin": "" },
-            "Branch": { "swa": "Ligala", "Pronunciation": "", "origin": "" },
+            "Brake": {
+              "swa": "Bhilika",
+              "Pronunciation": "bee-lee-k+ah",
+              "origin": ""
+            },
+            "Branch": {
+              "swa": "Ligala",
+              "Pronunciation": "lee-g+ah-lah",
+              "origin": ""
+            },
             "Breathe": {
               "swa": "Phefumula",
-              "Pronunciation": "",
+              "Pronunciation": "per-foo-moo-lah",
               "origin": ""
             },
-            "Breed": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Brick": { "swa": "Sitini", "Pronunciation": "", "origin": "" },
+            "Breed": {
+              "swa": "Talana",
+              "Pronunciation": "t+ah-lah-nah",
+              "origin": ""
+            },
+            "Brick": {
+              "swa": "Sitini",
+              "Pronunciation": "see-t+ee-nee",
+              "origin": ""
+            },
             "Brief": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Brighten": { "swa": "Hlobisa", "Pronunciation": "", "origin": "" },
+            "Brighten": {
+              "swa": "Hlahlambisa",
+              "Pronunciation": "hcla-hcla-m+bee-sah",
+              "origin": ""
+            },
             "Bring": {
               "swa": "Buyisa, Letsa",
-              "Pronunciation": "",
+              "Pronunciation": "b+oo-y+ee-sah",
               "origin": ""
             },
-            "Broadcast": { "swa": "Sakata", "Pronunciation": "", "origin": "" },
-            "Broad": { "swa": "Banti", "Pronunciation": "", "origin": "" },
+            "Broadcast": {
+              "swa": "Sakata",
+              "Pronunciation": "sah-k+ah-t+ah",
+              "origin": ""
+            },
+            "Broad": {
+              "swa": "Banti",
+              "Pronunciation": "b+ah-n+t+ee",
+              "origin": ""
+            },
             "Broaden": {
               "swa": "Lula kabanti",
-              "Pronunciation": "",
+              "Pronunciation": "loo-lah k+ah-b+ah-n+t+ee",
               "origin": ""
             },
-            "Bubble": { "swa": "Ligwebu", "Pronunciation": "", "origin": "" },
+            "Bubble": {
+              "swa": "Ligwebu",
+              "Pronunciation": "lee-g+weh-b+oo",
+              "origin": ""
+            },
             "Budget": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Build": { "swa": "Yakha", "Pronunciation": "", "origin": "" },
-            "Bump": { "swa": "Liguludla", "Pronunciation": "", "origin": "" },
-            "Bunch": { "swa": "Incumbi", "Pronunciation": "", "origin": "" },
-            "Bundle": { "swa": "Inkhatsa", "Pronunciation": "", "origin": "" },
+            "Build": {
+              "swa": "Yakha",
+              "Pronunciation": "ya-car",
+              "origin": ""
+            },
+            "Bump": {
+              "swa": "Liguludla, Gudluta",
+              "Pronunciation": "lee-goo-loo-d+l+ah",
+              "origin": ""
+            },
+            "Bunch": {
+              "swa": "Incumbi",
+              "Pronunciation": "in-c+oo-m+bee",
+              "origin": ""
+            },
+            "Bundle": {
+              "swa": "Inkhatsa",
+              "Pronunciation": "in-car-t+sah",
+              "origin": ""
+            },
             "Burden": {
               "swa": "Yetfwesa umtfwalo",
-              "Pronunciation": "",
+              "Pronunciation": "year-t+f+weh-sah oom-t+f+wah-low",
               "origin": ""
             },
             "Burn": {
               "swa": "Shisa, Kusha",
-              "Pronunciation": "",
+              "Pronunciation": "k+oo-sha",
               "origin": ""
             },
-            "Burst": { "swa": "Bhoma", "Pronunciation": "", "origin": "" },
-            "Bury": { "swa": "Ngcwaba", "Pronunciation": "", "origin": "" },
+            "Burst": {
+              "swa": "Bhoma",
+              "Pronunciation": "bore-mah",
+              "origin": ""
+            },
+            "Bury": {
+              "swa": "Ngcwaba",
+              "Pronunciation": "n+g+wah-b+ah",
+              "origin": ""
+            },
             "Bypass": {
               "swa": "Yengcelela",
-              "Pronunciation": "",
+              "Pronunciation": "year-n+g+c+eh-leh-lah",
               "origin": ""
             },
-            "Bad": { "swa": "Bi", "Pronunciation": "", "origin": "" },
+            "Bad": { "swa": "Bi", "Pronunciation": "b+ee", "origin": "" },
             "Barely": {
               "swa": "Yela ngakhona, Cishe",
-              "Pronunciation": "",
+              "Pronunciation": "year-lah n+g+ah-core-nah",
               "origin": ""
             },
             "Beautiful": {
-              "swa": "Hle, Bukeka",
-              "Pronunciation": "",
+              "swa": "Kuhle, Bukeka",
+              "Pronunciation": "k+oo-hlc+eh",
               "origin": ""
             },
             "Before": {
               "swa": "Ngembikwekutsi",
-              "Pronunciation": "",
+              "Pronunciation": "n+g+eh-m+bee-k+weh-k+oo-t+see",
               "origin": ""
             },
-            "Below": { "swa": "Ngentasi", "Pronunciation": "", "origin": "" },
-            "Beneath": { "swa": "Ngaphasi", "Pronunciation": "", "origin": "" },
+            "Below": {
+              "swa": "Ngentasi",
+              "Pronunciation": "n+g+eh-n+t+ah-see",
+              "origin": ""
+            },
+            "Beneath": {
+              "swa": "Ngaphasi",
+              "Pronunciation": "n+g+ah-par-see",
+              "origin": ""
+            },
             "Besides": {
               "swa": "Nobe kunjalo",
-              "Pronunciation": "",
+              "Pronunciation": "no-b+eh k+oo-n+j+ah-loh",
               "origin": ""
             },
             "Best": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Better": { "swa": "Ncono", "Pronunciation": "", "origin": "" },
-            "Beyond": {
-              "swa": "Ngale kwaloko",
-              "Pronunciation": "",
+            "Better": {
+              "swa": "Ncono",
+              "Pronunciation": "n+c+oh-no",
               "origin": ""
             },
-            "Bitter": { "swa": "Baba", "Pronunciation": "", "origin": "" },
-            "Blatant": { "swa": "Ngafihli", "Pronunciation": "", "origin": "" },
+            "Beyond": {
+              "swa": "Ngale kwaloko",
+              "Pronunciation": "n+g+ah-leh k+wah-loh-k+oh",
+              "origin": ""
+            },
+            "Bitter": {
+              "swa": "Baba",
+              "Pronunciation": "b+ah-b+ah",
+              "origin": ""
+            },
+            "Blatant": {
+              "swa": "Ngafihli",
+              "Pronunciation": "n+g+ah-fee-hcl+ee",
+              "origin": ""
+            },
             "Bleak": {
               "swa": "Ngatsembisi",
-              "Pronunciation": "",
+              "Pronunciation": "n+g+ah-t+seh-m+bee-see",
               "origin": ""
             },
             "Blind": {
-              "swa": "Phuphutsekile",
-              "Pronunciation": "",
+              "swa": "Imphumphutse",
+              "Pronunciation": "im+poo-m+poo-t+seh",
               "origin": ""
             },
-            "Blunt": { "swa": "Ngagegi", "Pronunciation": "", "origin": "" },
-            "Boastful": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Bold": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Brave": { "swa": "Nesibindzi", "Pronunciation": "", "origin": "" },
+            "Blunt": {
+              "swa": "Ngagegi",
+              "Pronunciation": "n+g+ah-g+eh-g+ee",
+              "origin": ""
+            },
+            "Boastful": {
+              "swa": "Makhonya",
+              "Pronunciation": "mah-core-n+yah",
+              "origin": ""
+            },
+            "Bold": {
+              "swa": "Gcamile",
+              "Pronunciation": "g+c+ah-mee-leh",
+              "origin": ""
+            },
+            "Brave": {
+              "swa": "Nesibindzi",
+              "Pronunciation": "neh-see-b+ee-n+d+zee",
+              "origin": ""
+            },
             "Bright": {
               "swa": "Khaliphile",
-              "Pronunciation": "",
+              "Pronunciation": "car-lee-pee-leh",
               "origin": ""
             },
             "Brilliant": {
               "swa": "Hlakaniphile",
-              "Pronunciation": "",
+              "Pronunciation": "hcla-k+ah-nee-pee-leh",
               "origin": ""
             },
-            "Brisk": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Brutal": { "swa": "Nesihluku", "Pronunciation": "", "origin": "" },
-            "Busy": { "swa": "Matasatasa", "Pronunciation": "", "origin": "" },
-            "Bald": { "swa": "Nemphandla", "Pronunciation": "", "origin": "" },
+            "Brisk": {
+              "swa": "Hlakazekile",
+              "Pronunciation": "hcla-k+ah-zeh-k+ee-leh",
+              "origin": ""
+            },
+            "Brutal": {
+              "swa": "Nesihluku",
+              "Pronunciation": "ne-see-hcl+oo-k+oo",
+              "origin": ""
+            },
+            "Busy": {
+              "swa": "Matasatasa",
+              "Pronunciation": "mah-t+ah-sah-t+ah-sah",
+              "origin": ""
+            },
+            "Bald": {
+              "swa": "Nemphandla",
+              "Pronunciation": "ne-m+par-n+d+l+ah",
+              "origin": ""
+            },
             "Barren": {
-              "swa": "kungavundzi",
-              "Pronunciation": "",
+              "swa": "Ngakavundzi",
+              "Pronunciation": "n+g+ah-k+ah-voo-n+d+zee",
               "origin": ""
             },
             "Bossy": {
               "swa": "Nesandla lesicinile",
-              "Pronunciation": "",
+              "Pronunciation": "ne-sah-n+d+l+ah leh-see-c+ee-nee-leh",
               "origin": ""
             },
-            "Brittle": { "swa": "Lula", "Pronunciation": "", "origin": "" }
+            "Brittle": {
+              "swa": "Lula, umfaba",
+              "Pronunciation": "loo-lah",
+              "origin": ""
+            }
           }
         ],
         "C": [
           {
-            "Call": { "swa": "Bita", "Pronunciation": "", "origin": "" },
-            "Capture": { "swa": "Hocisa", "Pronunciation": "", "origin": "" },
-            "Care": { "swa": "Nakekela", "Pronunciation": "", "origin": "" },
+            "Call": {
+              "swa": "Bita",
+              "Pronunciation": "b+ee-t+ah",
+              "origin": ""
+            },
+            "Capture": {
+              "swa": "Hocisa",
+              "Pronunciation": "ho-c+ee-sah",
+              "origin": ""
+            },
+            "Care": {
+              "swa": "Nakekela",
+              "Pronunciation": "na-k+eh-k+eh-lah",
+              "origin": ""
+            },
             "Carry": {
               "swa": "Phatsa, Cukula",
-              "Pronunciation": "",
+              "Pronunciation": "par-t+sah",
               "origin": ""
             },
             "Catch": {
               "swa": "Bamba, Gola",
-              "Pronunciation": "",
+              "Pronunciation": "go-lah",
               "origin": ""
             },
             "Cause": {
               "swa": "Bangela, Banga",
-              "Pronunciation": "",
+              "Pronunciation": "b+ah-n+g+eh-lah",
               "origin": ""
             },
             "Change": {
               "swa": "Ntjintja, Gucula",
-              "Pronunciation": "",
+              "Pronunciation": "n+t+j+ee-n+t+j+ah",
               "origin": ""
             },
-            "Chase": { "swa": "Jaha", "Pronunciation": "", "origin": "" },
-            "Cheer": { "swa": "Bongelela", "Pronunciation": "", "origin": "" },
-            "Choose": { "swa": "Khetsa", "Pronunciation": "", "origin": "" },
+            "Chase": {
+              "swa": "Jaha",
+              "Pronunciation": "j+ah-h+ah",
+              "origin": ""
+            },
+            "Cheer": {
+              "swa": "Bongelela",
+              "Pronunciation": "b+oh-n+g+eh-leh-lah",
+              "origin": ""
+            },
+            "Choose": {
+              "swa": "Khetsa",
+              "Pronunciation": "care-t+sah",
+              "origin": ""
+            },
             "Clap": {
               "swa": "Shaya tandla",
-              "Pronunciation": "",
+              "Pronunciation": "shy-ah t+ah-n+d+l+ah",
               "origin": ""
             },
-            "Clean": { "swa": "Hlanta", "Pronunciation": "", "origin": "" },
-            "Climb": { "swa": "Canca", "Pronunciation": "", "origin": "" },
+            "Clean": {
+              "swa": "Hlantekile",
+              "Pronunciation": "hcla-n+t+eh-k+ee-leh",
+              "origin": ""
+            },
+            "Climb": {
+              "swa": "Canca",
+              "Pronunciation": "c+ah-n+c+ah",
+              "origin": ""
+            },
             "Close": {
               "swa": "Vala, Sondzelene, Dobhana phasi",
-              "Pronunciation": "",
+              "Pronunciation": "vah-lah",
               "origin": ""
             },
-            "Collect": { "swa": "Landza", "Pronunciation": "", "origin": "" },
+            "Collect": {
+              "swa": "Landza",
+              "Pronunciation": "lah-n+d+zah",
+              "origin": ""
+            },
             "Compare": {
               "swa": "Catsanisa",
-              "Pronunciation": "",
+              "Pronunciation": "c+ah-t+sah-nee-sah",
               "origin": ""
             },
-            "Complain": { "swa": "Khonona", "Pronunciation": "", "origin": "" },
-            "Connect": { "swa": "Chumana", "Pronunciation": "", "origin": "" },
-            "Cook": { "swa": "Pheka", "Pronunciation": "", "origin": "" },
-            "Copy": { "swa": "Kopa", "Pronunciation": "", "origin": "" },
-            "Correct": { "swa": "Lungisa", "Pronunciation": "", "origin": "" },
-            "Count": { "swa": "Bala", "Pronunciation": "", "origin": "" },
-            "Create": { "swa": "Dala", "Pronunciation": "", "origin": "" },
-            "Cry": { "swa": "Khala", "Pronunciation": "", "origin": "" },
+            "Complain": {
+              "swa": "Khonona",
+              "Pronunciation": "core-no-nah",
+              "origin": ""
+            },
+            "Connect": {
+              "swa": "Chumana",
+              "Pronunciation": "c+h+oo-mah-nah",
+              "origin": ""
+            },
+            "Cook": {
+              "swa": "Pheka",
+              "Pronunciation": "per-k+ah",
+              "origin": ""
+            },
+            "Copy": {
+              "swa": "Kopa",
+              "Pronunciation": "k+oh-pah",
+              "origin": ""
+            },
+            "Correct": {
+              "swa": "Lungisa",
+              "Pronunciation": "loo-n+g+ee-sah",
+              "origin": ""
+            },
+            "Count": {
+              "swa": "Bala",
+              "Pronunciation": "b+ah-lah",
+              "origin": ""
+            },
+            "Create": {
+              "swa": "Dala",
+              "Pronunciation": "d+ah-lah",
+              "origin": ""
+            },
+            "Cry": { "swa": "Khala", "Pronunciation": "car-lah", "origin": "" },
             "Carefully": {
               "swa": "Ngekucophelela",
-              "Pronunciation": "",
+              "Pronunciation": "n+g+eh-k+oo-c+oh-per-leh-lah",
               "origin": ""
             },
             "Calmly": {
               "swa": "Ngekutitfoba",
-              "Pronunciation": "",
+              "Pronunciation": "n+g+eh-k+oo-t+ee-t+foe-b+ah",
               "origin": ""
             },
             "Carelessly": {
               "swa": "Ngekunganaki",
-              "Pronunciation": "",
+              "Pronunciation": "n+g+eh-k+oo-n+g+ah-nah-k+ee",
               "origin": ""
             },
             "Casual": { "swa": "", "Pronunciation": "", "origin": "" },
             "Cautiously": {
               "swa": "Ngekucophelela",
-              "Pronunciation": "",
+              "Pronunciation": "n+g+eh-k+oo-c+oh-per-leh-lah",
               "origin": ""
             },
             "Certainly": {
               "swa": "Ngekungangabati, Ngekungangatsiti",
-              "Pronunciation": "",
+              "Pronunciation": "n+g+eh-k+oo-n+g+ah-n+gah-b+ah-t+ee",
               "origin": ""
             },
-            "Cheap": { "swa": "Shiphile", "Pronunciation": "", "origin": "" },
-            "Clearly": { "swa": "", "Pronunciation": "", "origin": "" },
+            "Cheap": {
+              "swa": "Shiphile",
+              "Pronunciation": "sheep-ee-leh",
+              "origin": ""
+            },
+            "Clearly": {
+              "swa": "Cacile",
+              "Pronunciation": "c+ah-c+ee-leh",
+              "origin": ""
+            },
             "Cleverly": {
               "swa": "Ngekukhalipha",
-              "Pronunciation": "",
+              "Pronunciation": "n+g+eh-k+oo-car-lee-par",
               "origin": ""
             },
-            "Closely": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Coarse": { "swa": "Hhedlako", "Pronunciation": "", "origin": "" },
+            "Closely": {
+              "swa": "Ngekucikelela",
+              "Pronunciation": "n+g+eh-k+oo-c+ee-k+eh-leh-lah",
+              "origin": ""
+            },
+            "Coarse": {
+              "swa": "Hhedlako",
+              "Pronunciation": "h+h+eh-d+l+ah-k+oh",
+              "origin": ""
+            },
             "Common": {
               "swa": "Umfaba, Intfo letayelekile",
-              "Pronunciation": "",
+              "Pronunciation": "in+t+foe leh-t+ah-y+eh-leh-k+ee-leh",
               "origin": ""
             },
             "Completely": {
               "swa": "Ngalokuphelele",
-              "Pronunciation": "",
+              "Pronunciation": "n+g+ah-lore-k+oo-per-leh-leh",
               "origin": ""
             },
             "Constantly": {
               "swa": "Ngekungapheti",
-              "Pronunciation": "",
+              "Pronunciation": "n+g+eh-k+oo-n+g+ah-per-t+ee",
               "origin": ""
             },
             "Continually": {
               "swa": "Ngekungapheti",
-              "Pronunciation": "",
+              "Pronunciation": "n+g+eh-k+oo-n+g+ah-per-t+ee",
               "origin": ""
             },
-            "Correctly": { "swa": "Kahle", "Pronunciation": "", "origin": "" },
+            "Correctly": {
+              "swa": "Kahle",
+              "Pronunciation": "k+ah-hcl+eh",
+              "origin": ""
+            },
             "Courageous": {
               "swa": "Nesibindzi",
-              "Pronunciation": "",
+              "Pronunciation": "neh-see-b+ee-n+d+zee",
               "origin": ""
             },
-            "Cruel": { "swa": "Nesihluku", "Pronunciation": "", "origin": "" },
+            "Cruel": {
+              "swa": "Nesihluku",
+              "Pronunciation": "ne-see-hcl+oo-k+oo",
+              "origin": ""
+            },
             "Critical": { "swa": "", "Pronunciation": "", "origin": "" },
             "Curious": {
               "swa": "Neliso lelikhaliphile",
-              "Pronunciation": "",
+              "Pronunciation": "ne-lee-so leh-lee-car-lee-pee-leh",
               "origin": ""
             },
-            "Calm": { "swa": "Tfobekile", "Pronunciation": "", "origin": "" },
+            "Calm": {
+              "swa": "Tfobekile",
+              "Pronunciation": "t+foe-b+eh-k+ee-leh",
+              "origin": ""
+            },
             "Capable": {
               "swa": "Nelikhono",
-              "Pronunciation": "",
+              "Pronunciation": "ne-lee-core-no",
               "origin": ""
             },
-            "Careful": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Caring": { "swa": "Nesineke", "Pronunciation": "", "origin": "" },
-            "Charismatic": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Comfortable": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Compassionate": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Charming": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Confident": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Creative": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Cute": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Central": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Chief": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Cold": { "swa": "Makhata", "Pronunciation": "", "origin": "" },
-            "Complex": { "swa": "", "Pronunciation": "", "origin": "" },
+            "Careful": {
+              "swa": "Caphele",
+              "Pronunciation": "c+ah-per-leh",
+              "origin": ""
+            },
+            "Caring": {
+              "swa": "Nesineke",
+              "Pronunciation": "ne-see-ne-k+eh",
+              "origin": ""
+            },
+            "Charismatic": {
+              "swa": "Tsakasile",
+              "Pronunciation": "t+sah-k+ah-see-le",
+              "origin": ""
+            },
+            "Comfortable": {
+              "swa": "Ntofotela, Ntofontofo",
+              "Pronunciation": "n+t+oh-foe-t+eh-lah",
+              "origin": ""
+            },
+            "Compassionate": {
+              "swa": "Neluvelo",
+              "Pronunciation": "ne-loo-v+eh-loh",
+              "origin": ""
+            },
+            "Charming": {
+              "swa": "Tsandzekako",
+              "Pronunciation": "t+sah-n+d+zeh-k+ah-k+oh",
+              "origin": ""
+            },
+            "Confident": {
+              "swa": "Tatiko",
+              "Pronunciation": "t+ah-t+ee-k+oh",
+              "origin": ""
+            },
+            "Creative": {
+              "swa": "Nemibono leyakhako",
+              "Pronunciation": "ne-mee-b+oh-no leh-yah-car-k+oh",
+              "origin": ""
+            },
+            "Cute": {
+              "swa": "Tsandzekako",
+              "Pronunciation": "t+sah-n+d+zeh-k+ah-k+oh",
+              "origin": ""
+            },
+            "Central": {
+              "swa": "Emkhatsini",
+              "Pronunciation": "em-car-t+see-nee",
+              "origin": ""
+            },
+            "Chief": {
+              "swa": "Indvuna",
+              "Pronunciation": "in-d+voo-nah",
+              "origin": ""
+            },
+            "Cold": {
+              "swa": "Makhata",
+              "Pronunciation": "mah-car-t+ah",
+              "origin": ""
+            },
+            "Complex": {
+              "swa": "Ngavisiseki kalula",
+              "Pronunciation": "n+g+ah-vee-see-seh-k+ee k+ah-loo-lah",
+              "origin": ""
+            },
             "Concrete": {
               "swa": "Khonkolo",
-              "Pronunciation": "",
+              "Pronunciation": "core-n+k+oh-lore",
               "origin": ""
             },
-            "Constant": { "swa": "Ngajiki", "Pronunciation": "", "origin": "" },
+            "Constant": {
+              "swa": "Ngajiki",
+              "Pronunciation": "n+g+ah-j+ee-k+ee",
+              "origin": ""
+            },
             "Childish": {
-              "swa": "Ntfwanata",
-              "Pronunciation": "",
+              "swa": "Ntfwanatako",
+              "Pronunciation": "n+t+f+wa-nah-t+ah-k+oh",
               "origin": ""
             },
-            "Chaos": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Clumsy": { "swa": "Nematata", "Pronunciation": "", "origin": "" },
+            "Chaos": {
+              "swa": "Sibhicongo",
+              "Pronunciation": "see-bee-c+oh-n+g+oh",
+              "origin": ""
+            },
+            "Clumsy": {
+              "swa": "Nematata",
+              "Pronunciation": "ne-mah-t+ah-t+ah",
+              "origin": ""
+            },
             "Combative": {
               "swa": "Phuma silwe",
-              "Pronunciation": "",
+              "Pronunciation": "poo-mah-see-l+weh",
               "origin": ""
             },
             "Complacent": {
-              "swa": "Tigcaba, Tati",
-              "Pronunciation": "",
+              "swa": "Tigcabha, Tati",
+              "Pronunciation": "t+ee-g+c+ah-bar",
               "origin": ""
             },
             "Conceited": {
               "swa": "Tikhukhumeta",
-              "Pronunciation": "",
+              "Pronunciation": "t+ee-koo-koo-meh-t+ah",
               "origin": ""
             },
-            "Crude": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Captain": { "swa": "Kaputeni", "Pronunciation": "", "origin": "" },
-            "Chef": { "swa": "Umpheki", "Pronunciation": "", "origin": "" },
-            "Child": { "swa": "Umntfwana", "Pronunciation": "", "origin": "" },
-            "Citizen": { "swa": "", "Pronunciation": "", "origin": "" },
+            "Crude": {
+              "swa": "Nenhlamba",
+              "Pronunciation": "ne-n+hcla-m+bar",
+              "origin": ""
+            },
+            "Captain": {
+              "swa": "Kaputeni",
+              "Pronunciation": "k+ah-p+oo-t+eh-nee",
+              "origin": ""
+            },
+            "Chef": {
+              "swa": "Umpheki",
+              "Pronunciation": "oom-per-k+ee",
+              "origin": ""
+            },
+            "Child": {
+              "swa": "Umntfwana",
+              "Pronunciation": "oom-n+t+f+wah-nah",
+              "origin": ""
+            },
+            "Citizen": {
+              "swa": "Sakhamuti",
+              "Pronunciation": "sah-car-moo-t+ee",
+              "origin": ""
+            },
             "Colleague": {
               "swa": "Umlingani",
-              "Pronunciation": "",
+              "Pronunciation": "oom-lee-n+g+ah-nee",
               "origin": ""
             },
             "Consumer": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Cousin": { "swa": "Mzala", "Pronunciation": "", "origin": "" },
+            "Cousin": {
+              "swa": "Mzala",
+              "Pronunciation": "m+zah-lah",
+              "origin": ""
+            },
             "Criminal": {
               "swa": "Sidlani, Sigelekece",
-              "Pronunciation": "",
+              "Pronunciation": "see-d+l+ah-nee",
               "origin": ""
             },
             "Customer": {
               "swa": "Likhasimende",
-              "Pronunciation": "",
+              "Pronunciation": "lee-car-see-meh-n+dare",
               "origin": ""
             },
-            "Camel": { "swa": "Likamela", "Pronunciation": "", "origin": "" },
-            "Canary": { "swa": "Ncedze", "Pronunciation": "", "origin": "" },
+            "Camel": {
+              "swa": "Likamela",
+              "Pronunciation": "lee-k+ah-meh-lah",
+              "origin": ""
+            },
+            "Canary": {
+              "swa": "Ncedze",
+              "Pronunciation": "n+c+eh-d+z+eh",
+              "origin": ""
+            },
             "Canyon": {
               "swa": "Umsele, Sigodzi",
-              "Pronunciation": "",
+              "Pronunciation": "oom-seh-leh",
               "origin": ""
             },
-            "Cat ": { "swa": "Likati", "Pronunciation": "", "origin": "" },
-            "Cave": { "swa": "Umhume", "Pronunciation": "", "origin": "" },
-            "Chicken": { "swa": "Inkhukhu", "Pronunciation": "", "origin": "" },
-            "Cheetah": { "swa": "", "Pronunciation": "", "origin": "" },
+            "Cat ": {
+              "swa": "Likati",
+              "Pronunciation": "lee-k+ah-t+ee",
+              "origin": ""
+            },
+            "Cave": {
+              "swa": "Umhume",
+              "Pronunciation": "oom-who-meh",
+              "origin": ""
+            },
+            "Chicken": {
+              "swa": "Inkhukhu",
+              "Pronunciation": "in-koo-koo",
+              "origin": ""
+            },
+            "Cheetah": {
+              "swa": "Ingwe",
+              "Pronunciation": "e-n+g+weh",
+              "origin": ""
+            },
             "Chimpanzee": {
               "swa": "Ingobiyane",
-              "Pronunciation": "",
+              "Pronunciation": "e-n+g+oh-b+ee-yah-neh",
               "origin": ""
             },
-            "Cliff": { "swa": "Liwa", "Pronunciation": "", "origin": "" },
-            "Cloud": { "swa": "Lifu", "Pronunciation": "", "origin": "" },
+            "Cliff": {
+              "swa": "Liwa",
+              "Pronunciation": "lee-wah",
+              "origin": ""
+            },
+            "Cloud": {
+              "swa": "Lifu",
+              "Pronunciation": "lee-foo",
+              "origin": ""
+            },
             "Coyote": {
               "swa": "Inja yesiganga",
-              "Pronunciation": "",
+              "Pronunciation": "e-n+j+ah year-see-g+ah-n+g+ah",
               "origin": ""
             },
-            "Crab": { "swa": "Inkhala", "Pronunciation": "", "origin": "" },
-            "Cabin": { "swa": "Inyango", "Pronunciation": "", "origin": "" },
-            "Car": { "swa": "Imoto", "Pronunciation": "", "origin": "" },
-            "Chair": { "swa": "Situlo", "Pronunciation": "", "origin": "" },
-            "Church": { "swa": "Lisontfo", "Pronunciation": "", "origin": "" },
+            "Crab": {
+              "swa": "Inkhala",
+              "Pronunciation": "in-car-lah",
+              "origin": ""
+            },
+            "Cabin": {
+              "swa": "Inyango",
+              "Pronunciation": "in-yah-n+g+oh",
+              "origin": ""
+            },
+            "Car": {
+              "swa": "Imoto",
+              "Pronunciation": "e-moh-t+oh",
+              "origin": ""
+            },
+            "Chair": {
+              "swa": "Situlo",
+              "Pronunciation": "see-t+oo-lore",
+              "origin": ""
+            },
+            "Church": {
+              "swa": "Lisontfo",
+              "Pronunciation": "lee-so-n+t+foe",
+              "origin": ""
+            },
             "City": {
-              "swa": "Lidolobha lelikhulu",
-              "Pronunciation": "",
+              "swa": "Lidolobha",
+              "Pronunciation": "lee-doe-lore-bar",
               "origin": ""
             },
-            "Clock": { "swa": "Liwashi", "Pronunciation": "", "origin": "" },
-            "Cloth": { "swa": "Indvwangu", "Pronunciation": "", "origin": "" },
+            "Clock": {
+              "swa": "Liwashi",
+              "Pronunciation": "lee-wah-shee",
+              "origin": ""
+            },
+            "Cloth": {
+              "swa": "Indvwangu",
+              "Pronunciation": "in-d+v+wah-n+goo",
+              "origin": ""
+            },
             "Computer": {
               "swa": "Ngcondvomshini",
-              "Pronunciation": "",
+              "Pronunciation": "n+g+c+oh-n+d+v+oh-m+shee-nee",
               "origin": ""
             },
-            "Chance": { "swa": "Litfuba", "Pronunciation": "", "origin": "" }
+            "Chance": {
+              "swa": "Litfuba",
+              "Pronunciation": "lee-t+foo-b+ah",
+              "origin": ""
+            }
           }
         ],
         "D": [
           {
             "Dab": {
               "swa": "Chweba, Bhumbudzela",
-              "Pronunciation": "",
+              "Pronunciation": "boom-boo-d+z+eh-lah",
               "origin": ""
             },
-            "Dad": { "swa": "Babe", "Pronunciation": "", "origin": "" },
+            "Dad": {
+              "swa": "Babe",
+              "Pronunciation": "b+ah-b+eh",
+              "origin": ""
+            },
             "Daily": {
               "swa": "Wonkhe malanga",
-              "Pronunciation": "",
+              "Pronunciation": "woe-n+care mah-lah-n+g+ah",
               "origin": ""
             },
-            "Damp": { "swa": "Butsile", "Pronunciation": "", "origin": "" },
-            "Dare": { "swa": "Cala", "Pronunciation": "", "origin": "" },
-            "Dark": { "swa": "Lufifi", "Pronunciation": "", "origin": "" },
-            "Dash": { "swa": "Shakutela", "Pronunciation": "", "origin": "" },
-            "Date": { "swa": "Lusuku", "Pronunciation": "", "origin": "" },
+            "Damp": {
+              "swa": "Butsile",
+              "Pronunciation": "b+oo-t+see-leh",
+              "origin": ""
+            },
+            "Dare": {
+              "swa": "Cala",
+              "Pronunciation": "c+ah-lah",
+              "origin": ""
+            },
+            "Dark": {
+              "swa": "Lufifi",
+              "Pronunciation": "loo-fee-fee",
+              "origin": ""
+            },
+            "Dash": {
+              "swa": "Shakutela",
+              "Pronunciation": "sha-k+oo-t+eh-lah",
+              "origin": ""
+            },
+            "Date": {
+              "swa": "Lusuku",
+              "Pronunciation": "loo-sue-k+oo",
+              "origin": ""
+            },
             "Dawn": {
               "swa": "Intsatsakusa",
-              "Pronunciation": "",
+              "Pronunciation": "in-t+sah-t+sah-k+oo-sah",
               "origin": ""
             },
-            "Days": { "swa": "Emalanga", "Pronunciation": "", "origin": "" },
+            "Days": {
+              "swa": "Emalanga",
+              "Pronunciation": "em-ah-lah-n+g+ah",
+              "origin": ""
+            },
             "Dead": {
               "swa": "Shonile, File",
-              "Pronunciation": "",
+              "Pronunciation": "sho-nee-leh",
               "origin": ""
             },
-            "Deaf": { "swa": "Ngeva", "Pronunciation": "", "origin": "" },
-            "Deal": { "swa": "Sivumelwano", "Pronunciation": "", "origin": "" },
+            "Deaf": {
+              "swa": "Ngeva",
+              "Pronunciation": "n+g+eh-vah",
+              "origin": ""
+            },
+            "Deal": {
+              "swa": "Sivumelwano",
+              "Pronunciation": "see-voo-meh-l+wah-no",
+              "origin": ""
+            },
             "Dear": {
-              "swa": "Butfwa phasi",
-              "Pronunciation": "",
+              "swa": "Khontiwe, Butfwa phasi",
+              "Pronunciation": "core-n+t+ee-weh",
               "origin": ""
             },
             "Debt": {
               "swa": "Sikweleti, Licala",
-              "Pronunciation": "",
+              "Pronunciation": "see-k+weh-leh-t+ee",
               "origin": ""
             },
             "Decade": {
               "swa": "Iminyaka lelishumi",
-              "Pronunciation": "",
+              "Pronunciation": "e-mee-n+yah-k+ah leh-lee-shoo-mee",
               "origin": ""
             },
-            "Deed": { "swa": "Sento", "Pronunciation": "", "origin": "" },
-            "Deep": { "swa": "Shonako", "Pronunciation": "", "origin": "" },
+            "Deed": {
+              "swa": "Sento",
+              "Pronunciation": "seh-n+t+oh",
+              "origin": ""
+            },
+            "Deep": {
+              "swa": "Shonako",
+              "Pronunciation": "sho-nah-k+oh",
+              "origin": ""
+            },
             "Deer": {
               "swa": "Lishongololo",
-              "Pronunciation": "",
+              "Pronunciation": "lee-shore-n+go-lore-lore",
               "origin": ""
             },
             "Defy": {
               "swa": "Daza inkhani",
-              "Pronunciation": "",
+              "Pronunciation": "d+ah-zah in-car-nee",
               "origin": ""
             },
             "Deity": {
               "swa": "Nkulunkulwana",
-              "Pronunciation": "",
+              "Pronunciation": "n+k+oo-loo-n+k+oo-l+wan-ah",
               "origin": ""
             },
-            "Delay": { "swa": "Nwabuluka", "Pronunciation": "", "origin": "" },
+            "Delay": {
+              "swa": "Nwabuluka, Bambelela",
+              "Pronunciation": "n+wah-b+oo-loo-k+ah",
+              "origin": ""
+            },
             "Demand": {
               "swa": "Funa ngenkhani",
-              "Pronunciation": "",
+              "Pronunciation": "foo-nah n+g+eh-n+car-nee",
               "origin": ""
             },
-            "Den": { "swa": "Umhume", "Pronunciation": "", "origin": "" },
-            "Dense": { "swa": "Banti", "Pronunciation": "", "origin": "" },
-            "Dent": { "swa": "Sigodzi", "Pronunciation": "", "origin": "" },
-            "Deny": { "swa": "Phika", "Pronunciation": "", "origin": "" },
-            "Depart": { "swa": "Hamba", "Pronunciation": "", "origin": "" },
-            "Depend": { "swa": "Ncika ku-", "Pronunciation": "", "origin": "" },
-            "Depth": { "swa": "Kushona", "Pronunciation": "", "origin": "" },
-            "Desk": { "swa": "Litafula", "Pronunciation": "", "origin": "" },
-            "Desert": { "swa": "Lidlanga", "Pronunciation": "", "origin": "" },
-            "Desire": { "swa": "Khanuka", "Pronunciation": "", "origin": "" },
+            "Den": {
+              "swa": "Likulusi",
+              "Pronunciation": "lee-k+oo-loo-see",
+              "origin": ""
+            },
+            "Dense": {
+              "swa": "Banti",
+              "Pronunciation": "b+ah-n+t+ee",
+              "origin": ""
+            },
+            "Dent": {
+              "swa": "Sigodzi",
+              "Pronunciation": "see-go-d+zee",
+              "origin": ""
+            },
+            "Deny": {
+              "swa": "Phika",
+              "Pronunciation": "pee-k+ah",
+              "origin": ""
+            },
+            "Depart": {
+              "swa": "Hamba",
+              "Pronunciation": "h+ah-m+bar",
+              "origin": ""
+            },
+            "Depend": {
+              "swa": "Tsembela ku-",
+              "Pronunciation": "t+seh-m+bear-lah k+oo",
+              "origin": ""
+            },
+            "Depth": {
+              "swa": "Kushona",
+              "Pronunciation": "k+oo-sho-nah",
+              "origin": ""
+            },
+            "Desk": {
+              "swa": "Litafula",
+              "Pronunciation": "lee-t+ah-foo-lah",
+              "origin": ""
+            },
+            "Desert": {
+              "swa": "Lidlanga",
+              "Pronunciation": "lee-d+l+ah-n+g+ah",
+              "origin": ""
+            },
+            "Desire": {
+              "swa": "Khanuka",
+              "Pronunciation": "car-new-k+ah",
+              "origin": ""
+            },
             "Despair": {
-              "swa": "Lahle litsemba",
-              "Pronunciation": "",
+              "swa": "Kubate litsemba",
+              "Pronunciation": "k+oo-b+ah-t+eh lee-t+s+eh-m+bar",
               "origin": ""
             },
             "Dessert": {
               "swa": "Tibiliboco",
-              "Pronunciation": "",
+              "Pronunciation": "t+ee-b+ee-lee-b+oh-c+oh",
               "origin": ""
             },
             "Detail": {
-              "swa": "Lwati kabanti",
-              "Pronunciation": "",
+              "swa": "Yenaba kabanti",
+              "Pronunciation": "year-nah-b+ah k+ah-b+ah-n+t+ee",
               "origin": ""
             },
             "Detour": {
               "swa": "Nhlanhlatseka, Phambuka",
-              "Pronunciation": "",
+              "Pronunciation": "n+hcla-n+hcla-t+seh-k+ah",
               "origin": ""
             },
             "Device": {
               "swa": "Intfo tsite",
-              "Pronunciation": "",
+              "Pronunciation": "in-t+foe t+see-t+eh ",
               "origin": ""
             },
-            "Devote": { "swa": "Nikela", "Pronunciation": "", "origin": "" },
+            "Devote": {
+              "swa": "Nikela",
+              "Pronunciation": "nee-k+eh-lah",
+              "origin": ""
+            },
             "Devour": {
               "swa": "Khwimilitela, Shwamudzela",
-              "Pronunciation": "",
+              "Pronunciation": "k+wee-mee-lee-t+eh-lah",
               "origin": ""
             },
-            "Dew": { "swa": "Ematolo", "Pronunciation": "", "origin": "" },
-            "Dial": { "swa": "Inkinobho", "Pronunciation": "", "origin": "" },
+            "Dew": {
+              "swa": "Ematolo",
+              "Pronunciation": "em-ah-t+oh-l+oh",
+              "origin": ""
+            },
+            "Dial": {
+              "swa": "Inkinobho",
+              "Pronunciation": "ink-ee-no-bore",
+              "origin": ""
+            },
             "Diamond ": {
               "swa": "Idayimane",
-              "Pronunciation": "",
+              "Pronunciation": "e-dah-yee-mah-neh",
               "origin": ""
             },
-            "Dice": { "swa": "Lidayisi", "Pronunciation": "", "origin": "" },
+            "Dice": {
+              "swa": "Lidayisi",
+              "Pronunciation": "lee-dah-yee-see",
+              "origin": ""
+            },
             "Dictate": {
               "swa": "Shaya umtsetfo",
-              "Pronunciation": "",
+              "Pronunciation": "shy-ah oom-t+seh-t+foe",
               "origin": ""
             },
             "Dictionary": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Did": { "swa": "Entile", "Pronunciation": "", "origin": "" },
-            "Die": { "swa": "Shona, Fani", "Pronunciation": "", "origin": "" },
+            "Did": {
+              "swa": "Entile",
+              "Pronunciation": "en-t+ee-leh",
+              "origin": ""
+            },
+            "Die": {
+              "swa": "Shona, Fani",
+              "Pronunciation": "sho-nah",
+              "origin": ""
+            },
             "Diet": {
               "swa": "Dlani ngekutikalela",
-              "Pronunciation": "",
+              "Pronunciation": "d+la-nee n+g+eh-k+oo-t+ee-k+ah-leh-lah",
               "origin": ""
             },
-            "Differ": { "swa": "Yehluka", "Pronunciation": "", "origin": "" },
-            "Dig": { "swa": "Gubha, Yimba", "Pronunciation": "", "origin": "" },
-            "Digest": { "swa": "Gaya", "Pronunciation": "", "origin": "" },
-            "Digit": { "swa": "Inombolo", "Pronunciation": "", "origin": "" },
+            "Differ": {
+              "swa": "Yehluka",
+              "Pronunciation": "year-hcl+oo-k+ah",
+              "origin": ""
+            },
+            "Dig": {
+              "swa": "Gubha, Yimba",
+              "Pronunciation": "goo-bar",
+              "origin": ""
+            },
+            "Digest": {
+              "swa": "Gaya",
+              "Pronunciation": "g+ah-yah",
+              "origin": ""
+            },
+            "Digit": {
+              "swa": "Inombolo",
+              "Pronunciation": "e-no-m+bore-lore",
+              "origin": ""
+            },
             "Dignity": {
               "swa": "Similo, Sizotsa",
-              "Pronunciation": "",
+              "Pronunciation": "see-mee-lore",
               "origin": ""
             },
-            "Dilemma": { "swa": "Umhlolo", "Pronunciation": "", "origin": "" },
-            "Dim": { "swa": "Fiphele", "Pronunciation": "", "origin": "" },
-            "Dime": { "swa": "Sheleni", "Pronunciation": "", "origin": "" },
+            "Dilemma": {
+              "swa": "Umhlolo",
+              "Pronunciation": "oom-hclo-lore",
+              "origin": ""
+            },
+            "Dim": {
+              "swa": "Fiphele",
+              "Pronunciation": "fee-per-leh",
+              "origin": ""
+            },
+            "Dime": {
+              "swa": "Sheleni",
+              "Pronunciation": "share-leh-nee",
+              "origin": ""
+            },
             "Diminish": {
               "swa": "Dlabhatisa",
-              "Pronunciation": "",
+              "Pronunciation": "d+l+ah-bar-t+ee-sah",
               "origin": ""
             },
-            "Dine": { "swa": "Dlani", "Pronunciation": "", "origin": "" },
+            "Dine": {
+              "swa": "Dlani",
+              "Pronunciation": "d+l+ah-nee",
+              "origin": ""
+            },
             "Dinner": {
               "swa": "Kudla kwasemini",
-              "Pronunciation": "",
+              "Pronunciation": "k+oo-d+l+ah k+wah-seh-mee-nee",
               "origin": ""
             },
             "Dinosaur": {
               "swa": "Idanasoli",
-              "Pronunciation": "",
+              "Pronunciation": "e-dah-nah-so-lee",
               "origin": ""
             },
             "Dip": {
               "swa": "Cobhota, Cwilisa",
-              "Pronunciation": "",
+              "Pronunciation": "c+oh-bore-t+ah",
               "origin": ""
             },
             "Diploma": {
               "swa": "Sitifiketi sekugogodza",
-              "Pronunciation": "",
+              "Pronunciation": "see-t+ee-fee-k+eh-t+ee seh-k+oo-go-go-d+z+ah",
               "origin": ""
             },
             "Direct": {
               "swa": "Condze ngco",
-              "Pronunciation": "",
+              "Pronunciation": "c+oh-n+d+zeh n+g+c+oh",
               "origin": ""
             },
-            "Dirt": { "swa": "Kungcola", "Pronunciation": "", "origin": "" },
+            "Dirt": {
+              "swa": "Kungcola",
+              "Pronunciation": "k+oo-n+g+c+oh-lah",
+              "origin": ""
+            },
             "Discuss": {
               "swa": "Bonisanani",
-              "Pronunciation": "",
+              "Pronunciation": "b+oh-nee-sah-nah-nee",
               "origin": ""
             },
-            "Disdain": { "swa": "Chwensa", "Pronunciation": "", "origin": "" },
-            "Disease": { "swa": "Sifo", "Pronunciation": "", "origin": "" },
-            "Disguise": { "swa": "Bhaca", "Pronunciation": "", "origin": "" },
-            "Disgust": { "swa": "Kunyanya", "Pronunciation": "", "origin": "" },
-            "Dish": { "swa": "Indishi", "Pronunciation": "", "origin": "" },
-            "Dislike": { "swa": "Nyanya", "Pronunciation": "", "origin": "" },
+            "Disdain": {
+              "swa": "Chwensa",
+              "Pronunciation": "c+where-n+sah",
+              "origin": ""
+            },
+            "Disease": {
+              "swa": "Sifo",
+              "Pronunciation": "see-foe",
+              "origin": ""
+            },
+            "Disguise": {
+              "swa": "Bhaca",
+              "Pronunciation": "bar-c+ah",
+              "origin": ""
+            },
+            "Disgust": {
+              "swa": "Kunyanya",
+              "Pronunciation": "k+oo-n+yah-n+yah",
+              "origin": ""
+            },
+            "Dish": {
+              "swa": "Indishi",
+              "Pronunciation": "in-dee-shee",
+              "origin": ""
+            },
+            "Dislike": {
+              "swa": "Nyanya",
+              "Pronunciation": "n+yah-n+yah",
+              "origin": ""
+            },
             "Dismay": {
               "swa": "Lahla lithawula",
-              "Pronunciation": "",
+              "Pronunciation": "la-hcla lee-tar-woo-lah",
               "origin": ""
             },
             "Dismiss": {
               "swa": "Khulula, Nganaki",
-              "Pronunciation": "",
+              "Pronunciation": "cool-oo-lah",
               "origin": ""
             },
-            "Display": { "swa": "Deka", "Pronunciation": "", "origin": "" },
-            "Dispute": { "swa": "Phikisa", "Pronunciation": "", "origin": "" },
-            "Distance": { "swa": "Libanga", "Pronunciation": "", "origin": "" },
+            "Display": {
+              "swa": "Deka",
+              "Pronunciation": "dare-k+ah",
+              "origin": ""
+            },
+            "Dispute": {
+              "swa": "Phikisa",
+              "Pronunciation": "pee-k+ee-sah",
+              "origin": ""
+            },
+            "Distance": {
+              "swa": "Libanga",
+              "Pronunciation": "lee-b+ah-n+g+ah",
+              "origin": ""
+            },
             "Distinct": {
               "swa": "Hlukile, ngakajwayeleki",
-              "Pronunciation": "",
+              "Pronunciation": "hcl+oo-k+ee-leh",
               "origin": ""
             },
             "Distress": {
               "swa": "Ngenakuthula",
-              "Pronunciation": "",
+              "Pronunciation": "n+g+eh-nah-k+oo-too-lah",
               "origin": ""
             },
             "District": {
               "swa": "Sifundza",
-              "Pronunciation": "",
+              "Pronunciation": "see-foo-n+d+zah",
               "origin": ""
             },
             "Disturb": {
               "swa": "Tsikameta, Phazamisa",
-              "Pronunciation": "",
+              "Pronunciation": "t+see-k+ah-meh-t+ah",
               "origin": ""
             },
-            "Ditch": { "swa": "Umsele", "Pronunciation": "", "origin": "" },
+            "Ditch": {
+              "swa": "Umsele",
+              "Pronunciation": "oom-seh-leh",
+              "origin": ""
+            },
             "Dive": {
               "swa": "Jomba, Jombela",
-              "Pronunciation": "",
+              "Pronunciation": "j+oh-m+bar",
               "origin": ""
             },
             "Divide": {
               "swa": "Hlukanisa ngekukala",
-              "Pronunciation": "",
+              "Pronunciation": "hcl+oo-k+ah-nee-sah",
               "origin": ""
             },
-            "Divine": { "swa": "Ngcwele", "Pronunciation": "", "origin": "" },
+            "Divine": {
+              "swa": "Ngcwele",
+              "Pronunciation": "n+g+c+wear-leh",
+              "origin": ""
+            },
             "Divorce": {
               "swa": "Sehlukaniso",
-              "Pronunciation": "",
+              "Pronunciation": "seh-hcl+oo-k+ah-nee-so",
               "origin": ""
             },
-            "Dizzy": { "swa": "Nesiyeti", "Pronunciation": "", "origin": "" },
-            "Do": { "swa": "Yenta", "Pronunciation": "", "origin": "" },
-            "Doctor": { "swa": "Dokodela", "Pronunciation": "", "origin": "" },
-            "Dodge": { "swa": "Vika", "Pronunciation": "", "origin": "" },
-            "Dog": { "swa": "Inja", "Pronunciation": "", "origin": "" },
-            "Doll": { "swa": "Mdoli", "Pronunciation": "", "origin": "" },
-            "Dollar": { "swa": "Lidola", "Pronunciation": "", "origin": "" },
-            "Dolphin": { "swa": "Idolfini", "Pronunciation": "", "origin": "" },
-            "Dome": { "swa": "Luphahla", "Pronunciation": "", "origin": "" },
-            "Domestic": { "swa": "Sikhaya", "Pronunciation": "", "origin": "" },
-            "Dominant": { "swa": "Phetse", "Pronunciation": "", "origin": "" },
-            "Donate": { "swa": "Nikela", "Pronunciation": "", "origin": "" },
-            "Donkey": { "swa": "Imbongolo", "Pronunciation": "", "origin": "" },
+            "Dizzy": {
+              "swa": "Nesiyeti, Dzayitelako",
+              "Pronunciation": "ne-see-year-t+ee",
+              "origin": ""
+            },
+            "Do": {
+              "swa": "Yenta",
+              "Pronunciation": "year-n+t+ah",
+              "origin": ""
+            },
+            "Doctor": {
+              "swa": "Dokodela",
+              "Pronunciation": "doe-k+oh-d+eh-lah",
+              "origin": ""
+            },
+            "Dodge": {
+              "swa": "Vika",
+              "Pronunciation": "vee-k+ah",
+              "origin": ""
+            },
+            "Dog": { "swa": "Inja", "Pronunciation": "e-n+j+ah", "origin": "" },
+            "Doll": {
+              "swa": "Mdoli",
+              "Pronunciation": "m+doe-lee",
+              "origin": ""
+            },
+            "Dollar": {
+              "swa": "Lidola",
+              "Pronunciation": "lee-doe-lah",
+              "origin": ""
+            },
+            "Dolphin": {
+              "swa": "Idolfini",
+              "Pronunciation": "e-doll-fin-e",
+              "origin": ""
+            },
+            "Dome": {
+              "swa": "Luphahla",
+              "Pronunciation": "loo-par-hcla",
+              "origin": ""
+            },
+            "Domestic": {
+              "swa": "Sikhaya",
+              "Pronunciation": "see-car-yah",
+              "origin": ""
+            },
+            "Dominant": {
+              "swa": "Phetse",
+              "Pronunciation": "per-t+seh",
+              "origin": ""
+            },
+            "Donate": {
+              "swa": "Nikela",
+              "Pronunciation": "nee-k+eh-lah",
+              "origin": ""
+            },
+            "Donkey": {
+              "swa": "Imbongolo",
+              "Pronunciation": "e-m+bore-n+g+ore-lore",
+              "origin": ""
+            },
             "Donor": {
               "swa": "Sandla semusa",
-              "Pronunciation": "",
+              "Pronunciation": "sah-n+d+l+ah seh-moo-sah",
               "origin": ""
             },
             "Door": {
               "swa": "Sivalo, Ummnyango",
-              "Pronunciation": "",
+              "Pronunciation": "oom-n+yah-n+g+oh",
               "origin": ""
             },
-            "Dope": { "swa": "Sidzakamiva", "Pronunciation": "", "origin": "" },
+            "Dope": {
+              "swa": "Sidzakamiva",
+              "Pronunciation": "see-d+zah-k+ah-mee-vah",
+              "origin": ""
+            },
             "Dormant ": {
-              "swa": "Nganakeki, Nganasitfunti",
-              "Pronunciation": "",
+              "swa": "Nganakeki",
+              "Pronunciation": "n+g+ah-nah-k+eh-k+ee",
               "origin": ""
             },
-            "Dose": { "swa": "Sikali", "Pronunciation": "", "origin": "" },
-            "Dot": { "swa": "Licashata", "Pronunciation": "", "origin": "" },
-            "Double": { "swa": "Ngakubili", "Pronunciation": "", "origin": "" },
-            "Doubt": { "swa": "Kungabata", "Pronunciation": "", "origin": "" },
-            "Dough": { "swa": "Inhlama", "Pronunciation": "", "origin": "" },
+            "Dose": {
+              "swa": "Sikali",
+              "Pronunciation": "see-k+ah-lee",
+              "origin": ""
+            },
+            "Dot": {
+              "swa": "Licashata",
+              "Pronunciation": "lee-c+ah-sha-t+ah",
+              "origin": ""
+            },
+            "Double": {
+              "swa": "Ngakubili",
+              "Pronunciation": "n+g+ah-k+oo-b+ee-lee",
+              "origin": ""
+            },
+            "Doubt": {
+              "swa": "Kungabata, Kungatsita",
+              "Pronunciation": "k+oo-n+g+ah-b+ah-t+ah",
+              "origin": ""
+            },
+            "Dough": {
+              "swa": "Inhlama",
+              "Pronunciation": "in-hcla-mah",
+              "origin": ""
+            },
             "Dove": {
               "swa": "Lituba lesilumbi",
-              "Pronunciation": "",
+              "Pronunciation": "lee-t+oo-b+ah leh-see-loo-m+bee",
               "origin": ""
             },
-            "Down": { "swa": "Phasi", "Pronunciation": "", "origin": "" },
-            "Dowry": { "swa": "Emalobolo", "Pronunciation": "", "origin": "" },
+            "Down": {
+              "swa": "Phasi",
+              "Pronunciation": "par-see",
+              "origin": ""
+            },
+            "Dowry": {
+              "swa": "Emalobolo, Inhlawulo",
+              "Pronunciation": "ema-loh-b+oh-loh",
+              "origin": ""
+            },
             "Draft": {
               "swa": "Umnbhalo silinganiso",
-              "Pronunciation": "",
+              "Pronunciation": "oom-bar-loh see-lee-n+g+ah-nee-so",
               "origin": ""
             },
             "Drag": {
               "swa": "Hudvula, Dvosa",
-              "Pronunciation": "",
+              "Pronunciation": "who-d+voo-lah",
               "origin": ""
             },
-            "Drain": { "swa": "Citsa", "Pronunciation": "", "origin": "" },
-            "Drama": { "swa": "Tigemegeme", "Pronunciation": "", "origin": "" },
-            "Drank": { "swa": "Natsile", "Pronunciation": "", "origin": "" },
-            "Drape": { "swa": "Hlakata", "Pronunciation": "", "origin": "" },
-            "Draw": { "swa": "Dvweba", "Pronunciation": "", "origin": "" },
-            "Drawing": { "swa": "Umdvwebo", "Pronunciation": "", "origin": "" },
+            "Drain": {
+              "swa": "Citsa",
+              "Pronunciation": "c+ee-t+sa",
+              "origin": ""
+            },
+            "Drama": {
+              "swa": "Tigemegeme",
+              "Pronunciation": "t+ee-g+eh-meh-g+eh-meh",
+              "origin": ""
+            },
+            "Drank": {
+              "swa": "Natsile",
+              "Pronunciation": "nah-t+see-leh",
+              "origin": ""
+            },
+            "Drape": {
+              "swa": "Hlakata",
+              "Pronunciation": "hcla-k+ah-t+ah",
+              "origin": ""
+            },
+            "Draw": {
+              "swa": "Dvweba",
+              "Pronunciation": "d+v+weh-b+ah",
+              "origin": ""
+            },
+            "Drawing": {
+              "swa": "Umdvwebo",
+              "Pronunciation": "oom-d+v+weh-b+oh",
+              "origin": ""
+            },
             "Dread": {
               "swa": "Saba lokutako",
-              "Pronunciation": "",
+              "Pronunciation": "sah-b+ah loh-k+oo-t+ah-k+oh",
               "origin": ""
             },
             "Dream": {
               "swa": "Bhudza, Phupha, Hhema",
-              "Pronunciation": "",
+              "Pronunciation": "boo-d+zah",
               "origin": ""
             },
             "Drench": {
               "swa": "Mantisa, Cwilisa",
-              "Pronunciation": "",
+              "Pronunciation": "mah-n+t+ee-sah",
               "origin": ""
             },
-            "Dress": { "swa": "Lilokwe", "Pronunciation": "", "origin": "" },
-            "Drew": { "swa": "Dvwebile", "Pronunciation": "", "origin": "" },
-            "Dried ": { "swa": "Omisiwe", "Pronunciation": "", "origin": "" },
-            "Drift": { "swa": "Ntanta", "Pronunciation": "", "origin": "" },
-            "Drink": { "swa": "Natsa", "Pronunciation": "", "origin": "" },
-            "Drip": { "swa": "Ntonta", "Pronunciation": "", "origin": "" },
-            "Drive": { "swa": "Shayela", "Pronunciation": "", "origin": "" },
-            "Driven": { "swa": "Shayelwe", "Pronunciation": "", "origin": "" },
-            "Driver": { "swa": "Umshayeli", "Pronunciation": "", "origin": "" },
+            "Dress": {
+              "swa": "Lilokwe",
+              "Pronunciation": "lee-lore-k+weh",
+              "origin": ""
+            },
+            "Drew": {
+              "swa": "Dvwebile",
+              "Pronunciation": "d+veh-b+ee-leh",
+              "origin": ""
+            },
+            "Dried ": {
+              "swa": "Omisiwe",
+              "Pronunciation": "o-mee-see-weh",
+              "origin": ""
+            },
+            "Drift": {
+              "swa": "Ntantamuka",
+              "Pronunciation": "n+t+ah-n+t+ah-moo-k+ah",
+              "origin": ""
+            },
+            "Drink": {
+              "swa": "Natsa",
+              "Pronunciation": "na-t+sah",
+              "origin": ""
+            },
+            "Drip": {
+              "swa": "Ntonta",
+              "Pronunciation": "n+t+oh-n+t+ah",
+              "origin": ""
+            },
+            "Drive": {
+              "swa": "Shayela",
+              "Pronunciation": "shy-eh-lah",
+              "origin": ""
+            },
+            "Driven": {
+              "swa": "Shayelwe",
+              "Pronunciation": "shy-eh-l+wah",
+              "origin": ""
+            },
+            "Driver": {
+              "swa": "Umshayeli",
+              "Pronunciation": "oom-shy-eh-lee",
+              "origin": ""
+            },
             "Drizzle": {
               "swa": "Khema, Khemetela",
-              "Pronunciation": "",
+              "Pronunciation": "care-mah",
               "origin": ""
             },
             "Drone": {
-              "swa": "Hhomutela, Hhihhitela",
-              "Pronunciation": "",
+              "swa": "Hhomutela, Hhinhhitela",
+              "Pronunciation": "h+h+oh-moo-t+eh-lah",
               "origin": ""
             },
-            "Droop": { "swa": "Lenga", "Pronunciation": "", "origin": "" },
-            "Drop": { "swa": "Litfonsi", "Pronunciation": "", "origin": "" },
-            "Drought": { "swa": "Somiso", "Pronunciation": "", "origin": "" },
-            "Drown": { "swa": "Mita", "Pronunciation": "", "origin": "" },
-            "Drowsy": { "swa": "Dzayitela", "Pronunciation": "", "origin": "" },
-            "Drug": { "swa": "Sidzakamiva", "Pronunciation": "", "origin": "" },
-            "Drum": { "swa": "Umukomukomu", "Pronunciation": "", "origin": "" },
-            "Drunk": { "swa": "Dzakiwe", "Pronunciation": "", "origin": "" },
-            "Dry": { "swa": "Omile", "Pronunciation": "", "origin": "" },
+            "Droop": {
+              "swa": "Lenga",
+              "Pronunciation": "leh-n+g+ah",
+              "origin": ""
+            },
+            "Drop": {
+              "swa": "Litfonsi",
+              "Pronunciation": "lee-t+foe-n+see",
+              "origin": ""
+            },
+            "Drought": {
+              "swa": "Somiso",
+              "Pronunciation": "so-mee-so",
+              "origin": ""
+            },
+            "Drown": {
+              "swa": "Mita",
+              "Pronunciation": "mee-t+ah",
+              "origin": ""
+            },
+            "Drowsy": {
+              "swa": "Dzayitelako, Telako",
+              "Pronunciation": "d+zah-yee-t+eh-lah-k+oh",
+              "origin": ""
+            },
+            "Drug": {
+              "swa": "Sidzakamiva",
+              "Pronunciation": "see-d+zah-k+ah-mee-vah",
+              "origin": ""
+            },
+            "Drum": {
+              "swa": "Umukomukomu, Ligcoma",
+              "Pronunciation": "oo-moo-k+oh-moo-k+oh-moo",
+              "origin": ""
+            },
+            "Drunk": {
+              "swa": "Dzakiwe",
+              "Pronunciation": "d+z+ah-k+ee-weh",
+              "origin": ""
+            },
+            "Dry": {
+              "swa": "Omile",
+              "Pronunciation": "o-mee-leh",
+              "origin": ""
+            },
             "Dual": {
               "swa": "Nemaphaca, Mbacambili",
-              "Pronunciation": "",
+              "Pronunciation": "ne-mah-par-c+ah",
               "origin": ""
             },
-            "Dub": { "swa": "Yetsa, Camba", "Pronunciation": "", "origin": "" },
+            "Dub": {
+              "swa": "Yetsa, Camba",
+              "Pronunciation": "year-t+sah",
+              "origin": ""
+            },
             "Dubious": {
               "swa": "Ngabatako",
-              "Pronunciation": "",
+              "Pronunciation": "n+g+ah-b+ah-t+ah-k+oh",
               "origin": ""
             },
-            "Duck": { "swa": "Lidada", "Pronunciation": "", "origin": "" },
-            "Due": { "swa": "Fanelwe", "Pronunciation": "", "origin": "" },
+            "Duck": {
+              "swa": "Lidada",
+              "Pronunciation": "lee-d+ah-d+ah",
+              "origin": ""
+            },
+            "Due": {
+              "swa": "Fanelwe",
+              "Pronunciation": "far-ne-l+weh",
+              "origin": ""
+            },
             "Dug": {
               "swa": "Mbile, Gubhile",
-              "Pronunciation": "",
+              "Pronunciation": "m+bee-leh",
               "origin": ""
             },
             "Dull": {
               "swa": "Ngahehi, Nganiki umdlandla",
-              "Pronunciation": "",
+              "Pronunciation": "n+g+ah-her-hee",
               "origin": ""
             },
-            "Dumb": { "swa": "Simungulu", "Pronunciation": "", "origin": "" },
-            "Dump": { "swa": "Lahla", "Pronunciation": "", "origin": "" },
-            "Dune": { "swa": "Incumatsi", "Pronunciation": "", "origin": "" },
-            "Dupe": { "swa": "Pomu", "Pronunciation": "", "origin": "" },
-            "Durable": { "swa": "Cinile", "Pronunciation": "", "origin": "" },
+            "Dumb": {
+              "swa": "Simungulu",
+              "Pronunciation": "see-moo-n+g+oo-loo",
+              "origin": ""
+            },
+            "Dump": {
+              "swa": "Lahla",
+              "Pronunciation": "lah-hcla",
+              "origin": ""
+            },
+            "Dune": {
+              "swa": "Incumatsi",
+              "Pronunciation": "in-c+oo-mah-t+see",
+              "origin": ""
+            },
+            "Dupe": {
+              "swa": "Pomu",
+              "Pronunciation": "p+oh-moo",
+              "origin": ""
+            },
+            "Durable": {
+              "swa": "Cinile",
+              "Pronunciation": "c+ee-nee-leh",
+              "origin": ""
+            },
             "Duration": {
               "swa": "Sikhatsi",
-              "Pronunciation": "",
+              "Pronunciation": "see-car-t+see",
               "origin": ""
             },
             "During": {
               "swa": "Ngesikhatsi, Na",
-              "Pronunciation": "",
+              "Pronunciation": "n+g+eh-see-car-t+see",
               "origin": ""
             },
-            "Dusk": { "swa": "Ntsambama", "Pronunciation": "", "origin": "" },
-            "Dust": { "swa": "Lutfuli", "Pronunciation": "", "origin": "" },
+            "Dusk": {
+              "swa": "Ntsambama",
+              "Pronunciation": "n+t+sa-m+bar-mah",
+              "origin": ""
+            },
+            "Dust": {
+              "swa": "Lutfuli",
+              "Pronunciation": "loo-t+foo-lee",
+              "origin": ""
+            },
             "Duty": {
               "swa": "Umsebenti wa-",
-              "Pronunciation": "",
+              "Pronunciation": "oom-seh-b+eh-n+t+ee wa-",
               "origin": ""
             },
             "Dwell": {
-              "swa": "Bambelela, Hlala",
-              "Pronunciation": "",
+              "swa": "Hlala",
+              "Pronunciation": "hlca-lah",
               "origin": ""
             },
-            "Dwindle": { "swa": "Ncipha", "Pronunciation": "", "origin": "" },
+            "Dwindle": {
+              "swa": "Ncipha ngelinani",
+              "Pronunciation": "n+c+ee-par n+g+eh-lee-nah-nee",
+              "origin": ""
+            },
             "Deceitful": {
               "swa": "Nemanga",
-              "Pronunciation": "",
+              "Pronunciation": "neh-mah-n+g+ah",
               "origin": ""
             },
             "Declaration": {
               "swa": "Inkhulumo",
-              "Pronunciation": "",
+              "Pronunciation": "in-koo-loo-more",
               "origin": ""
             },
             "Decorated": {
               "swa": "Hlotjisiwe",
-              "Pronunciation": "",
+              "Pronunciation": "hclo-t+j+ee-see-weh",
               "origin": ""
             },
             "Defamation": {
               "swa": "Kungcolisa ligama",
-              "Pronunciation": "",
+              "Pronunciation": "k+oo-n+g+c+oh-lee-sah lee-g+ah-mah",
               "origin": ""
             },
             "Deforestation": {
-              "swa": "Kudla emahlatsi",
-              "Pronunciation": "",
+              "swa": "Ligawulele",
+              "Pronunciation": "lee-g+ah-woo-leh-leh",
               "origin": ""
             },
             "Delightful": {
               "swa": "Nandzisako",
-              "Pronunciation": "",
+              "Pronunciation": "na-n+d+zee-sah-k+oh",
               "origin": ""
             },
             "Democracy": {
               "swa": "Hulumende wentsandvo yeliningi",
-              "Pronunciation": "",
+              "Pronunciation": "who-loo-meh-n+dare weh-n+t+sa-n+d+v+oh year-lee-nee-n+g+ee",
               "origin": ""
             },
             "Destination": {
               "swa": "Lapho kuyiwa khona",
-              "Pronunciation": "",
+              "Pronunciation": "lah-pore k+oo-yee-wah core-nah",
               "origin": ""
             },
             "Destructive": {
               "swa": "Bhidlitako",
-              "Pronunciation": "",
+              "Pronunciation": "bee-d+lee-t+ah-k+oh",
               "origin": ""
             },
             "Determination": {
               "swa": "Kutitjela",
-              "Pronunciation": "",
+              "Pronunciation": "k+oo-t+ee-t+j+eh-lah",
               "origin": ""
             },
             "Development": {
               "swa": "Intfutfuko",
-              "Pronunciation": "",
+              "Pronunciation": "int-foo-k+oo-t+seh-lore",
               "origin": ""
             },
             "Difficult": {
               "swa": "Matima, Lukhuni",
-              "Pronunciation": "",
+              "Pronunciation": "mah-t+ee-mah",
               "origin": ""
             },
             "Disadvantage": {
               "swa": "Bubi be-",
-              "Pronunciation": "",
+              "Pronunciation": "b+oo-b+ee b+eh",
               "origin": ""
             },
             "Disappearance": {
               "swa": "Kunyamalala",
-              "Pronunciation": "",
+              "Pronunciation": "k+oo-n+yah-mah-lah-lah",
               "origin": ""
             },
             "Discrimination": {
               "swa": "Lubandlululo",
-              "Pronunciation": "",
+              "Pronunciation": "loo-b+ah-n+d+loo-loo-lore",
               "origin": ""
             },
             "Disgraceful": {
               "swa": "Nemihlolo, Nemahlazo",
-              "Pronunciation": "",
+              "Pronunciation": "ne-mee-hclo-lore",
               "origin": ""
             },
             "Disobedience": {
               "swa": "Kweyana",
-              "Pronunciation": "",
+              "Pronunciation": "k+weh-yah-nah",
               "origin": ""
             },
             "Disrespectful": {
               "swa": "Kudzelela",
-              "Pronunciation": "",
+              "Pronunciation": "k+oo-d+zeh-leh-lah",
               "origin": ""
             },
             "Donation": {
               "swa": "Kwambulela",
-              "Pronunciation": "",
+              "Pronunciation": "k+wah-m+boo-leh-lah",
               "origin": ""
             }
           }
         ],
         "E": [
           {
-            "Each": { "swa": "Ngakunye", "Pronunciation": "", "origin": "" },
+            "Each": {
+              "swa": "Ngakunye",
+              "Pronunciation": "n+g+ah-k+oo-n+year",
+              "origin": ""
+            },
             "Eager": {
-              "swa": "Nenshisakalo",
-              "Pronunciation": "",
+              "swa": "Nenshisekelo",
+              "Pronunciation": "ne-n+shee-seh-k+eh-lore",
               "origin": ""
             },
             "Eagle": { "swa": "", "Pronunciation": "", "origin": "" },
             "Early": {
               "swa": "Kusenombonombo",
-              "Pronunciation": "",
+              "Pronunciation": "k+oo-seh-no-m+bore-no-m+bore",
               "origin": ""
             },
-            "Earn": { "swa": "Zuza", "Pronunciation": "", "origin": "" },
-            "Earth": { "swa": "Umhlaba", "Pronunciation": "", "origin": "" },
+            "Earn": { "swa": "Zuza", "Pronunciation": "zoo-zah", "origin": "" },
+            "Earth": {
+              "swa": "Umhlaba",
+              "Pronunciation": "oom-hcla-b+ah",
+              "origin": ""
+            },
             "Ease": {
               "swa": "Yenta bulula",
-              "Pronunciation": "",
+              "Pronunciation": "year-n+t+ah b+oo-loo-lah",
               "origin": ""
             },
             "East": {
               "swa": "iMphumalanga",
-              "Pronunciation": "",
+              "Pronunciation": "e-m+poo-mah-lah-n+g+ah",
               "origin": ""
             },
-            "Easy": { "swa": "Lula", "Pronunciation": "", "origin": "" },
-            "Eat": { "swa": "Dlani", "Pronunciation": "", "origin": "" },
+            "Easy": {
+              "swa": "Malula",
+              "Pronunciation": "mah-loo-lah",
+              "origin": ""
+            },
+            "Eat": {
+              "swa": "Dlani",
+              "Pronunciation": "d+l+ah-nee",
+              "origin": ""
+            },
             "Economy": {
               "swa": "Simo semnotfo",
-              "Pronunciation": "",
+              "Pronunciation": "see-mo seh-m+no-t+foe",
               "origin": ""
             },
             "Edge": {
               "swa": "Ekucupheleni",
-              "Pronunciation": "",
+              "Pronunciation": "eh-k+oo-c+oo-per-leh-nee",
               "origin": ""
             },
-            "Edible": { "swa": "Dliwako", "Pronunciation": "", "origin": "" },
-            "Edit": { "swa": "Lungisa", "Pronunciation": "", "origin": "" },
-            "Educate": { "swa": "Fundzisa", "Pronunciation": "", "origin": "" },
-            "Effect": { "swa": "Umphumela", "Pronunciation": "", "origin": "" },
-            "Effort": { "swa": "Umfutfo", "Pronunciation": "", "origin": "" },
-            "Egg": { "swa": "Licandza", "Pronunciation": "", "origin": "" },
-            "Eject": { "swa": "Ntjinga", "Pronunciation": "", "origin": "" },
+            "Edible": {
+              "swa": "Dliwako",
+              "Pronunciation": "d+lee-wah-k+oh",
+              "origin": ""
+            },
+            "Edit": {
+              "swa": "Lungisa",
+              "Pronunciation": "loo-n+g+ee-sah",
+              "origin": ""
+            },
+            "Educate": {
+              "swa": "Fundzisa",
+              "Pronunciation": "foo-n+d+zee-sah",
+              "origin": ""
+            },
+            "Effect": {
+              "swa": "Umphumela",
+              "Pronunciation": "oom-poo-meh-lah",
+              "origin": ""
+            },
+            "Effort": {
+              "swa": "Umfutfo",
+              "Pronunciation": "oom-foo-t+foe",
+              "origin": ""
+            },
+            "Egg": {
+              "swa": "Licandza",
+              "Pronunciation": "lee-c+ah-n+d+zah",
+              "origin": ""
+            },
+            "Eject": {
+              "swa": "Ntjinga",
+              "Pronunciation": "n+t+j+ee-n+g+ah",
+              "origin": ""
+            },
             "Elder": {
               "swa": "Umuntfu lomdzala",
-              "Pronunciation": "",
+              "Pronunciation": "oo-moon-t+foo lom-d+zah-lah",
               "origin": ""
             },
-            "Elect": { "swa": "Khetsa", "Pronunciation": "", "origin": "" },
+            "Elect": {
+              "swa": "Khetsa",
+              "Pronunciation": "care-t+sah",
+              "origin": ""
+            },
             "Elegant": {
               "swa": "Nesitfunti",
-              "Pronunciation": "",
+              "Pronunciation": "ne-see-t+foo-n+t+ee",
               "origin": ""
             },
-            "Elephant": { "swa": "Indlovu", "Pronunciation": "", "origin": "" },
+            "Elephant": {
+              "swa": "Indlovu",
+              "Pronunciation": "in-d+lore-voo",
+              "origin": ""
+            },
             "Elevate": {
               "swa": "Phakamisa",
-              "Pronunciation": "",
+              "Pronunciation": "par-k+ah-mee-sah",
               "origin": ""
             },
             "Eleven": {
               "swa": "Lishumi nanye",
-              "Pronunciation": "",
+              "Pronunciation": "lee-shoo-me na-n+year",
               "origin": ""
             },
-            "Elite": { "swa": "Tikhulu", "Pronunciation": "", "origin": "" },
+            "Elite": {
+              "swa": "Tikhulu",
+              "Pronunciation": "t+ee-cool-oo",
+              "origin": ""
+            },
             "Ellipse": {
               "swa": "Indingilizi",
               "Pronunciation": "",
-              "origin": ""
+              "origin": "in-dee-n+g+ee-lee-zee"
             },
             "Else": {
               "swa": "Ngale kwaloko",
-              "Pronunciation": "",
+              "Pronunciation": "n+g+ah-leh k+wah-loh-k+oh",
               "origin": ""
             },
-            "Embers": { "swa": "Emalahle", "Pronunciation": "", "origin": "" },
-            "Embrace": { "swa": "Yanga", "Pronunciation": "", "origin": "" },
+            "Embers": {
+              "swa": "Emalahle",
+              "Pronunciation": "em-ah-lah-hcl+eh",
+              "origin": ""
+            },
+            "Embrace": {
+              "swa": "Yanga",
+              "Pronunciation": "yah-n+g+ah",
+              "origin": ""
+            },
             "Emerge": {
               "swa": "Vumbuka, Tfushuka",
-              "Pronunciation": "",
+              "Pronunciation": "voo-m+boo-k+ah",
               "origin": ""
             },
-            "Emit": { "swa": "Khipha", "Pronunciation": "", "origin": "" },
+            "Emit": {
+              "swa": "Khipha",
+              "Pronunciation": "key-par",
+              "origin": ""
+            },
             "Emotion": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Emperor": { "swa": "Inkhosi", "Pronunciation": "", "origin": "" },
+            "Emperor": {
+              "swa": "Inkhosi",
+              "Pronunciation": "in-core-see",
+              "origin": ""
+            },
             "Emphasis": {
               "swa": "Kugcizelela",
-              "Pronunciation": "",
+              "Pronunciation": "k+oo-g+c+ee-zeh-leh-lah",
               "origin": ""
             },
-            "Empire": { "swa": "Bukhosi", "Pronunciation": "", "origin": "" },
-            "Employ": { "swa": "Casha", "Pronunciation": "", "origin": "" },
-            "Empty": { "swa": "Kute, Lite", "Pronunciation": "", "origin": "" },
-            "Enable": { "swa": "Gunyata", "Pronunciation": "", "origin": "" },
-            "Enclose": { "swa": "Mbonya", "Pronunciation": "", "origin": "" },
-            "Encore": { "swa": "Imphindza", "Pronunciation": "", "origin": "" },
+            "Empire": {
+              "swa": "Bukhosi",
+              "Pronunciation": "b+oo-core-see",
+              "origin": ""
+            },
+            "Employ": {
+              "swa": "Casha",
+              "Pronunciation": "c+ah-sha",
+              "origin": ""
+            },
+            "Empty": {
+              "swa": "Kute, Lite",
+              "Pronunciation": "k+oo-t+eh",
+              "origin": ""
+            },
+            "Enable": {
+              "swa": "Gunyata",
+              "Pronunciation": "goo-n+yah-t+ah",
+              "origin": ""
+            },
+            "Enclose": {
+              "swa": "Mbonya",
+              "Pronunciation": "m+bore-n+yah",
+              "origin": ""
+            },
+            "Encore": {
+              "swa": "Imphindza",
+              "Pronunciation": "im+pee-n+d+zah",
+              "origin": ""
+            },
             "Encounter": {
               "swa": "Hlangabetana ne-",
-              "Pronunciation": "",
+              "Pronunciation": "hcla-n+g+ah-b+eh-t+ah-nah ne-",
               "origin": ""
             },
             "Encourage": {
               "swa": "Khutsata",
-              "Pronunciation": "",
+              "Pronunciation": "koo-t+sah-t+ah",
               "origin": ""
             },
             "End": {
               "swa": "Khawula, Gcina, Sigcino",
-              "Pronunciation": "",
+              "Pronunciation": "car-woo-lah",
               "origin": ""
             },
             "Endanger": {
               "swa": "Faka engotini",
-              "Pronunciation": "",
+              "Pronunciation": "far-k+ah en-go-t+ee-nee",
               "origin": ""
             },
             "Endless": {
               "swa": "Ngapheli, Ngenamukhawulo",
-              "Pronunciation": "",
+              "Pronunciation": "n+g+ah-per-lee",
               "origin": ""
             },
             "Endure": {
               "swa": "Beketelela",
-              "Pronunciation": "",
+              "Pronunciation": "b+eh-k+eh-t+eh-leh-lah",
               "origin": ""
             },
-            "Enemy": { "swa": "Sitsa", "Pronunciation": "", "origin": "" },
-            "Energy": { "swa": "Emandla", "Pronunciation": "", "origin": "" },
+            "Enemy": {
+              "swa": "Sitsa",
+              "Pronunciation": "see-t+sah",
+              "origin": ""
+            },
+            "Energy": {
+              "swa": "Emandla",
+              "Pronunciation": "em-ah-n+d+lah",
+              "origin": ""
+            },
             "Engage": {
               "swa": "Tsembisa, Tibandzakanye",
-              "Pronunciation": "",
+              "Pronunciation": "t+seh-m-bee-sah",
               "origin": ""
             },
-            "Engine": { "swa": "Injini", "Pronunciation": "", "origin": "" },
+            "Engine": {
+              "swa": "Injini",
+              "Pronunciation": "in-j+ee-nee",
+              "origin": ""
+            },
             "Enhance": {
               "swa": "Yenta kube ncono",
-              "Pronunciation": "",
+              "Pronunciation": "year-n+t+ah k+oo-b+eh n+c+o-no",
               "origin": ""
             },
-            "Enjoy": { "swa": "Tsakasela", "Pronunciation": "", "origin": "" },
-            "Enlarge": { "swa": "Khulisa", "Pronunciation": "", "origin": "" },
-            "Enough": { "swa": "Kwenele", "Pronunciation": "", "origin": "" },
+            "Enjoy": {
+              "swa": "Tsakasela",
+              "Pronunciation": "t+sah-k+ah-seh-lah",
+              "origin": ""
+            },
+            "Enlarge": {
+              "swa": "Khulisa",
+              "Pronunciation": "cool-ee-sah",
+              "origin": ""
+            },
+            "Enough": {
+              "swa": "Kwenele",
+              "Pronunciation": "k+w+eh-neh-leh",
+              "origin": ""
+            },
             "Enquire": {
               "swa": "Buta kabanti",
-              "Pronunciation": "",
+              "Pronunciation": "b+oo-t+ah k+ah-b+ah-n+t+ee",
               "origin": ""
             },
             "Ensure": {
               "swa": "Cinisekisa",
-              "Pronunciation": "",
+              "Pronunciation": "c+ee-nee-seh-k+ee-sah",
               "origin": ""
             },
-            "Enter": { "swa": "Ngena", "Pronunciation": "", "origin": "" },
-            "Entertain": { "swa": "Chaza", "Pronunciation": "", "origin": "" },
+            "Enter": {
+              "swa": "Ngena",
+              "Pronunciation": "n+g+eh-nah",
+              "origin": ""
+            },
+            "Entertain": {
+              "swa": "Chaza",
+              "Pronunciation": "c+h+ah-zah",
+              "origin": ""
+            },
             "Enthusiasm": {
               "swa": "Kujabulela",
-              "Pronunciation": "",
+              "Pronunciation": "k+oo-j+ah-b+oo-leh-lah",
               "origin": ""
             },
-            "Entire": { "swa": "Onkhana", "Pronunciation": "", "origin": "" },
+            "Entire": {
+              "swa": "Onkhana",
+              "Pronunciation": "on-car-nah",
+              "origin": ""
+            },
             "Entomb": {
               "swa": "Gcibedzela",
-              "Pronunciation": "",
+              "Pronunciation": "g+c+ee-b+eh-d+zeh-lah",
               "origin": ""
             },
             "Entrust": {
               "swa": "Tsemba nge-",
-              "Pronunciation": "",
+              "Pronunciation": "t+seh-m+bar n+g+eh-",
               "origin": ""
             },
-            "Entry": { "swa": "Kungena", "Pronunciation": "", "origin": "" },
+            "Entry": {
+              "swa": "Kungena",
+              "Pronunciation": "k+oo-n+g+eh-nah",
+              "origin": ""
+            },
             "Envelope": {
               "swa": "Imvilopho",
-              "Pronunciation": "",
+              "Pronunciation": "im-vee-lore-pore",
               "origin": ""
             },
             "Environment": {
               "swa": "Indzawo",
-              "Pronunciation": "",
+              "Pronunciation": "in-d+z+ah-woe",
               "origin": ""
             },
-            "Envoy": { "swa": "Umgijimi", "Pronunciation": "", "origin": "" },
-            "Envy": { "swa": "Umhobholo", "Pronunciation": "", "origin": "" },
-            "Equal": { "swa": "Linganako", "Pronunciation": "", "origin": "" },
-            "Equate": { "swa": "Linganisa", "Pronunciation": "", "origin": "" },
+            "Envoy": {
+              "swa": "Umgijimi",
+              "Pronunciation": "oom-g+ee-j+ee-mee",
+              "origin": ""
+            },
+            "Envy": {
+              "swa": "Umhobholo",
+              "Pronunciation": "oom-ho-bore-lore",
+              "origin": ""
+            },
+            "Equal": {
+              "swa": "Linganako",
+              "Pronunciation": "lee-n+g+ah-nah-k+oh",
+              "origin": ""
+            },
+            "Equate": {
+              "swa": "Linganisa",
+              "Pronunciation": "lee-n+g+ah-nee-sah",
+              "origin": ""
+            },
             "Equip": {
               "swa": "Nika timfanelo",
-              "Pronunciation": "",
+              "Pronunciation": "nee-k+ah t+ee-m+far-neh-lore",
               "origin": ""
             },
-            "Era": { "swa": "Sikhatsi", "Pronunciation": "", "origin": "" },
+            "Era": {
+              "swa": "Sikhatsi",
+              "Pronunciation": "see-car-t+see",
+              "origin": ""
+            },
             "Erase": {
               "swa": "Cima, Cisha",
-              "Pronunciation": "",
+              "Pronunciation": "c+ee-sha",
               "origin": ""
             },
-            "Errand": { "swa": "Umyaleto", "Pronunciation": "", "origin": "" },
-            "Error": { "swa": "Liphutsa", "Pronunciation": "", "origin": "" },
-            "Escape": { "swa": "Phunyuka", "Pronunciation": "", "origin": "" },
+            "Errand": {
+              "swa": "Umyaleto",
+              "Pronunciation": "oom-yah-leh-t+oh",
+              "origin": ""
+            },
+            "Error": {
+              "swa": "Liphutsa",
+              "Pronunciation": "lee-poo-t+sah",
+              "origin": ""
+            },
+            "Escape": {
+              "swa": "Phunyuka",
+              "Pronunciation": "poo-n+you-k+ah",
+              "origin": ""
+            },
             "Escort": {
               "swa": "Phekeletela",
-              "Pronunciation": "",
+              "Pronunciation": "per-k+eh-t+eh-lah",
               "origin": ""
             },
             "Especially": {
               "swa": "Kakhulukati",
-              "Pronunciation": "",
+              "Pronunciation": "k+ah-cool-oo-k+ah-t+ee",
               "origin": ""
             },
-            "Essential": { "swa": "Mcoka", "Pronunciation": "", "origin": "" },
+            "Essential": {
+              "swa": "Mcoka",
+              "Pronunciation": "m+c+oh-k+ah",
+              "origin": ""
+            },
             "Esteem": {
               "swa": "Inhlonipho",
-              "Pronunciation": "",
+              "Pronunciation": "on-hclo-nee-pore",
               "origin": ""
             },
             "Estimate": {
               "swa": "Linganisela",
-              "Pronunciation": "",
+              "Pronunciation": "lee-n+g+ah-nee-seh-lah",
               "origin": ""
             },
             "Estranged": {
               "swa": "Hambela khashane",
-              "Pronunciation": "",
+              "Pronunciation": "h+ah-m+bear-lah car-sha-neh",
               "origin": ""
             },
             "Eternal": {
               "swa": "Naphakadze",
-              "Pronunciation": "",
+              "Pronunciation": "nah-par-k+ah-d+z+eh",
               "origin": ""
             },
-            "Evade": { "swa": "Doja", "Pronunciation": "", "origin": "" },
+            "Evade": {
+              "swa": "Doja",
+              "Pronunciation": "doe-j+ah",
+              "origin": ""
+            },
             "Eve": {
-              "swa": "Ngayitolo kwe-",
-              "Pronunciation": "",
+              "swa": "Ngayitolo",
+              "Pronunciation": "n+g+ah-yee-t+oh-lore",
               "origin": ""
             },
-            "Even": { "swa": "Noma", "Pronunciation": "", "origin": "" },
+            "Even": { "swa": "Noma", "Pronunciation": "no-mah", "origin": "" },
             "Evening": {
               "swa": "Ntsambama",
-              "Pronunciation": "",
+              "Pronunciation": "n+t+sah-m+bar-mah",
               "origin": ""
             },
             "Event": {
               "swa": "Sehlo, Sigameko, Umcimbi ",
-              "Pronunciation": "",
+              "Pronunciation": "seh-hclo",
               "origin": ""
             },
             "Eventual": {
               "swa": "Ngekuya, Ngekuhamba kwesikhatsi",
-              "Pronunciation": "",
+              "Pronunciation": "n+g+eh-k+oo-yah",
               "origin": ""
             },
-            "Ever": { "swa": "Noma nini", "Pronunciation": "", "origin": "" },
-            "Every": { "swa": "Konkhe", "Pronunciation": "", "origin": "" },
+            "Ever": {
+              "swa": "Noma nini",
+              "Pronunciation": "no-mah nee-nee",
+              "origin": ""
+            },
+            "Every": {
+              "swa": "Konkhe",
+              "Pronunciation": "k+oh-n+care",
+              "origin": ""
+            },
             "Evidence": {
               "swa": "Bufakazi",
-              "Pronunciation": "",
+              "Pronunciation": "b+oo-far-k+ah-zee",
               "origin": ""
             },
             "Evident": {
               "swa": "Fakazelako",
-              "Pronunciation": "",
+              "Pronunciation": "far-k+ah-zeh-lah-k+oh",
               "origin": ""
             },
             "Evil": {
               "swa": "Nenhlitiyo lembi",
-              "Pronunciation": "",
+              "Pronunciation": "ne-n+hcl+ee-t+ee-yo leh-m+bee",
               "origin": ""
             },
-            "Exact": { "swa": "Ngco", "Pronunciation": "", "origin": "" },
+            "Exact": {
+              "swa": "Ngco",
+              "Pronunciation": "n+g+c+oh",
+              "origin": ""
+            },
             "Exaggerate": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Examine": { "swa": "Cwaninga", "Pronunciation": "", "origin": "" },
-            "Example": { "swa": "Sibonelo", "Pronunciation": "", "origin": "" },
-            "Exceed": {
-              "swa": "Phumelela wece lokulindzelekile",
-              "Pronunciation": "",
+            "Examine": {
+              "swa": "Cilonga",
+              "Pronunciation": "c+ee-long-ah",
               "origin": ""
             },
-            "Excel": { "swa": "Hlabana", "Pronunciation": "", "origin": "" },
+            "Example": {
+              "swa": "Sibonelo",
+              "Pronunciation": "see-b+oh-neh-lore",
+              "origin": ""
+            },
+            "Exceed": {
+              "swa": "Phumelela ngalokwecile",
+              "Pronunciation": "poo-meh-leh-lah n+g+ah-lore-k+weh-c+ee-leh",
+              "origin": ""
+            },
+            "Excel": {
+              "swa": "Hlabana",
+              "Pronunciation": "hlca-b+ah-nah",
+              "origin": ""
+            },
             "Except": {
               "swa": "Ngaphandle kwekutsi",
-              "Pronunciation": "",
+              "Pronunciation": "n+g+ah-par-n+d+leh k+weh-k+oo-t+see",
               "origin": ""
             },
             "Excess": {
               "swa": "Ngalokwecile",
-              "Pronunciation": "",
+              "Pronunciation": "n+g+a-lore-k+weh-c+ee-leh",
               "origin": ""
             },
             "Exchange": {
               "swa": "Ntjintjisa",
-              "Pronunciation": "",
+              "Pronunciation": "n+t+j+ee-n+t+j+ee-sah",
               "origin": ""
             },
-            "Excite": { "swa": "Tfokotisa", "Pronunciation": "", "origin": "" },
-            "Exclaim": { "swa": "Babata", "Pronunciation": "", "origin": "" },
-            "Exclude": { "swa": "Hlunga", "Pronunciation": "", "origin": "" },
+            "Excite": {
+              "swa": "Tfokotisa",
+              "Pronunciation": "t+foe-k+oh-t+ee-sah",
+              "origin": ""
+            },
+            "Exclaim": {
+              "swa": "Babata",
+              "Pronunciation": "b+ah-b+ah-t+ah",
+              "origin": ""
+            },
+            "Exclude": {
+              "swa": "Hlunga",
+              "Pronunciation": "hcl+oo-n+g+ah",
+              "origin": ""
+            },
             "Excrement": {
               "swa": "Emangcoliso",
-              "Pronunciation": "",
+              "Pronunciation": "ema-n+g+c+oh-lee-soh",
               "origin": ""
             },
-            "Excuse": { "swa": "Taba", "Pronunciation": "", "origin": "" },
+            "Excuse": {
+              "swa": "Taba",
+              "Pronunciation": "t+ah-b+ah",
+              "origin": ""
+            },
             "Exempt": {
               "swa": "Ngatsintseki, Ngabandzakanyeki",
-              "Pronunciation": "",
+              "Pronunciation": "n+g+ah-t+see-n+t+seh-k+ee",
               "origin": ""
             },
             "Exercise": {
               "swa": "Kutivocavoca",
-              "Pronunciation": "",
+              "Pronunciation": "k+oo-t+ee-voh-c+ah-voh-c+ah",
               "origin": ""
             },
             "Exhale": {
               "swa": "Khokha umoya",
-              "Pronunciation": "",
+              "Pronunciation": "core-car oom-oh-yah",
               "origin": ""
             },
-            "Exile": { "swa": "Dzingisa", "Pronunciation": "", "origin": "" },
+            "Exile": {
+              "swa": "Dzingisa",
+              "Pronunciation": "d+zee-n+g+ee-sah",
+              "origin": ""
+            },
             "Exist": {
               "swa": "Bukhona, Kubakho",
-              "Pronunciation": "",
+              "Pronunciation": "b+oo-core-nah",
               "origin": ""
             },
-            "Exit": { "swa": "Phuma", "Pronunciation": "", "origin": "" },
+            "Exit": {
+              "swa": "Phuma",
+              "Pronunciation": "poo-mah",
+              "origin": ""
+            },
             "Expand": {
               "swa": "Nweba, Lula",
-              "Pronunciation": "",
+              "Pronunciation": "n+weh-b+ah",
               "origin": ""
             },
-            "Expect": { "swa": "Lindzela", "Pronunciation": "", "origin": "" },
+            "Expect": {
+              "swa": "Lindzela",
+              "Pronunciation": "lee-n+d+zeh-lah",
+              "origin": ""
+            },
             "Expel": {
               "swa": "Khafula, Cosha",
-              "Pronunciation": "",
+              "Pronunciation": "car-foo-lah",
               "origin": ""
             },
-            "Expense": { "swa": "Intsengo", "Pronunciation": "", "origin": "" },
-            "Expensive": { "swa": "Yabita", "Pronunciation": "", "origin": "" },
+            "Expense": {
+              "swa": "Intsengo",
+              "Pronunciation": "in-t+seh-n+g+oh",
+              "origin": ""
+            },
+            "Expensive": {
+              "swa": "Yabita",
+              "Pronunciation": "yah-b+ee-t+ah",
+              "origin": ""
+            },
             "Experience": {
               "swa": "Sipiliyoni",
-              "Pronunciation": "",
+              "Pronunciation": "see-p+ee-lee-yoni",
               "origin": ""
             },
-            "Expert": { "swa": "Ngcwenga", "Pronunciation": "", "origin": "" },
+            "Expert": {
+              "swa": "Ngcwenga",
+              "Pronunciation": "n+g+c+weh-n+g+ah",
+              "origin": ""
+            },
             "Expire": {
               "swa": "Bola, Shiywa sikhatsi",
-              "Pronunciation": "",
+              "Pronunciation": "b+oh-lah",
               "origin": ""
             },
             "Explain": {
               "swa": "Chaza, Hlatiya",
-              "Pronunciation": "",
+              "Pronunciation": "hcla-t+ee-yah",
               "origin": ""
             },
-            "Explode": { "swa": "Bhoma", "Pronunciation": "", "origin": "" },
+            "Explode": {
+              "swa": "Bhoma",
+              "Pronunciation": "bore-mah",
+              "origin": ""
+            },
             "Exploit": {
               "swa": "Hlukumeta",
-              "Pronunciation": "",
+              "Pronunciation": "hcl+oo-k+oo-meh-t+ah",
               "origin": ""
             },
             "Explore": { "swa": "", "Pronunciation": "", "origin": "" },
             "Export": {
               "swa": "Hwebela ngaphandle kwelive",
-              "Pronunciation": "",
+              "Pronunciation": "who+eh-b+eh-lah n+g+ah-par-n+d+leh k+weh-lee-veh",
               "origin": ""
             },
-            "Expose": { "swa": "Yembula", "Pronunciation": "", "origin": "" },
+            "Expose": {
+              "swa": "Yembula",
+              "Pronunciation": "year-m+boo-lah",
+              "origin": ""
+            },
             "Extend": {
               "swa": "Lula, Khulisa",
-              "Pronunciation": "",
+              "Pronunciation": "loo-lah",
               "origin": ""
             },
             "Extent": {
               "swa": "Kangangekuba",
-              "Pronunciation": "",
+              "Pronunciation": "k+ah-n+g+ah-n+g+eh-k+oo-b+ah",
               "origin": ""
             },
             "External": {
               "swa": "Lingaphandle",
-              "Pronunciation": "",
+              "Pronunciation": "lee-n+g+ah-par-n+d+leh",
               "origin": ""
             },
-            "Extra": { "swa": "Ngetiwe", "Pronunciation": "", "origin": "" },
-            "Tradition": { "swa": "Lisiko", "Pronunciation": "", "origin": "" },
+            "Extra": {
+              "swa": "Ngetiwe",
+              "Pronunciation": "n+g+eh-t+ee-weh",
+              "origin": ""
+            },
+            "Tradition": {
+              "swa": "Lisiko",
+              "Pronunciation": "lee-see-k+oh",
+              "origin": ""
+            },
             "Extrovert": {
               "swa": "Cinile, Phaphako",
-              "Pronunciation": "",
+              "Pronunciation": "par-par-k+oh",
               "origin": ""
             },
             "Embarrassment": {
               "swa": "Lihlazo",
-              "Pronunciation": "",
+              "Pronunciation": "lee-hcla-zoh",
               "origin": ""
             }
           }
@@ -2092,386 +3423,802 @@
           {
             "Fable": {
               "swa": "Insumansumane, Inganekwane",
-              "Pronunciation": "",
+              "Pronunciation": "insue-mah-n+sue-mah-neh",
               "origin": ""
             },
-            "Fabric": { "swa": "Indvwangu", "Pronunciation": "", "origin": "" },
-            "Face": { "swa": "Buso", "Pronunciation": "", "origin": "" },
+            "Fabric": {
+              "swa": "Indvwangu",
+              "Pronunciation": "in-d+v+wah-n+goo",
+              "origin": ""
+            },
+            "Face": {
+              "swa": "Buso",
+              "Pronunciation": "b+oo-soh",
+              "origin": ""
+            },
             "Fact": {
               "swa": "Liciniso lelingajiki",
-              "Pronunciation": "",
+              "Pronunciation": "lee-c+ee-nee-soh",
               "origin": ""
             },
-            "Factor": { "swa": "Imbangela", "Pronunciation": "", "origin": "" },
-            "Fade": { "swa": "Shabalala", "Pronunciation": "", "origin": "" },
-            "Fail": { "swa": "Hluleka", "Pronunciation": "", "origin": "" },
+            "Factor": {
+              "swa": "Imbangela, Umtselela",
+              "Pronunciation": "im-bar-n+g+eh-lah",
+              "origin": ""
+            },
+            "Fade": {
+              "swa": "Shabalala",
+              "Pronunciation": "sha-b+ah-lah-lah",
+              "origin": ""
+            },
+            "Fail": {
+              "swa": "Hluleka",
+              "Pronunciation": "hcl+oo-leh-k+ah",
+              "origin": ""
+            },
             "Faint": {
               "swa": "Ngabonakali",
-              "Pronunciation": "",
+              "Pronunciation": "n+g+ah-b+oh-nah-k+ah-lee",
               "origin": ""
             },
-            "Fair": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Faith": { "swa": "Inkholo", "Pronunciation": "", "origin": "" },
-            "Fake": { "swa": "Pomu", "Pronunciation": "", "origin": "" },
-            "Fall": { "swa": "Wani", "Pronunciation": "", "origin": "" },
-            "False": { "swa": "Nemanga", "Pronunciation": "", "origin": "" },
-            "Fame": { "swa": "Ludvumo", "Pronunciation": "", "origin": "" },
+            "Fair": {
+              "swa": "Ngakhetsi",
+              "Pronunciation": "n+g+ah-care-t+see",
+              "origin": ""
+            },
+            "Faith": {
+              "swa": "Inkholo",
+              "Pronunciation": "in-core-lore",
+              "origin": ""
+            },
+            "Fake": {
+              "swa": "Pomu",
+              "Pronunciation": "p+oh-moo",
+              "origin": ""
+            },
+            "Fall": { "swa": "Wani", "Pronunciation": "wah-nee", "origin": "" },
+            "False": {
+              "swa": "Nemanga",
+              "Pronunciation": "neh-mah-n+g+ah",
+              "origin": ""
+            },
+            "Fame": {
+              "swa": "Ludvumo",
+              "Pronunciation": "loo-d+voom-oh",
+              "origin": ""
+            },
             "Familiar": {
               "swa": "Jwayelekile",
-              "Pronunciation": "",
+              "Pronunciation": "J+wah-year-leh-k+ee-leh",
               "origin": ""
             },
-            "Family": { "swa": "Umndeni", "Pronunciation": "", "origin": "" },
-            "Famine": { "swa": "Indlala", "Pronunciation": "", "origin": "" },
-            "Famous": { "swa": "Dvumile", "Pronunciation": "", "origin": "" },
+            "Family": {
+              "swa": "Umndeni",
+              "Pronunciation": "oom-dare-nee",
+              "origin": ""
+            },
+            "Famine": {
+              "swa": "Indlala",
+              "Pronunciation": "in-d+lah-lah",
+              "origin": ""
+            },
+            "Famous": {
+              "swa": "Dvumile",
+              "Pronunciation": "d+voom-eel-eh",
+              "origin": ""
+            },
             "Fancy": {
               "swa": "Sezingeni lelisetulu",
               "Pronunciation": "",
               "origin": ""
             },
-            "Far": { "swa": "Khashane", "Pronunciation": "", "origin": "" },
-            "Farm": { "swa": "Insimu", "Pronunciation": "", "origin": "" },
-            "Fast": { "swa": "Ngekushesha", "Pronunciation": "", "origin": "" },
-            "Fat": { "swa": "Emanoni", "Pronunciation": "", "origin": "" },
-            "Fatal": { "swa": "Bulalanako", "Pronunciation": "", "origin": "" },
-            "Fate": { "swa": "Daliwe", "Pronunciation": "", "origin": "" },
-            "Father": { "swa": "Babe", "Pronunciation": "", "origin": "" },
-            "Fault": { "swa": "Liphutsa", "Pronunciation": "", "origin": "" },
+            "Far": {
+              "swa": "Khashane",
+              "Pronunciation": "car-sha-neh",
+              "origin": ""
+            },
+            "Farm": {
+              "swa": "Insimu",
+              "Pronunciation": "in-see-moo",
+              "origin": ""
+            },
+            "Fast": {
+              "swa": "Ngekushesha",
+              "Pronunciation": "n+g+eh-k+oo-share-sha",
+              "origin": ""
+            },
+            "Fat": {
+              "swa": "Emanoni",
+              "Pronunciation": "ema-no-nee",
+              "origin": ""
+            },
+            "Fatal": {
+              "swa": "Bulalanako",
+              "Pronunciation": "b+oo-lah-lah-nah-k+oh",
+              "origin": ""
+            },
+            "Fate": {
+              "swa": "Daliwe",
+              "Pronunciation": "d+ah-lee-weh",
+              "origin": ""
+            },
+            "Father": {
+              "swa": "Babe",
+              "Pronunciation": "b+ah-b+eh",
+              "origin": ""
+            },
+            "Fault": {
+              "swa": "Liphutsa",
+              "Pronunciation": "lee-poo-t+sah",
+              "origin": ""
+            },
             "Favour": {
               "swa": "Sincemphetelo",
-              "Pronunciation": "",
+              "Pronunciation": "see-n+c+eh-m+per-t+eh-lore",
               "origin": ""
             },
-            "Fear": { "swa": "Kwesaba", "Pronunciation": "", "origin": "" },
+            "Fear": {
+              "swa": "Kwesaba",
+              "Pronunciation": "k+weh-sah-b+ah",
+              "origin": ""
+            },
             "Feast": {
               "swa": "Kudla ushaye sentfwala",
-              "Pronunciation": "",
+              "Pronunciation": "k+oo-d+l+ah oo-shy-eh seh-n+t+f+wah-lah",
               "origin": ""
             },
-            "Feather": { "swa": "Lusiba", "Pronunciation": "", "origin": "" },
-            "Fee": { "swa": "Imali", "Pronunciation": "", "origin": "" },
-            "Feed": { "swa": "Dlisa", "Pronunciation": "", "origin": "" },
-            "Feel": { "swa": "Vani", "Pronunciation": "", "origin": "" },
-            "Feet": { "swa": "Tinyawo", "Pronunciation": "", "origin": "" },
-            "Feign": { "swa": "Tentise", "Pronunciation": "", "origin": "" },
-            "Fell": { "swa": "Wile", "Pronunciation": "", "origin": "" },
-            "Fellow": { "swa": "Umlingani", "Pronunciation": "", "origin": "" },
+            "Feather": {
+              "swa": "Lusiba",
+              "Pronunciation": "lucy-b+ah",
+              "origin": ""
+            },
+            "Fee": {
+              "swa": "Imali",
+              "Pronunciation": "im-ah-lee",
+              "origin": ""
+            },
+            "Feed": {
+              "swa": "Dlisa",
+              "Pronunciation": "d+lee-sah",
+              "origin": ""
+            },
+            "Feel": { "swa": "Vani", "Pronunciation": "vah-nee", "origin": "" },
+            "Feet": {
+              "swa": "Tinyawo",
+              "Pronunciation": "t+ee-n+yah-woe",
+              "origin": ""
+            },
+            "Feign": {
+              "swa": "Tentise",
+              "Pronunciation": "t+eh-n+t+ee-seh",
+              "origin": ""
+            },
+            "Fell": { "swa": "Wile", "Pronunciation": "wee-leh", "origin": "" },
+            "Fellow": {
+              "swa": "Umlingani",
+              "Pronunciation": "oom-lee-n+g+ah-nee",
+              "origin": ""
+            },
             "Felon": {
               "swa": "Libhantinti",
-              "Pronunciation": "",
+              "Pronunciation": "lee-bar-n+t+ee-n+t+ee",
               "origin": ""
             },
-            "Felt": { "swa": "Vile", "Pronunciation": "", "origin": "" },
+            "Felt": { "swa": "Vile", "Pronunciation": "vee-leh", "origin": "" },
             "Female": {
               "swa": "Wesifazane",
-              "Pronunciation": "",
+              "Pronunciation": "wear-see-far-zah-neh",
               "origin": ""
             },
-            "Feminine": { "swa": "Samake", "Pronunciation": "", "origin": "" },
-            "Fence": { "swa": "Fenisi", "Pronunciation": "", "origin": "" },
+            "Feminine": {
+              "swa": "Yesimame",
+              "Pronunciation": "year-see-mah-meh",
+              "origin": ""
+            },
+            "Fence": {
+              "swa": "Fenisi",
+              "Pronunciation": "fair-nee-see",
+              "origin": ""
+            },
             "Fend": {
               "swa": "Fukamela, Nakekela",
-              "Pronunciation": "",
+              "Pronunciation": "foo-k+ah-meh-lah",
               "origin": ""
             },
-            "Ferment": { "swa": "Bilisa", "Pronunciation": "", "origin": "" },
+            "Ferment": {
+              "swa": "Bilisa",
+              "Pronunciation": "b+ee-lee-sah",
+              "origin": ""
+            },
             "Fern": {
               "swa": "Lihlindzafuku",
-              "Pronunciation": "",
+              "Pronunciation": "lee-hcl+ee-n+d+zah-foo-k+oo",
               "origin": ""
             },
-            "Fetch": { "swa": "Landza", "Pronunciation": "", "origin": "" },
-            "Feud": { "swa": "Incabano", "Pronunciation": "", "origin": "" },
+            "Fetch": {
+              "swa": "Landza",
+              "Pronunciation": "lah-n+d+zah",
+              "origin": ""
+            },
+            "Feud": {
+              "swa": "Incabano",
+              "Pronunciation": "in-c+ah-b+ah-no",
+              "origin": ""
+            },
             "Fever": {
               "swa": "Sifutsefutse",
-              "Pronunciation": "",
+              "Pronunciation": "see-foo-t+seh-foo-t+seh",
               "origin": ""
             },
-            "Few": { "swa": "Litsantana", "Pronunciation": "", "origin": "" },
+            "Few": {
+              "swa": "Litsantana",
+              "Pronunciation": "lee-t+sah-n+t+ah-nah",
+              "origin": ""
+            },
             "Fiction": {
               "swa": "Suselwe emoyeni",
-              "Pronunciation": "",
+              "Pronunciation": "sue-seh-l+weh em-oh-yen-ee",
               "origin": ""
             },
             "Fidelity": {
               "swa": "Kwetsembeka",
-              "Pronunciation": "",
+              "Pronunciation": "k+weh-t+seh-m+bear-k+ah",
               "origin": ""
             },
             "Field": {
               "swa": "Libala, Insimi",
-              "Pronunciation": "",
+              "Pronunciation": "lee-b+ah-lah",
               "origin": ""
             },
             "Fierce": { "swa": "", "Pronunciation": "", "origin": "" },
-            "Fifth": { "swa": "Kwesihlanu", "Pronunciation": "", "origin": "" },
+            "Fifth": {
+              "swa": "Kwesihlanu",
+              "Pronunciation": "k+weh-see-hcla-new",
+              "origin": ""
+            },
             "Fifty": {
               "swa": "Emashumi lamahlanu",
-              "Pronunciation": "",
+              "Pronunciation": "ema-shoo-mee lah-mah-hcla-new",
               "origin": ""
             },
-            "Fig": { "swa": "Sidolofiya", "Pronunciation": "", "origin": "" },
-            "Fight": { "swa": "Kulwa", "Pronunciation": "", "origin": "" },
+            "Fig": {
+              "swa": "Sidolofiya",
+              "Pronunciation": "see-doe-lore-fee-yah",
+              "origin": ""
+            },
+            "Fight": {
+              "swa": "Kulwa",
+              "Pronunciation": "k+oo-l+wah",
+              "origin": ""
+            },
             "Figure": {
               "swa": "Umfakeniso lodvwetjiwe",
-              "Pronunciation": "",
+              "Pronunciation": "oom-far-neh-k+ee-so",
               "origin": ""
             },
-            "File": { "swa": "Lifayela", "Pronunciation": "", "origin": "" },
-            "Fill": { "swa": "Gcwalisa", "Pronunciation": "", "origin": "" },
-            "Film": { "swa": "Lifilimu", "Pronunciation": "", "origin": "" },
-            "Filth": { "swa": "Ingcisinga", "Pronunciation": "", "origin": "" },
-            "Final": { "swa": "Kwekugcina", "Pronunciation": "", "origin": "" },
+            "File": {
+              "swa": "Lifayela",
+              "Pronunciation": "lee-far-year-lah",
+              "origin": ""
+            },
+            "Fill": {
+              "swa": "Gcwalisa",
+              "Pronunciation": "g+c+wah-lee-sah",
+              "origin": ""
+            },
+            "Film": {
+              "swa": "Lifilimu",
+              "Pronunciation": "lee-fee-lee-moo",
+              "origin": ""
+            },
+            "Filth": {
+              "swa": "Ingcisinga",
+              "Pronunciation": "in-g+c+ee-see-n+g+ah",
+              "origin": ""
+            },
+            "Final": {
+              "swa": "Kwekugcina",
+              "Pronunciation": "k+weh-k+oo-g+c+ee-nah",
+              "origin": ""
+            },
             "Finance": {
               "swa": "Tetimali, Temnotfo",
-              "Pronunciation": "",
+              "Pronunciation": "t+eh-t+ee-mah-lee",
               "origin": ""
             },
-            "Find": { "swa": "Tfola", "Pronunciation": "", "origin": "" },
-            "Fine": { "swa": "Kahle", "Pronunciation": "", "origin": "" },
+            "Find": {
+              "swa": "Tfola",
+              "Pronunciation": "t+foe-lah",
+              "origin": ""
+            },
+            "Fine": {
+              "swa": "Kahle",
+              "Pronunciation": "k+ah-hcl-eh",
+              "origin": ""
+            },
             "Finish": {
               "swa": "Shaya ngwe",
-              "Pronunciation": "",
+              "Pronunciation": "shy-ah n+g+weh",
               "origin": ""
             },
-            "Finite": { "swa": "Phelako", "Pronunciation": "", "origin": "" },
-            "Fire": { "swa": "Umlilo", "Pronunciation": "", "origin": "" },
-            "Firm": { "swa": "Cinile", "Pronunciation": "", "origin": "" },
-            "First": { "swa": "Kwekucala", "Pronunciation": "", "origin": "" },
-            "Fish": { "swa": "Inhlanti", "Pronunciation": "", "origin": "" },
-            "Fit": { "swa": "Jimile", "Pronunciation": "", "origin": "" },
-            "Fix": { "swa": " Khenikha", "Pronunciation": "", "origin": "" },
-            "Flag": { "swa": "Ifulegi", "Pronunciation": "", "origin": "" },
-            "Flame": { "swa": "Lilangabi", "Pronunciation": "", "origin": "" },
-            "Flap": { "swa": "Bhengutisa", "Pronunciation": "", "origin": "" },
-            "Flash": { "swa": "Phandla", "Pronunciation": "", "origin": "" },
-            "Flat": { "swa": "Sipacalati", "Pronunciation": "", "origin": "" },
+            "Finite": {
+              "swa": "Phelako",
+              "Pronunciation": "per-lah-k+oh",
+              "origin": ""
+            },
+            "Fire": {
+              "swa": "Umlilo",
+              "Pronunciation": "oom-lee-lore",
+              "origin": ""
+            },
+            "Firm": {
+              "swa": "Cinile",
+              "Pronunciation": "c+ee-nee-leh",
+              "origin": ""
+            },
+            "First": {
+              "swa": "Kwekucala",
+              "Pronunciation": "k+weh-k+oo-c+ah-lah",
+              "origin": ""
+            },
+            "Fish": {
+              "swa": "Inhlanti",
+              "Pronunciation": "in-hcla-n+t+ee",
+              "origin": ""
+            },
+            "Fit": {
+              "swa": "Jimile",
+              "Pronunciation": "j+ee-mee-leh",
+              "origin": ""
+            },
+            "Fix": {
+              "swa": " Khenikha",
+              "Pronunciation": "care-nee-car",
+              "origin": ""
+            },
+            "Flag": {
+              "swa": "Ifulegi",
+              "Pronunciation": "e-foo-leg-ee",
+              "origin": ""
+            },
+            "Flame": {
+              "swa": "Lilangabi",
+              "Pronunciation": "lee-lah-n+g+ah-b+ee",
+              "origin": ""
+            },
+            "Flap": {
+              "swa": "Bhengutisa",
+              "Pronunciation": "bear-n+g+oo-t+ee-sah",
+              "origin": ""
+            },
+            "Flash": {
+              "swa": "Phandla",
+              "Pronunciation": "par-n+d+lah",
+              "origin": ""
+            },
+            "Flat": {
+              "swa": "Sipacalati",
+              "Pronunciation": "see-pa-c+ah-lah-t+ee",
+              "origin": ""
+            },
             "Flatter": {
               "swa": "Bongelela",
-              "Pronunciation": "",
+              "Pronunciation": "b+oh-n+g+eh-leh-lah",
               "origin": ""
             },
-            "Flaunt": { "swa": "Gabisa", "Pronunciation": "", "origin": "" },
-            "Flavour": { "swa": "Umsoco", "Pronunciation": "", "origin": "" },
-            "Flaw": { "swa": "Bubi", "Pronunciation": "", "origin": "" },
-            "Flea": { "swa": "Intfwala", "Pronunciation": "", "origin": "" },
-            "Fled": { "swa": "Balekile", "Pronunciation": "", "origin": "" },
-            "Flee": { "swa": "Baleka", "Pronunciation": "", "origin": "" },
-            "Flesh": { "swa": "Inyama", "Pronunciation": "", "origin": "" },
-            "Flew": { "swa": "Ndizile", "Pronunciation": "", "origin": "" },
-            "Flight": { "swa": "Kundiza", "Pronunciation": "", "origin": "" },
+            "Flaunt": {
+              "swa": "Gabisa",
+              "Pronunciation": "g+ah-b+ee-sah",
+              "origin": ""
+            },
+            "Flavour": {
+              "swa": "Umsoco",
+              "Pronunciation": "oom-soh-c+oh",
+              "origin": ""
+            },
+            "Flaw": {
+              "swa": "Bubi",
+              "Pronunciation": "b+oo-b+ee",
+              "origin": ""
+            },
+            "Flea": {
+              "swa": "Intfwala",
+              "Pronunciation": "int-f+wah-lah",
+              "origin": ""
+            },
+            "Fled": {
+              "swa": "Balekile",
+              "Pronunciation": "b+ah-leh-k+ee-leh",
+              "origin": ""
+            },
+            "Flee": {
+              "swa": "Baleka",
+              "Pronunciation": "b+ah-leh-k+eh-lah",
+              "origin": ""
+            },
+            "Flesh": {
+              "swa": "Inyama",
+              "Pronunciation": "in-yah-mah",
+              "origin": ""
+            },
+            "Flew": {
+              "swa": "Ndizile",
+              "Pronunciation": "n+dee-zee-leh",
+              "origin": ""
+            },
+            "Flight": {
+              "swa": "Kundiza",
+              "Pronunciation": "k+oo-n+dee-zah",
+              "origin": ""
+            },
             "Flinch": {
               "swa": "Tfuka tanya",
-              "Pronunciation": "",
+              "Pronunciation": "t+foo-k+ah t+ah-n+yah",
               "origin": ""
             },
             "Flip": {
               "swa": "Phendla, Phenya",
-              "Pronunciation": "",
+              "Pronunciation": "per-n+d+lah",
               "origin": ""
             },
-            "Flirt": { "swa": "Soma", "Pronunciation": "", "origin": "" },
-            "Float": { "swa": "Ndanda", "Pronunciation": "", "origin": "" },
-            "Flood": { "swa": "Zamcolo", "Pronunciation": "", "origin": "" },
-            "Floor": { "swa": "Siyilo", "Pronunciation": "", "origin": "" },
-            "Floral": { "swa": "Netimbali", "Pronunciation": "", "origin": "" },
-            "Flour": { "swa": "Fulawa", "Pronunciation": "", "origin": "" },
+            "Flirt": { "swa": "Soma", "Pronunciation": "so-mah", "origin": "" },
+            "Float": {
+              "swa": "Ndanda",
+              "Pronunciation": "n+dah-n+dah",
+              "origin": ""
+            },
+            "Flood": {
+              "swa": "Zamcolo",
+              "Pronunciation": "zam-c+oh-lore",
+              "origin": ""
+            },
+            "Floor": {
+              "swa": "Siyilo",
+              "Pronunciation": "see-yee-lore",
+              "origin": ""
+            },
+            "Floral": {
+              "swa": "Netimbali",
+              "Pronunciation": "ne-t+ee-m+bar-lee",
+              "origin": ""
+            },
+            "Flour": {
+              "swa": "Fulawa",
+              "Pronunciation": "foo-lah-wah",
+              "origin": ""
+            },
             "Flow": {
-              "swa": "Hamba busheleleti",
-              "Pronunciation": "",
+              "swa": "Hamba busheleleti, Ntantanandishi",
+              "Pronunciation": "n+t+ah-n+t+ah-nah-n+dee-shee",
               "origin": ""
             },
-            "Flower": { "swa": "Imbali", "Pronunciation": "", "origin": "" },
-            "Flown": { "swa": "Ndiziswa", "Pronunciation": "", "origin": "" },
-            "Flu": { "swa": "Umkhuhlane", "Pronunciation": "", "origin": "" },
+            "Flower": {
+              "swa": "Imbali",
+              "Pronunciation": "im-bar-lee",
+              "origin": ""
+            },
+            "Flown": {
+              "swa": "Ndiziswa",
+              "Pronunciation": "n+dee-zee-s+wah",
+              "origin": ""
+            },
+            "Flu": {
+              "swa": "Umkhuhlane",
+              "Pronunciation": "oom-koo-hcla-neh",
+              "origin": ""
+            },
             "Fluent": {
               "swa": "Ngangatsiti",
-              "Pronunciation": "",
+              "Pronunciation": "n+g+ah-n+gah-t+see-t+ee",
               "origin": ""
             },
             "Fluff": {
               "swa": "Emafuhlululu",
-              "Pronunciation": "",
+              "Pronunciation": "ema-foo-hcl+oo-loo-loo",
               "origin": ""
             },
-            "Fluid": { "swa": "Manti", "Pronunciation": "", "origin": "" },
+            "Fluid": {
+              "swa": "Manti",
+              "Pronunciation": "mah-n+t+ee",
+              "origin": ""
+            },
             "Flutter": {
               "swa": "Bhakutela, Bhengutisa",
-              "Pronunciation": "",
+              "Pronunciation": "bar-k+oo-t+eh-lah",
               "origin": ""
             },
-            "Fly": { "swa": "Ndiza", "Pronunciation": "", "origin": "" },
+            "Fly": {
+              "swa": "Ndiza",
+              "Pronunciation": "n+dee-zah",
+              "origin": ""
+            },
             "Foam": {
               "swa": "Phukuhla, Emagwebu",
-              "Pronunciation": "",
+              "Pronunciation": "poo-k+oo-hcla",
               "origin": ""
             },
-            "Focus": { "swa": "Nakisisa", "Pronunciation": "", "origin": "" },
-            "Fog": { "swa": "Inkhungu", "Pronunciation": "", "origin": "" },
-            "Fold": { "swa": "Goca", "Pronunciation": "", "origin": "" },
-            "Folk": { "swa": "Bantfu nje", "Pronunciation": "", "origin": "" },
-            "Follow": { "swa": "Landzela", "Pronunciation": "", "origin": "" },
-            "Food": { "swa": "Kudla", "Pronunciation": "", "origin": "" },
+            "Focus": {
+              "swa": "Nakisisa",
+              "Pronunciation": "nah-k+ee-see-sah",
+              "origin": ""
+            },
+            "Fog": {
+              "swa": "Inkhungu",
+              "Pronunciation": "in-koo-n+g+oo",
+              "origin": ""
+            },
+            "Fold": { "swa": "Goca", "Pronunciation": "go-c+ah", "origin": "" },
+            "Folk": {
+              "swa": "Bantfu nje",
+              "Pronunciation": "b+ah-n+t+foo n+j+eh",
+              "origin": ""
+            },
+            "Follow": {
+              "swa": "Landzela",
+              "Pronunciation": "lah-n+d+zeh-lah",
+              "origin": ""
+            },
+            "Food": {
+              "swa": "Kudla",
+              "Pronunciation": "k+oo-d+lah",
+              "origin": ""
+            },
             "Fool": {
               "swa": "Siphukuphuku",
-              "Pronunciation": "",
+              "Pronunciation": "see-poo-k+oo-poo-k+oo",
               "origin": ""
             },
-            "For": { "swa": "Kwa-", "Pronunciation": "", "origin": "" },
+            "For": { "swa": "Kwa-", "Pronunciation": "k+wah-", "origin": "" },
             "Forbid": {
               "swa": "Yala uphiphite",
-              "Pronunciation": "",
+              "Pronunciation": "yah-lah oo-pee-pee-t+eh",
               "origin": ""
             },
-            "Force": { "swa": "Phocelela", "Pronunciation": "", "origin": "" },
-            "Fore": { "swa": "Sandvulelo", "Pronunciation": "", "origin": "" },
+            "Force": {
+              "swa": "Phocelela",
+              "Pronunciation": "pore-c+eh-leh-lah",
+              "origin": ""
+            },
+            "Fore": {
+              "swa": "Sandvulelo",
+              "Pronunciation": "sah-n+d+voo-leh-lore",
+              "origin": ""
+            },
             "Foreign": {
               "swa": "Wekuhamba",
-              "Pronunciation": "",
+              "Pronunciation": "wear-k+oo-h+ah-m+bar",
               "origin": ""
             },
-            "Forest": { "swa": "Lihlatsi", "Pronunciation": "", "origin": "" },
+            "Forest": {
+              "swa": "Lihlatsi",
+              "Pronunciation": "lee-hcla-t+see",
+              "origin": ""
+            },
             "Forever": {
               "swa": "Ingunaphakadze",
-              "Pronunciation": "",
+              "Pronunciation": "in-goo-nah-par-k+ah-d+zeh",
               "origin": ""
             },
-            "Forget": { "swa": "Khohlwa", "Pronunciation": "", "origin": "" },
-            "Forgive": { "swa": "Colela", "Pronunciation": "", "origin": "" },
-            "Fork": { "swa": "Imfologo", "Pronunciation": "", "origin": "" },
+            "Forget": {
+              "swa": "Khohlwa",
+              "Pronunciation": "core-hcl+wah",
+              "origin": ""
+            },
+            "Forgive": {
+              "swa": "Colela",
+              "Pronunciation": "c+oh-leh-lah",
+              "origin": ""
+            },
+            "Fork": {
+              "swa": "Imfologo",
+              "Pronunciation": "im-foe-lore-go",
+              "origin": ""
+            },
             "Form": {
               "swa": "Yakha, Kwakheka",
-              "Pronunciation": "",
+              "Pronunciation": "k+wah-care-k+ah",
               "origin": ""
             },
             "Formal": {
               "swa": "Hloniphekile, Hloniphisako",
-              "Pronunciation": "",
+              "Pronunciation": "hclo-nee-per-k+ee-leh",
               "origin": ""
             },
             "Format": {
               "swa": "Sakhiwo, Kuma",
-              "Pronunciation": "",
+              "Pronunciation": "sah-k+ee-woe",
               "origin": ""
             },
             "Former": {
-              "swa": "Lowake wa-",
-              "Pronunciation": "",
+              "swa": "Lowake wa-, Lobeka-",
+              "Pronunciation": "lore-wah-k+eh wa-",
               "origin": ""
             },
-            "Forth": { "swa": "Embili", "Pronunciation": "", "origin": "" },
+            "Forth": {
+              "swa": "Embili",
+              "Pronunciation": "em-bee-lee",
+              "origin": ""
+            },
             "Fortune": {
               "swa": "Inhlanhla",
-              "Pronunciation": "",
+              "Pronunciation": "in-hcla-n+hcla",
               "origin": ""
             },
             "Forty": {
               "swa": "Emashumi lamane",
-              "Pronunciation": "",
+              "Pronunciation": "ema-shoo-mee lah-mah-neh",
               "origin": ""
             },
             "Forward": {
               "swa": "Kuya embili",
-              "Pronunciation": "",
+              "Pronunciation": "k+oo-yah em-bee-lee",
               "origin": ""
             },
-            "Fought": { "swa": "Lwile", "Pronunciation": "", "origin": "" },
+            "Fought": {
+              "swa": "Lwile",
+              "Pronunciation": "l+wee-leh",
+              "origin": ""
+            },
             "Foul": {
               "swa": "Ngatsandzeki, Nyanyekako",
-              "Pronunciation": "",
+              "Pronunciation": "n+yah-n+year-k+ah-k+oh",
               "origin": ""
             },
-            "Found": { "swa": "Tfoliwe", "Pronunciation": "", "origin": "" },
+            "Found": {
+              "swa": "Tfoliwe",
+              "Pronunciation": "t+f+oh-lee-weh",
+              "origin": ""
+            },
             "Foundation": {
               "swa": "Sicalo, Sisekelo",
-              "Pronunciation": "",
+              "Pronunciation": "see-c+ah-lore",
               "origin": ""
             },
             "Founder": {
               "swa": "Umsunguli",
-              "Pronunciation": "",
+              "Pronunciation": "oom-sue-n+g+oo-lee",
               "origin": ""
             },
             "Fountain": {
               "swa": "Imphophoma",
-              "Pronunciation": "",
+              "Pronunciation": "im-pore-pore-mah",
               "origin": ""
             },
             "Fox": {
               "swa": "Inja yesiganga",
-              "Pronunciation": "",
+              "Pronunciation": "in-j+ah year-see-gah-n+g+ah",
               "origin": ""
             },
             "Fracture": {
               "swa": "Kufafabuka",
-              "Pronunciation": "",
+              "Pronunciation": "k+oo-far-far-b+oo-k+ah",
               "origin": ""
             },
-            "Fragrance": { "swa": "Emakha", "Pronunciation": "", "origin": "" },
+            "Fragrance": {
+              "swa": "Emakha",
+              "Pronunciation": "em-ah-car",
+              "origin": ""
+            },
             "Free": {
               "swa": "Mahhala, Khululiwe",
-              "Pronunciation": "",
+              "Pronunciation": "ma-h+h+ah-lah",
               "origin": ""
             },
             "Frequent": {
               "swa": "Vamile, Vamisile",
-              "Pronunciation": "",
+              "Pronunciation": "vah-mee-leh",
               "origin": ""
             },
-            "Fresh": { "swa": "Lungile", "Pronunciation": "", "origin": "" },
+            "Fresh": {
+              "swa": "Lungile",
+              "Pronunciation": "loo-n+g+ee-leh",
+              "origin": ""
+            },
             "Fridge": {
               "swa": "Sicandzisi",
-              "Pronunciation": "",
+              "Pronunciation": "see-c+ah-n+d+zee-see",
               "origin": ""
             },
-            "Friend": { "swa": "Umngani", "Pronunciation": "", "origin": "" },
-            "Fright": { "swa": "Kwetfuka", "Pronunciation": "", "origin": "" },
-            "Frog": { "swa": "Sicoco", "Pronunciation": "", "origin": "" },
-            "From": { "swa": "Kusuka e-", "Pronunciation": "", "origin": "" },
-            "Front": { "swa": "Embikwe-", "Pronunciation": "", "origin": "" },
-            "Frost": { "swa": "Sitfwatfwa", "Pronunciation": "", "origin": "" },
-            "Frown": { "swa": "Swaca", "Pronunciation": "", "origin": "" },
-            "Fruit": { "swa": "Sitselo", "Pronunciation": "", "origin": "" },
-            "Fry": { "swa": "Tfosa", "Pronunciation": "", "origin": "" },
-            "Full": { "swa": "Gcwele", "Pronunciation": "", "origin": "" },
-            "Fun": { "swa": "Munandzi", "Pronunciation": "", "origin": "" },
+            "Friend": {
+              "swa": "Bhululu, Umngani",
+              "Pronunciation": "boo-loo-loo",
+              "origin": ""
+            },
+            "Fright": {
+              "swa": "Kwetfuka",
+              "Pronunciation": "k+weh-t+foo-k+ah",
+              "origin": ""
+            },
+            "Frog": {
+              "swa": "Sicoco",
+              "Pronunciation": "see-c+oh-c+oh",
+              "origin": ""
+            },
+            "From": {
+              "swa": "Kusuka e-",
+              "Pronunciation": "k+oo-sue-k+ah eh-",
+              "origin": ""
+            },
+            "Front": {
+              "swa": "Embikwe-",
+              "Pronunciation": "em-bee-k+weh-",
+              "origin": ""
+            },
+            "Frost": {
+              "swa": "Sitfwatfwa",
+              "Pronunciation": "see-t+f+wah-t+f+wah",
+              "origin": ""
+            },
+            "Frown": {
+              "swa": "Swaca",
+              "Pronunciation": "s+wah-c+ah",
+              "origin": ""
+            },
+            "Fruit": {
+              "swa": "Sitselo",
+              "Pronunciation": "see-t+seh-lore",
+              "origin": ""
+            },
+            "Fry": {
+              "swa": "Tfosa",
+              "Pronunciation": "t+foe-sah",
+              "origin": ""
+            },
+            "Full": {
+              "swa": "Gcwele",
+              "Pronunciation": "g+c+weh-leh",
+              "origin": ""
+            },
+            "Fun": {
+              "swa": "Munandzi",
+              "Pronunciation": "moon-ah-n+d+zee",
+              "origin": ""
+            },
             "Function": {
               "swa": "Umsebenti",
-              "Pronunciation": "",
+              "Pronunciation": "oom-seh-b+eh-n+t+ee",
               "origin": ""
             },
             "Funeral": {
               "swa": "Umngcwabo",
-              "Pronunciation": "",
+              "Pronunciation": "oom-n+g+c+wah-b+oh",
               "origin": ""
             },
-            "Fungi": { "swa": "Kikhuntsa", "Pronunciation": "", "origin": "" },
-            "Funny": { "swa": "Nemahhunga", "Pronunciation": "", "origin": "" },
-            "Fur": { "swa": "Boya", "Pronunciation": "", "origin": "" },
+            "Fungi": {
+              "swa": "Kukhuntsa",
+              "Pronunciation": "k+oo-koo-n+t+sah",
+              "origin": ""
+            },
+            "Funny": {
+              "swa": "Nemahhunga",
+              "Pronunciation": "ne-mah-whoo-n+g+ah",
+              "origin": ""
+            },
+            "Fur": { "swa": "Boya", "Pronunciation": "b+oh-yah", "origin": "" },
             "Furious": {
               "swa": "Gane lunwabu",
               "Pronunciation": "",
-              "origin": ""
+              "origin": "g+ah-neh loo-n+wah-b+oo"
             },
             "Furniture": {
               "swa": "Ifenisha",
-              "Pronunciation": "",
+              "Pronunciation": "e-fair-nee-sha",
               "origin": ""
             },
             "Further": {
               "swa": "Lokwengca loku",
-              "Pronunciation": "",
+              "Pronunciation": "lore-k+weh-n+g+c+ah lore-k+oo",
               "origin": ""
             },
             "Futile": {
               "swa": "Ngenasidzingo",
-              "Pronunciation": "",
+              "Pronunciation": "n+g+eh-nah-see-d+zee-n+go",
               "origin": ""
             },
             "Future": { "swa": "Likusasa", "Pronunciation": "", "origin": "" },
             "Fuzzy": {
-              "swa": "Mafonyofonyo",
-              "Pronunciation": "",
+              "swa": "Yabutelako",
+              "Pronunciation": "yah-b+oo-t+eh-lah-k+oh",
               "origin": ""
             }
           }
