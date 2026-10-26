@@ -8775,27 +8775,59 @@
               "origin": ""
             },
             "Vague": { "swa": "Ngevakali", "Pronunciation": "", "origin": "" },
-            "": { "swa": "", "Pronunciation": "", "origin": "" },
-            "": { "swa": "", "Pronunciation": "", "origin": "" },
-            "": { "swa": "", "Pronunciation": "", "origin": "" },
-            "": { "swa": "", "Pronunciation": "", "origin": "" },
-            "": { "swa": "", "Pronunciation": "", "origin": "" },
-            "": { "swa": "", "Pronunciation": "", "origin": "" },
-            "": { "swa": "", "Pronunciation": "", "origin": "" },
-            "": { "swa": "", "Pronunciation": "", "origin": "" },
-            "": { "swa": "", "Pronunciation": "", "origin": "" },
-            "": { "swa": "", "Pronunciation": "", "origin": "" },
-            "": { "swa": "", "Pronunciation": "", "origin": "" },
-            "": { "swa": "", "Pronunciation": "", "origin": "" },
-            "": { "swa": "", "Pronunciation": "", "origin": "" },
-            "": { "swa": "", "Pronunciation": "", "origin": "" },
-            "": { "swa": "", "Pronunciation": "", "origin": "" },
-            "": { "swa": "", "Pronunciation": "", "origin": "" },
-            "": { "swa": "", "Pronunciation": "", "origin": "" },
-            "": { "swa": "", "Pronunciation": "", "origin": "" },
-            "": { "swa": "", "Pronunciation": "", "origin": "" },
-            "": { "swa": "", "Pronunciation": "", "origin": "" },
-            "": { "swa": "", "Pronunciation": "", "origin": "" },
+            "Vain": { "swa": "Tichenyako", "Pronunciation": "", "origin": "" },
+            "Valet": {
+              "swa": "Insila,Inceku",
+              "Pronunciation": "",
+              "origin": ""
+            },
+            "Valiant": {
+              "swa": "Nesibindzi",
+              "Pronunciation": "",
+              "origin": ""
+            },
+            "Valid": { "swa": "Cinisile", "Pronunciation": "", "origin": "" },
+            "Validity": {
+              "swa": "Siciniseko, Vunyelwe",
+              "Pronunciation": "",
+              "origin": ""
+            },
+            "Valley": { "swa": "Sihosha", "Pronunciation": "", "origin": "" },
+            "Valour": { "swa": "Buchawe", "Pronunciation": "", "origin": "" },
+            "Valuable": { "swa": "Ligugu", "Pronunciation": "", "origin": "" },
+            "Valuation": {
+              "swa": "Sikali semandla entsengo",
+              "Pronunciation": "",
+              "origin": ""
+            },
+            "Value": { "swa": "Bumcoka", "Pronunciation": "", "origin": "" },
+            "Valueless": { "swa": "Lite", "Pronunciation": "", "origin": "" },
+            "Valve": { "swa": "Sidikiselo", "Pronunciation": "", "origin": "" },
+            "Van": { "swa": "Iveni", "Pronunciation": "", "origin": "" },
+            "Vandal": { "swa": "Sidlova", "Pronunciation": "", "origin": "" },
+            "Vandalism": {
+              "swa": "Budlova",
+              "Pronunciation": "",
+              "origin": ""
+            },
+            "Vanish": { "swa": "Nyamalala", "Pronunciation": "", "origin": "" },
+            "Vanity": {
+              "swa": "Kutati, Kutichenya",
+              "Pronunciation": "",
+              "origin": ""
+            },
+            "Vanquish": {
+              "swa": "Cumba phasi",
+              "Pronunciation": "",
+              "origin": ""
+            },
+            "Vaporise": { "swa": "Hamuka", "Pronunciation": "", "origin": "" },
+            "Vapour": { "swa": "Simoko", "Pronunciation": "", "origin": "" },
+            "Variable": {
+              "swa": "Gucugucukako",
+              "Pronunciation": "",
+              "origin": ""
+            },
             "": { "swa": "", "Pronunciation": "", "origin": "" },
             "": { "swa": "", "Pronunciation": "", "origin": "" },
             "": { "swa": "", "Pronunciation": "", "origin": "" },
