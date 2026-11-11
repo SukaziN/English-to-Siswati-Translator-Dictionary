@@ -67,7 +67,7 @@
       {
         "October": {
           "swa": "Imphala",
-          "Pronunciation": "im-pah-lah",
+          "Pronunciation": "im-par-lah",
           "origin": "Springbok season"
         }
       },
@@ -81,7 +81,7 @@
       {
         "December": {
           "swa": "Ingongoni",
-          "Pronunciation": "in+go-n+go-knee",
+          "Pronunciation": "in+go-n+g+oh-knee",
           "origin": "Buffalo season"
         }
       }
@@ -187,12 +187,17 @@
     ]
   },
   {
-    "animals": [
+    "joining": [
       {
-        "Domestic": [{ "swa": "", "Pronunciation": "", "origin": "" }],
-        "Wild": [{ "swa": "", "Pronunciation": "", "origin": "" }],
-        "Insects": [{ "swa": "", "Pronunciation": "", "origin": "" }],
-        "Water": [{ "swa": "", "Pronunciation": "", "origin": "" }]
+        "And": { "swa": "Futsi", "Pronunciation": "foo-t+see" },
+        "For": {
+          "swa": "Ye-, Be-, Kwe-, Se-",
+          "Pronunciation": "ye-"
+        },
+        "By": { "swa": "Ngu-", "Pronunciation": "n+g+oo-" },
+        "which": { "swa": "Loku-", "Pronunciation": "loh-k+oo-" },
+        "That": { "swa": "Loku-", "Pronunciation": "loh-k+oo-" },
+        "Whom": { "swa": "Lo-", "Pronunciation": "lo-" }
       }
     ]
   },
@@ -379,7 +384,7 @@
         },
         "Rectum": {
           "swa": "Induze",
-          "Pronunciation": "in-do-zay",
+          "Pronunciation": "in-doo-zay",
           "plural": ""
         },
         "vagina": {
@@ -450,62 +455,65 @@
       {
         "Nail": {
           "swa": "Kushaya emhlolweni",
-          "meaning": "To hit the nail on the head",
-          "equivalent": ""
+          "meaning": "To hit the nail on the head"
         },
         "Hand": {
           "swa": "Kufaka Sandla",
-          "meaning": "To help",
-          "equivalent": ""
+          "meaning": "To help"
         },
         "Take": {
           "swa": "Kudla ngemgobo",
-          "meaning": "To take what does not belong to you forcefully",
-          "equivalent": ""
+          "meaning": "To take what does not belong to you forcefully"
         },
         "Pass": {
-          "swa": "Kwengca ngelihubo",
-          "meaning": "To pass people without greeting or acknowledgement",
-          "equivalent": ""
+          "swa": "Kwengca ngelihubo/ Kushaya ushashabule",
+          "meaning": "To pass people without greeting or acknowledgement"
         },
         "Right": {
           "swa": "Kwenta kona",
-          "meaning": "To do the right thing/ to do something right",
-          "equivalent": ""
+          "meaning": "To do the right thing/ to do something right"
         },
         "Hope": {
           "swa": "Kugcina litsemba",
-          "meaning": "To stay hopeful",
-          "equivalent": ""
+          "meaning": "To stay hopeful"
         },
         "Loyal": {
           "swa": "Kubamba luhlangotsi",
-          "meaning": "To be loyal to a cause",
-          "equivalent": ""
+          "meaning": "To be loyal to a cause"
         },
         "Danger": {
           "swa": "Kusengela eluphondvweni",
-          "meaning": "To do something odd/ dangerous",
-          "equivalent": ""
+          "meaning": "To do something odd/ dangerous"
         },
         "News": {
           "swa": "Kumita litje",
-          "meaning": "To keep calm in the face of unpleasant news",
-          "equivalent": ""
+          "meaning": "To keep calm in the face of unpleasant news"
         },
         "Style": {
           "swa": "Kudla indvwangu",
-          "meaning": "To dress stylishly or elegantly",
-          "equivalent": ""
+          "meaning": "To dress stylishly or elegantly"
         }
       }
     ]
   },
   {
-    "formal": [
+    "prefixes": [
       {
-        "Miss": { "swa": "", "Pronunciation": "", "gender": "" },
-        "Mister": { "swa": "", "Pronunciation": "", "gender": "" }
+        "ownership": {
+          "swa": "ya-(insert owner here (singular use case)), ta-/ a-/ sa-/ ba-/ kwa-(plural use case, depending on first character of object's name)"
+        },
+        "location": {
+          "swa": "e-(insert place here), se-(if you're trying to convey where something or someone is PRESENTLY), ngase-(if you're using the place as a relativity point to convey direction or location)"
+        },
+        "objects": {
+          "swa": "i-(for singular), ti- /ema- (for plural, use one or the other depending on context), bo-(plural for people or animals)"
+        },
+        "nouns": {
+          "swa": "_ (people's names/ titles aren't preceded by anything, you just say the name/title)"
+        },
+        "With": {
+          "swa": "Na-(insert person's name here), Ne-(insert object here), Nge-(insert object with which an action was performed here)"
+        }
       }
     ]
   },

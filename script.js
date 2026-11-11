@@ -6,13 +6,13 @@ const swatiOutput = document.getElementById("swati-output");
 const loadingMessage = document.getElementById("loading");
 const errorMessage = document.getElementById("error");
 
-const enParts = ["Head", "Shoulders", "Knees", "Toes"];
+/*const enParts = ["Head", "Shoulders", "Knees", "Toes"];
 const parts = [
   { part: "Inhloko", pronunciation: "in-hclo-koh" },
   { part: "Emahlombe", pronunciation: "emma-hclo-m+bay" },
   { part: "Emadvolo", pronunciation: "emma-d+vo-low" },
   { part: "Tintwane", pronunciation: "t+in-ntd+wa-ne" },
-];
+];*/
 
 async function findTranslation(word) {
   try {
@@ -26,7 +26,7 @@ async function findTranslation(word) {
 
     if (translationData) {
       const data = translationData[formattedWord];
-      swatiOutput.innerHTML = `<h2>${data.swa}</h2><p><em>${data.Pronunciation})</em></p></br><p>${data.origin || ""}</p>`;
+      swatiOutput.innerHTML = `<h2>${data.swa}</h2><p><em>(${data.Pronunciation})</em></p></br><p>${data.origin || ""}</p>`;
     } else {
       swatiOutput.innerHTML = "<p> No siSwati translation found.</p>";
     }
