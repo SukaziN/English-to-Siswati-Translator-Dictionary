@@ -6,14 +6,6 @@ const swatiOutput = document.getElementById("swati-output");
 const loadingMessage = document.getElementById("loading");
 const errorMessage = document.getElementById("error");
 
-/*const enParts = ["Head", "Shoulders", "Knees", "Toes"];
-const parts = [
-  { part: "Inhloko", pronunciation: "in-hclo-koh" },
-  { part: "Emahlombe", pronunciation: "emma-hclo-m+bay" },
-  { part: "Emadvolo", pronunciation: "emma-d+vo-low" },
-  { part: "Tintwane", pronunciation: "t+in-ntd+wa-ne" },
-];*/
-
 async function findTranslation(word) {
   try {
     const response = await fetch("database.json");
@@ -22,12 +14,37 @@ async function findTranslation(word) {
     const formattedWord =
       word.charAt(0).toUpperCase() + word.slice(1).toLowerCase(); //so a match is found regardless of how the user chooses to input the word (capitalized first letter or small first letter)
 
-    let translationData = database[0].months.find((mon) => mon[formattedWord]);
+    let monthsData = database[0].months.find((mon) => mon[formattedWord]);
+    let numbersData = database[1].numbers.find((num) => num[formattedWord]);
+    let daysData = database[2].days.find((day) => day[formattedWord]);
+    let joiningData = database[3].joining.find((join) => join[formattedWord]);
+    let anatomyData = database[4].anatomy.find((ana) => ana[formattedWord]);
+    let prefixData = database[6].prefixes.find((pref) => pref[formattedWord]);
 
-    if (translationData) {
-      const data = translationData[formattedWord];
-      swatiOutput.innerHTML = `<h2>${data.swa}</h2><p><em>(${data.Pronunciation})</em></p></br><p>${data.origin || ""}</p>`;
-    } else {
+    //let alphabeticalData = database[7].alphabetical[0].find((a) => a[formattedWord]);
+
+    if (monthsData) {
+      const data = monthsData[formattedWord];
+      swatiOutput.innerHTML = `<h2>${data.swa}</h2><p></br><em>(${data.Pronunciation})</em></p></br><p>${data.origin || ""}</p>`;
+    } else if (numbersData) {
+      const numberData = numbersData[formattedWord];
+      swatiOutput.innerHTML = `<h2>${numberData.swa}</h2><p></br><em>(${numberData.Pronunciation})</em></p></br><p>${numberData.origin || ""}</p>`;
+    } else if (daysData) {
+      const dayData = daysData[formattedWord];
+      swatiOutput.innerHTML = `<h2>${dayData.swa}</h2><p></br><em>(${dayData.Pronunciation})</em></p></br><p>${dayData.origin || ""}</p>`;
+    } else if (joiningData) {
+      const joiningWord = joiningData[formattedWord];
+      swatiOutput.innerHTML = `<h2>${joiningWord.swa}</h2><p></br><em>(${joiningWord.Pronunciation})</em></p>`;
+    } else if (anatomyData) {
+      const part = anatomyData[formattedWord];
+      swatiOutput.innerHTML = `<h2>${part.swa}</h2><p></br><em>(${part.Pronunciation})</em></p></br><p>Plural: ${part.plural}</p>`;
+    } else if (prefixData) {
+      const prefix = prefixData[formattedWord];
+      swatiOutput.innerHTML = `<h2>${prefix.swa}</h2><p></br><em>(${prefix.Pronunciation})</em></p>`;
+    } /*else if (alphabeticalData) {
+      const alphaData = alphabeticalData[formattedWord];
+      swatiOutput.innerHTML = `<h2>${alphaData.swa}</h2><p><em>(${alphaData.Pronunciation})</em></p>`;
+    }*/ else {
       swatiOutput.innerHTML = "<p> No siSwati translation found.</p>";
     }
   } catch (error) {

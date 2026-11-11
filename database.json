@@ -499,15 +499,22 @@
   {
     "prefixes": [
       {
-        "ownership": {
+        "Hers": {
           "swa": "ya-(insert owner here (singular use case)), ta-/ a-/ sa-/ ba-/ kwa-(plural use case, depending on first character of object's name)"
         },
-        "location": {
+        "His": {
+          "swa": "ya-(insert owner here (singular use case)), ta-/ a-/ sa-/ ba-/ kwa-(plural use case, depending on first character of object's name)"
+        },
+        "Here": {
           "swa": "e-(insert place here), se-(if you're trying to convey where something or someone is PRESENTLY), ngase-(if you're using the place as a relativity point to convey direction or location)"
         },
-        "objects": {
-          "swa": "i-(for singular), ti- /ema- (for plural, use one or the other depending on context), bo-(plural for people or animals)"
+        "There": {
+          "swa": "e-(insert place here), se-(if you're trying to convey where something or someone is PRESENTLY), ngase-(if you're using the place as a relativity point to convey direction or location)"
         },
+        "This": {
+          "swa": "Le-(for singular), ti-/ Ema- (for plural, use one or the other depending on context), bo-(plural for people or animals)"
+        },
+
         "nouns": {
           "swa": "_ (people's names/ titles aren't preceded by anything, you just say the name/title)"
         },
@@ -11103,6 +11110,14 @@
             "Twinkle": {
               "swa": "Khatimula",
               "Pronunciation": "car-t+ee-moo-lah"
+            },
+            "That": {
+              "swa": "Leyo, Leya",
+              "Pronunciation": "leh-yo"
+            },
+            "Those": {
+              "swa": "Lawo, Leto, Labo, Lawa, Leta, Laba",
+              "Pronunciation": "lah-woe"
             },
             "Tycoon": { "swa": "Makhonya", "Pronunciation": "mah-core-n+yah" }
           }
