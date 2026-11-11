@@ -7,61 +7,22 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <h1>ENGLISH TO SISWATI TRANSLATOR DICTIONARY</h1>
-    <div id="icons">
-      <span class="icon"
-        ><img src="icons/Home.png" alt="home icon" />
-        <figcaption>Home</figcaption></span
-      >
-      <span class="icon">
-        <img src="icons/AtoZ.png" alt="a-z alphabetical sorting icon" />
-        <figcaption>Alphabetical order</figcaption></span
-      ><span class="icon">
-        <img
-          src="icons/Numbers.png"
-          alt="numbers icon"
-          onclick="showNumbers()"
-        />
-        <figcaption onclick="showNumbers()">Numbers</figcaption></span
-      >
-      <span class="icon">
-        <img
-          src="icons/Days.png"
-          alt="days of the week icon"
-          onclick="showDays()"
-        />
-        <figcaption onclick="showDays()">Days</figcaption></span
-      >
-      <span class="icon">
-        <img
-          src="icons/Months.png"
-          alt="months of the year icon"
-          onclick="showMonths()"
-        />
-        <figcaption onclick="showMonths()">Months</figcaption></span
-      >
-      <span class="icon">
-        <img src="icons/Animals.png" alt="animals icon" />
-        <figcaption>Animals</figcaption></span
-      >
-      <span class="icon">
-        <img
-          src="icons/Anatomy.png"
-          alt="parts of the body icon"
-          onclick="showParts()"
-        />
-        <figcaption onclick="showParts()">Body Parts</figcaption></span
-      >
-      <span class="icon">
-        <img src="icons/Formal.png" alt="formal terminology icon" />
-        <figcaption>Formal</figcaption></span
-      >
-      <span class="icon">
-        <img src="icons/Conversational.png" alt="idioms icon" />
-        <figcaption>Idioms</figcaption></span
-      >
-    </div>
-    <hr />
+    <header>
+      <h1>ENGLISH TO SISWATI TRANSLATOR DICTIONARY</h1>
+
+      <div id="guides">
+        <span class="guide">Prefixes</span>
+        <span class="guide"> Joining words</span
+        ><span class="guide" onclick="showNumbers()"> Numbers</span>
+        <span class="guide" onclick="showDays()"> Days</span>
+        <span class="guide" onclick="showMonths()"> Months</span>
+
+        <span class="guide" onclick="showParts()"> Body Parts</span>
+        <span class="guide"> Basic etiquette</span>
+        <span class="guide"> Idioms</span>
+      </div>
+    </header>
+    <br />
     <div id="search-tab">
       <input placeholder="Search words here" id="search-input" type="search" />
       <button type="button" id="search-button">Translate</button>
@@ -69,8 +30,10 @@
     <div id="loading">Searching, please wait...</div>
     <div id="error"></div>
 
-    <div id="swati-output"></div>
-    <div id="output"></div>
+    <div id="swati-output">Sawubona</div>
+    <div id="output">Hello</div>
+    <br />
+    <hr />
     <h2>pronunciation Tips</h2>
     <br />
     <em

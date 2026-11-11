@@ -17,7 +17,7 @@
 body {
   background-color: rgb(245, 242, 242);
 }
-h1 {
+header {
   background-color: crimson;
   padding: 0.5rem;
 }
@@ -26,24 +26,29 @@ h1,
   text-align: center;
   margin-bottom: 1.5rem;
 }
-#icons {
+#guides {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
 }
-.icon {
-  width: fit-content;
-  height: fit-content;
-}
-figcaption {
+.guide {
   font-weight: 600;
-  color: rgb(2, 2, 44);
+  box-shadow: 2px 1px 2px;
+  border-radius: 0.5rem;
+  background-color: rgb(240, 50, 88);
+  margin: 0.2rem;
+  padding: 0.1rem;
 }
+/*figcaption {
+  
+  color: rgb(2, 2, 44);
+}*/
 hr {
   margin-bottom: 1.5rem;
 }
-figcaption:hover {
+.guide:hover {
   cursor: pointer;
-  color: #0066cc;
+  color: whitesmoke;
+  background-color: crimson;
 }
 #search-input,
 #search-button {
@@ -56,12 +61,12 @@ figcaption:hover {
 #search-button {
   background-color: skyblue;
 }
-#icons {
+/*#icons {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
   z-index: 100;
-}
+}*/
 #today,
 #word-of-the-day,
 #alphabetical {
@@ -89,14 +94,19 @@ figcaption:hover {
   background-color: #0066cc;
   border: 1px solid yellow;
   margin-top: 1rem;
- 
 }
-#swati-output, #output {
- margin-bottom: 1rem;
+#swati-output,
+#output {
+  margin-bottom: 1rem;
 }
 #loading {
   display: none;
 }
 #error {
   color: red;
+}
+
+h2,
+ul {
+  margin-left: 1.5rem;
 }
