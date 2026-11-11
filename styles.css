@@ -26,30 +26,11 @@ h1,
   text-align: center;
   margin-bottom: 1.5rem;
 }
-#guides {
-  display: flex;
-  justify-content: space-between;
-}
-.guide {
-  font-weight: 600;
-  box-shadow: 2px 1px 2px;
-  border-radius: 0.5rem;
-  background-color: rgb(240, 50, 88);
-  margin: 0.2rem;
-  padding: 0.1rem;
-}
-/*figcaption {
-  
-  color: rgb(2, 2, 44);
-}*/
+
 hr {
   margin-bottom: 1.5rem;
 }
-.guide:hover {
-  cursor: pointer;
-  color: whitesmoke;
-  background-color: crimson;
-}
+
 #search-input,
 #search-button {
   line-height: 2rem;
@@ -61,20 +42,7 @@ hr {
 #search-button {
   background-color: skyblue;
 }
-/*#icons {
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  z-index: 100;
-}*/
-#today,
-#word-of-the-day,
-#alphabetical {
-  margin-bottom: 1.5rem;
-}
-#counting {
-  display: none;
-}
+
 #output,
 #swati-output {
   line-height: 2rem;
