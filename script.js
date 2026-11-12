@@ -13,6 +13,8 @@ async function findTranslation(word) {
 
     const formattedWord =
       word.charAt(0).toUpperCase() + word.slice(1).toLowerCase(); //so a match is found regardless of how the user chooses to input the word (capitalized first letter or small first letter)
+    const lowerCaseWord = word.toLowerCase();
+    const firstLetter = formattedWord.charAt(0);
 
     let monthsData = database[0].months.find((mon) => mon[formattedWord]);
     let numbersData = database[1].numbers.find((num) => num[formattedWord]);
@@ -21,7 +23,12 @@ async function findTranslation(word) {
     let anatomyData = database[4].anatomy.find((ana) => ana[formattedWord]);
     let prefixData = database[6].prefixes.find((pref) => pref[formattedWord]);
 
-    //let alphabeticalData = database[7][A].find((a) => a[formattedWord]); //access the alphabetical
+    const letterArray = database[7].alphabetical[0][firstLetter]; //access the alphabetical
+    let alphabeticalData = letterArray
+      ? letterArray.find(
+          (alpha) => alpha[formattedWord] || alpha[lowerCaseWord],
+        )
+      : null;
 
     if (monthsData) {
       const data = monthsData[formattedWord];
@@ -41,14 +48,14 @@ async function findTranslation(word) {
     } else if (prefixData) {
       const prefix = prefixData[formattedWord];
       swatiOutput.innerHTML = `<h2>${prefix.swa}</h2><p></br><em>(${prefix.Pronunciation})</em></p>`;
-    } /*else if (alphabeticalData) {
-      const alphaData = alphabeticalData[formattedWord];
-      swatiOutput.innerHTML = `<h2>${alphaData.swa}</h2><p><em>(${alphaData.Pronunciation})</em></p>`;
-    }*/ else {
+    } else if (alphabeticalData) {
+      const alphaData = alphabeticalData[formattedWord] || alpha[lowerCaseWord];
+      swatiOutput.innerHTML = `<h2>${alphaData.swa}</h2></br><p><em>(${alphaData.Pronunciation})</em></p>`;
+    } else {
       swatiOutput.innerHTML = "<p> No siSwati translation found.</p>";
     }
   } catch (error) {
-    console.error("Error fetching or parsing database:", error);
+    console.error("Error reading database.json:", error);
   }
 }
 
