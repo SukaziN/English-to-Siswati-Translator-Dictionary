@@ -23,7 +23,7 @@ async function findTranslation(word) {
     let anatomyData = database[4].anatomy.find((ana) => ana[formattedWord]);
     let prefixData = database[6].prefixes.find((pref) => pref[formattedWord]);
 
-    const letterArray = database[7].alphabetical[0][firstLetter]; //access the alphabetical
+    const letterArray = database[7].alphabetical[0][firstLetter];
     let alphabeticalData = letterArray
       ? letterArray.find(
           (alpha) => alpha[formattedWord] || alpha[lowerCaseWord],
