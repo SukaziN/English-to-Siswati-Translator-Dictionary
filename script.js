@@ -21,7 +21,7 @@ async function findTranslation(word) {
     let anatomyData = database[4].anatomy.find((ana) => ana[formattedWord]);
     let prefixData = database[6].prefixes.find((pref) => pref[formattedWord]);
 
-    //let alphabeticalData = database[7].alphabetical[0].find((a) => a[formattedWord]);
+    //let alphabeticalData = database[7][A].find((a) => a[formattedWord]); //access the alphabetical
 
     if (monthsData) {
       const data = monthsData[formattedWord];
